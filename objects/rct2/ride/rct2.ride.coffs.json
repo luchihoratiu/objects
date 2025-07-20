@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.coffs",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|COFFS   |10FA5768",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "drink_stall",
@@ -18,19 +12,9 @@
         "sells": "coffee",
         "disablePainting": true,
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                [
-                    "black",
-                    "black",
-                    "black"
-                ]
-            ]
-        ]
+        "carColours": [[["black", "black", "black"]]]
     },
-    "images": [
-        "$RCT2:OBJDATA/COFFS.DAT[0..6]"
-    ],
+    "images": ["$RCT2:OBJDATA/COFFS.DAT[0..6]"],
     "strings": {
         "name": {
             "en-GB": "Coffee Shop",
@@ -50,7 +34,8 @@
             "eo-ZZ": "Kafejo",
             "ca-ES": "Tenda de cafè",
             "fi-FI": "Kahvikoju",
-            "gl-ES": "Cafetaría"
+            "gl-ES": "Cafetaría",
+            "ro-RO": "Cafenea"
         },
         "description": {
             "en-GB": "An art-deco style shop selling cups of coffee",

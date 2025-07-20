@@ -1,9 +1,6 @@
 {
     "id": "official.scenery_small.support_structure_half",
-    "authors": [
-        "OpenRCT2 developers",
-        "Simon Foster"
-    ],
+    "authors": ["OpenRCT2 developers", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "official",
     "objectType": "scenery_small",
@@ -20,12 +17,7 @@
         "allowSupportsAbove": true,
         "supportsHavePrimaryColour": true
     },
-    "images": [
-        { "path": "images/0.png", "x": -32, "y": -20 },
-        { "path": "images/1.png", "x": -32, "y": -20 },
-        { "path": "images/0.png", "x": -32, "y": -20 },
-        { "path": "images/1.png", "x": -32, "y": -20 }
-    ],
+    "images": [{"path": "images/0.png","x": -32,"y": -20},{"path": "images/1.png","x": -32,"y": -20},{"path": "images/0.png","x": -32,"y": -20},{"path": "images/1.png","x": -32,"y": -20}],
     "strings": {
         "name": {
             "en-GB": "Support Structure",
@@ -48,7 +40,8 @@
             "fi-FI": "Tukirakenne",
             "gl-ES": "Estrutura de apoio",
             "ar-EG": "هيكل دعم",
-            "hu-HU": "Támasztószerkezet"
+            "hu-HU": "Támasztószerkezet",
+            "ro-RO": "Structură de Susținere"
         }
     }
 }

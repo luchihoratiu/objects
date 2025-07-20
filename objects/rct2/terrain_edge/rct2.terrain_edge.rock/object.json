@@ -1,26 +1,12 @@
 {
     "id": "rct2.terrain_edge.rock",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT2ERO|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        "$G1[5593]",
-        "$G1[1579..1654]",
-        { "path": "images/01655.png", "x": -2, "y": -31 },
-        "$G1[1656]",
-        { "path": "images/01657.png", "x": -25, "y": -31 },
-        "$G1[1658..1662]"
-    ],
+    "properties": {},
+    "images": ["$G1[5593]", "$G1[1579..1654]",{"path": "images/01655.png","x": -2,"y": -31}, "$G1[1656]",{"path": "images/01657.png","x": -25,"y": -31}, "$G1[1658..1662]"],
     "strings": {
         "name": {
             "en-GB": "Rock",
@@ -36,7 +22,8 @@
             "fi-FI": "Kivinen",
             "zh-CN": "石头",
             "ru-RU": "Камень",
-            "gl-ES": "Rocha"
+            "gl-ES": "Rocha",
+            "es-ES": "Roca"
         }
     }
 }

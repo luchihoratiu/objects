@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_wall.wc3",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188083|WC3     |6D7B0A93",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_wall",
     "properties": {
         "isBanner": true,
@@ -18,9 +12,7 @@
         "price": 110,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": [
-        "$RCT2:OBJDATA/WC3.DAT[0..11]"
-    ],
+    "images": ["$RCT2:OBJDATA/WC3.DAT[0..11]"],
     "strings": {
         "name": {
             "en-GB": "Roman Column Wall",
@@ -34,7 +26,7 @@
             "zh-CN": "罗马圆柱墙",
             "zh-TW": "羅馬圓柱牆",
             "pt-BR": "Muro de Colunas Romanas",
-            "cs-CZ": "Stěna římských sloupů",
+            "cs-CZ": "Stěna z římských sloupů",
             "ja-JP": "ローマの柱の壁",
             "pl-PL": "Ściana z rzymskich kolumn",
             "ru-RU": "Римская стена-колонна",

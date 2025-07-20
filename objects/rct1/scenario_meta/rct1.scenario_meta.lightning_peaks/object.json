@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.lightning_peaks",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX917 |83335085",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "قمم الضوء",
@@ -27,7 +20,8 @@
             "pt-BR": "Picos do Relâmpago",
             "zh-CN": "闪电峰",
             "pl-PL": "Piorunowe Szczyty",
-            "gl-ES": "Cumes do Raio"
+            "gl-ES": "Cumes do Raio",
+            "ro-RO": "Vârfurile Fulgerului"
         },
         "park_name": {
             "ar-EG": "قمم الضوء",
@@ -42,7 +36,8 @@
             "pt-BR": "Picos do Relâmpago",
             "zh-CN": "闪电峰",
             "pl-PL": "Piorunowe Szczyty",
-            "gl-ES": "Cumes do Raio"
+            "gl-ES": "Cumes do Raio",
+            "ro-RO": "Vârfurile Fulgerului"
         },
         "details": {
             "ar-EG": "تحظى جبال \"قمم الضوء\" الجميلة بشعبية كبيرة بين المشاة والمتنزهين - استخدم الأرض المتاحة لجذب زوار جدد يبحثون عن الإثارة",

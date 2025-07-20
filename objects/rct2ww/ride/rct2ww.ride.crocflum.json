@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.ride.crocflum",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0E10|CROCFLUM|E73057F7",
     "sourceGame": "rct2ww",
@@ -13,73 +11,10 @@
         "tabScale": 0.5,
         "playSplashSound": true,
         "noCollisionCrashes": true,
-        "carColours": [
-            [
-                [
-                    "dark_brown",
-                    "black",
-                    "yellow"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 278912,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "logFlumeReverserVehicleType": 1,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [
-                    6,
-                    4,
-                    -7,
-                    -9
-                ]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 8716,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [
-                    6,
-                    4,
-                    -7,
-                    -9
-                ]
-            }
-        ]
+        "carColours": [[["dark_brown", "black", "yellow"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 278912,"mass": 250,"numSeats": 4,"numSeatRows": 2,"logFlumeReverserVehicleType": 1,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"hasAdditionalColour1": true,"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]},{"rotationFrameMask": 31,"spacing": 8716,"mass": 250,"numSeats": 4,"numSeatRows": 2,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]}]
     },
-    "images": [
-        "$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"
-    ],
+    "images": ["$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"],
     "strings": {
         "name": {
             "en-GB": "Crocodile Boats",
@@ -125,7 +60,7 @@
             "en-GB": "4 passengers per boat",
             "fr-FR": "4 passagers par voiture",
             "de-DE": "4 Fahrgäste pro Boot",
-            "es-ES": "4 pasajeros por vagón",
+            "es-ES": "4 pasajeros por bote",
             "it-IT": "4 passeggeri per imbarcazione",
             "nl-NL": "4 passagiers per boot",
             "sv-SE": "4 passagerare per båt",

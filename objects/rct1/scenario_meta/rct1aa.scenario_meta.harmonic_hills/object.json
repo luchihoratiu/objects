@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.harmonic_hills",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX938 |BA0EBCB0",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "السهول المتناغمة",
@@ -26,7 +19,8 @@
             "pt-BR": "Colinas Harmônicas",
             "zh-CN": "和声山丘",
             "pl-PL": "Harmonijne wzgórza",
-            "gl-ES": "Outeiros Harmónicos"
+            "gl-ES": "Outeiros Harmónicos",
+            "ro-RO": "Dealurile Harmonice"
         },
         "park_name": {
             "ar-EG": "السهول المتناغمة",
@@ -40,7 +34,8 @@
             "pt-BR": "Colinas Harmônicas",
             "zh-CN": "和声山丘",
             "pl-PL": "Harmonijne wzgórza",
-            "gl-ES": "Outeiros Harmónicos"
+            "gl-ES": "Outeiros Harmónicos",
+            "ro-RO": "Dealurile Harmonice"
         },
         "details": {
             "ar-EG": "لن تسمح لك السلطة المحلية بالبناء فوق ارتفاع الشجر في هذه الحديقة",

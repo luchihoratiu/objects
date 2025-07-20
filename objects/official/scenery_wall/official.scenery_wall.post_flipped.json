@@ -1,9 +1,6 @@
 {
     "id": "official.scenery_wall.post_flipped",
-    "authors": [
-        "OpenRCT2 developers",
-        "Simon Foster"
-    ],
+    "authors": ["OpenRCT2 developers", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "official",
     "objectType": "scenery_wall",
@@ -13,14 +10,7 @@
         "height": 4,
         "price": 70
     },
-    "images": [
-        "$RCT2:OBJDATA/WALLPOST.DAT[6..7]",
-        "",
-        "",
-        "",
-        "",
-        "$RCT2:OBJDATA/WALLPOST.DAT[0..1]"
-    ],
+    "images": ["$RCT2:OBJDATA/WALLPOST.DAT[6..7]", "", "", "", "", "$RCT2:OBJDATA/WALLPOST.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Post",
@@ -41,7 +31,8 @@
             "fi-FI": "Tolppa",
             "gl-ES": "Poste",
             "ar-EG": "عمود",
-            "hu-HU": "Oszlop"
+            "hu-HU": "Oszlop",
+            "ro-RO": "Stâlp"
         }
     }
 }

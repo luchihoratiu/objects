@@ -1,18 +1,11 @@
 {
     "id": "rct2.scenario_meta.lucky_lake",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "0A18808A|STEX14  |C67B9380",
-    "sourceGame": [
-        "rct2"
-    ],
+    "sourceGame": ["rct2"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Llac de la sort",
@@ -21,7 +14,7 @@
             "eo-ZZ": "Bonŝanca Lago",
             "es-ES": "Lago Suerte",
             "fi-FI": "Onnenjärvi",
-            "fr-FR": "Lucky Lac",
+            "fr-FR": "Lac de la fortune",
             "hu-HU": "Szerencsés-tó",
             "it-IT": "Lago fortunato",
             "ja-JP": "ラッキー・レイク",
@@ -40,7 +33,7 @@
             "eo-ZZ": "Bonŝanca Lago",
             "es-ES": "Lago Suerte",
             "fi-FI": "Onnenjärvi",
-            "fr-FR": "Lucky Lac",
+            "fr-FR": "Lac de la fortune",
             "hu-HU": "Szerencsés-tó",
             "it-IT": "Lago fortunato",
             "ko-KR": "행운의 호수",

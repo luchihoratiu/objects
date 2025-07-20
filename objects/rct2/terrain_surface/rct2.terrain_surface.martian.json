@@ -1,29 +1,16 @@
 {
     "id": "rct2.terrain_surface.martian",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SMA|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [
-            62,
-            62
-        ],
+        "mapColours": [62, 62],
         "smoothWithOther": true
     },
-    "images": [
-        "$G1[5583]",
-        "$G1[28995..29000]",
-        "$G1[2314..2370]"
-    ],
+    "images": ["$G1[5583]", "$G1[28995..29000]", "$G1[2314..2370]"],
     "strings": {
         "name": {
             "en-GB": "Martian",
@@ -41,7 +28,8 @@
             "zh-CN": "火星人",
             "ru-RU": "Марсианская",
             "gl-ES": "Marciano",
-            "cs-CZ": "Mars"
+            "cs-CZ": "Mars",
+            "es-ES": "Marciano"
         }
     }
 }

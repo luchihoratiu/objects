@@ -1,9 +1,6 @@
 {
     "id": "rct1aa.ride.ski_lift_cars",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1SFT|00000000",
     "sourceGame": "rct1aa",
@@ -17,29 +14,7 @@
             "intensity": 36,
             "nausea": 18
         },
-        "carColours": [
-            [
-                [
-                    "white",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "white",
-                    "dark_green",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "white",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["white", "bright_red", "black"]],[["white", "dark_green", "black"]],[["black", "white", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 147456,
@@ -53,83 +28,12 @@
             },
             "hasAdditionalColour1": true,
             "isChairlift": true,
-            "loadingPositions": [
-                4,
-                0
-            ]
+            "loadingPositions": [4, 0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[36717..36732]",
-        "$CSG[36733]",
-        "$CSG[36736]",
-        "$CSG[36739]",
-        "$CSG[36742]",
-        "$CSG[36734]",
-        "$CSG[36737]",
-        "$CSG[36740]",
-        "$CSG[36743]",
-        "$CSG[36735]",
-        "$CSG[36738]",
-        "$CSG[36741]",
-        "$CSG[36744]",
-        "$CSG[36745..36760]",
-        "$CSG[36761]",
-        "$CSG[36764]",
-        "$CSG[36767]",
-        "$CSG[36770]",
-        "$CSG[36762]",
-        "$CSG[36765]",
-        "$CSG[36768]",
-        "$CSG[36771]",
-        "$CSG[36763]",
-        "$CSG[36766]",
-        "$CSG[36769]",
-        "$CSG[36772]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/CLIFT2.DAT[3]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[5]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[7]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[9]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[11]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[13]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[15]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[17]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[19]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[21]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[23]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[25]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[27]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[29]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[31]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[33]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[35..46]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[47]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[49]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[51]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[53]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[55]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[57]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[59]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[61]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[63]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[65]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[67]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[69]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[71]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[73]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[75]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[77]",
-        "$RCT2:OBJDATA/CLIFT2.DAT[79..90]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[36717..36732]", "$CSG[36733]", "$CSG[36736]", "$CSG[36739]", "$CSG[36742]", "$CSG[36734]", "$CSG[36737]", "$CSG[36740]", "$CSG[36743]", "$CSG[36735]", "$CSG[36738]", "$CSG[36741]", "$CSG[36744]", "$CSG[36745..36760]", "$CSG[36761]", "$CSG[36764]", "$CSG[36767]", "$CSG[36770]", "$CSG[36762]", "$CSG[36765]", "$CSG[36768]", "$CSG[36771]", "$CSG[36763]", "$CSG[36766]", "$CSG[36769]", "$CSG[36772]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/CLIFT2.DAT[3]", "$RCT2:OBJDATA/CLIFT2.DAT[5]", "$RCT2:OBJDATA/CLIFT2.DAT[7]", "$RCT2:OBJDATA/CLIFT2.DAT[9]", "$RCT2:OBJDATA/CLIFT2.DAT[11]", "$RCT2:OBJDATA/CLIFT2.DAT[13]", "$RCT2:OBJDATA/CLIFT2.DAT[15]", "$RCT2:OBJDATA/CLIFT2.DAT[17]", "$RCT2:OBJDATA/CLIFT2.DAT[19]", "$RCT2:OBJDATA/CLIFT2.DAT[21]", "$RCT2:OBJDATA/CLIFT2.DAT[23]", "$RCT2:OBJDATA/CLIFT2.DAT[25]", "$RCT2:OBJDATA/CLIFT2.DAT[27]", "$RCT2:OBJDATA/CLIFT2.DAT[29]", "$RCT2:OBJDATA/CLIFT2.DAT[31]", "$RCT2:OBJDATA/CLIFT2.DAT[33]", "$RCT2:OBJDATA/CLIFT2.DAT[35..46]", "$RCT2:OBJDATA/CLIFT2.DAT[47]", "$RCT2:OBJDATA/CLIFT2.DAT[49]", "$RCT2:OBJDATA/CLIFT2.DAT[51]", "$RCT2:OBJDATA/CLIFT2.DAT[53]", "$RCT2:OBJDATA/CLIFT2.DAT[55]", "$RCT2:OBJDATA/CLIFT2.DAT[57]", "$RCT2:OBJDATA/CLIFT2.DAT[59]", "$RCT2:OBJDATA/CLIFT2.DAT[61]", "$RCT2:OBJDATA/CLIFT2.DAT[63]", "$RCT2:OBJDATA/CLIFT2.DAT[65]", "$RCT2:OBJDATA/CLIFT2.DAT[67]", "$RCT2:OBJDATA/CLIFT2.DAT[69]", "$RCT2:OBJDATA/CLIFT2.DAT[71]", "$RCT2:OBJDATA/CLIFT2.DAT[73]", "$RCT2:OBJDATA/CLIFT2.DAT[75]", "$RCT2:OBJDATA/CLIFT2.DAT[77]", "$RCT2:OBJDATA/CLIFT2.DAT[79..90]"],
     "strings": {
         "name": {
             "en-GB": "Ski-lift Chairs",
@@ -151,7 +55,8 @@
             "ca-ES": "Telecadires",
             "fi-FI": "Hiihtohissivaunut",
             "gl-ES": "Cadeiras de telesquí",
-            "ar-EG": "كراسي مصعد التزلج"
+            "ar-EG": "كراسي مصعد التزلج",
+            "ro-RO": "Scaune de Teleschi"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -173,7 +78,8 @@
             "ca-ES": "Cotxes oberts per al telecadira.",
             "fi-FI": "Avoilmavaunut tuolihissiin",
             "gl-ES": "Coches abertos para telecadeira",
-            "ar-EG": "عربات مفتوحة للتلفريك"
+            "ar-EG": "عربات مفتوحة للتلفريك",
+            "ro-RO": "Vagoane deschise pentru teleschi"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -195,7 +101,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "ro-RO": "2 pasageri per vagon"
         }
     }
 }

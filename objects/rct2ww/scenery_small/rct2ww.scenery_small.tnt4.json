@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.tnt4",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0511|TNT4    |A690C263",
     "sourceGame": "rct2ww",
@@ -16,12 +14,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TNT4.DAT[0]",
-        "$RCT2:OBJDATA/TNT4.DAT[2]",
-        "$RCT2:OBJDATA/TNT4.DAT[1]",
-        "$RCT2:OBJDATA/TNT4.DAT[3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TNT4.DAT[0]", "$RCT2:OBJDATA/TNT4.DAT[2]", "$RCT2:OBJDATA/TNT4.DAT[1]", "$RCT2:OBJDATA/TNT4.DAT[3]"],
     "strings": {
         "name": {
             "en-GB": "TNT Crates",
@@ -32,7 +25,7 @@
             "nl-NL": "TNT-kisten",
             "sv-SE": "TNT-lådor",
             "zh-CN": "装炸药箱",
-            "cs-CZ": "Bedna dynamitu",
+            "cs-CZ": "Bedny dynamitu",
             "ko-KR": "TNT 상자",
             "pl-PL": "Skrzynie z dynamitem",
             "ru-RU": "Ящики TNT",

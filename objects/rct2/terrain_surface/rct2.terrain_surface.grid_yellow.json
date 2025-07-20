@@ -1,28 +1,16 @@
 {
     "id": "rct2.terrain_surface.grid_yellow",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SIY|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "terrain_surface",
     "properties": {
         "colour": "bright_yellow",
-        "mapColours": [
-            54,
-            10
-        ],
+        "mapColours": [54, 10],
         "price": 110
     },
-    "images": [
-        "$G1[5588]",
-        "$G1[2257..2313]"
-    ],
+    "images": ["$G1[5588]", "$G1[2257..2313]"],
     "strings": {
         "name": {
             "en-GB": "Grid (Yellow)",
@@ -40,7 +28,8 @@
             "zh-CN": "网格(黄)",
             "ru-RU": "Сетка (жёлтая)",
             "gl-ES": "Reixa (amarela)",
-            "cs-CZ": "Mřížka (žlutá)"
+            "cs-CZ": "Mřížka (žlutá)",
+            "es-ES": "Cuadrícula (amarilla)"
         }
     }
 }

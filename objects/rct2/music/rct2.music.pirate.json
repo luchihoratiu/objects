@@ -1,24 +1,13 @@
 {
     "id": "rct2.music.pirate",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC30|00000000",
-    "sourceGame": [
-        "rct2"
-    ],
+    "sourceGame": ["rct2"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 30,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css44.dat",
-                "name": "Drunken Sailor",
-                "composer": "Unknown"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css44.dat","name": "Drunken Sailor","composer": "Unknown"}]
     },
     "strings": {
         "name": {
@@ -44,7 +33,8 @@
             "zh-TW": "海盜風格",
             "eo-ZZ": "Pirato-stilo",
             "nb-NO": "Pirat-stil",
-            "gl-ES": "Estilo pirata"
+            "gl-ES": "Estilo pirata",
+            "ro-RO": "Stil Pirați"
         }
     }
 }

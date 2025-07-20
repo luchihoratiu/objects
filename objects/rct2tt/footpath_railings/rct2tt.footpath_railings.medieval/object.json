@@ -1,12 +1,8 @@
 {
     "id": "rct2tt.footpath_railings.medieval",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -14,10 +10,7 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/MEDIPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/MEDIPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Medieval Railings",
@@ -35,7 +28,8 @@
             "ru-RU": "Средневековые перила",
             "ja-JP": "中世の手すり",
             "gl-ES": "Varandas medievais",
-            "cs-CZ": "Středověké zábradlí"
+            "cs-CZ": "Středověké zábradlí",
+            "es-ES": "Barandillas Medievales"
         }
     }
 }

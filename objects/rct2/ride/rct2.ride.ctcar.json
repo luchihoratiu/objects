@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.ctcar",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CTCAR   |2082E6E1",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
@@ -21,69 +15,11 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "white",
-                    "bordeaux_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "dark_green",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "salmon_pink",
-                    "saturated_brown",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 148172,
-                "mass": 300,
-                "numSeats": 2,
-                "numSeatRows": 1,
-                "poweredAcceleration": 70,
-                "poweredMaxSpeed": 7,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [
-                    3,
-                    -3
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 70,
-                "poweredMaxSpeed": 7,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ],
+        "carColours": [[["white", "bordeaux_red", "black"]],[["black", "dark_green", "black"]],[["salmon_pink", "saturated_brown", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 148172,"mass": 300,"numSeats": 2,"numSeatRows": 1,"poweredAcceleration": 70,"poweredMaxSpeed": 7,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [3, -3]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 70,"poweredMaxSpeed": 7,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/CTCAR.DAT[0..210]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/CTCAR.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Cheshire Cats",
@@ -104,7 +40,8 @@
             "eo-ZZ": "Ĉeŝiraj Katoj",
             "ca-ES": "Gats Cheshire",
             "fi-FI": "Irvikissat",
-            "gl-ES": "Gatos de Cheshire"
+            "gl-ES": "Gatos de Cheshire",
+            "ro-RO": "Pisici Cheshire"
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles",

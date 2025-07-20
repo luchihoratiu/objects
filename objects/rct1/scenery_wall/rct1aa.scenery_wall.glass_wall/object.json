@@ -1,9 +1,6 @@
 {
     "id": "rct1aa.scenery_wall.glass_wall",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "isCompatibilityObject": true,
@@ -18,18 +15,8 @@
         "price": 60,
         "sceneryGroup": "rct2.scenery_group.scgabstr"
     },
-    "images": [
-        { "path": "images/1.png", "x": -31, "y": -21 },
-        { "path": "images/2.png", "x": -1, "y": -20 },
-        { "path": "images/3.png", "x": -31, "y": -37 },
-        { "path": "images/4.png", "x": -1, "y": -37 },
-        { "path": "images/5.png", "x": -31, "y": -20 },
-        { "path": "images/6.png", "x": -1, "y": -20 },
-        "$CSG[63101..63106]"
-    ],
-    "noCsgImages": [
-        "$RCT2:OBJDATA/WALLGL16.DAT[0..11]"
-    ],
+    "images": [{"path": "images/1.png","x": -31,"y": -21},{"path": "images/2.png","x": -1,"y": -20},{"path": "images/3.png","x": -31,"y": -37},{"path": "images/4.png","x": -1,"y": -37},{"path": "images/5.png","x": -31,"y": -20},{"path": "images/6.png","x": -1,"y": -20}, "$CSG[63101..63106]"],
+    "noCsgImages": ["$RCT2:OBJDATA/WALLGL16.DAT[0..11]"],
     "strings": {
         "name": {
             "en-GB": "Glass Wall",
@@ -52,7 +39,8 @@
             "fi-FI": "Lasiseinä",
             "gl-ES": "Muro de Vidro",
             "ar-EG": "جدار زجاجي",
-            "hu-HU": "Üvegfal"
+            "hu-HU": "Üvegfal",
+            "ro-RO": "Perete de Sticlă"
         }
     }
 }

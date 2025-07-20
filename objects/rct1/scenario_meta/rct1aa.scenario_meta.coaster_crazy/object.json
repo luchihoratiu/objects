@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.coaster_crazy",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX948 |CFC11386",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "جنون الأفعوانيات",
@@ -26,7 +19,8 @@
             "pt-BR": "Encostas Loucas",
             "zh-CN": "狂热过山车",
             "pl-PL": "Kolejkowe szaleństwo",
-            "gl-ES": "Tolo pola montaña rusa"
+            "gl-ES": "Tolo pola montaña rusa",
+            "ro-RO": "Nebunie de Montagne Russe"
         },
         "park_name": {
             "ar-EG": "جنون الأفعوانيات",
@@ -40,7 +34,8 @@
             "pt-BR": "Encostas Loucas",
             "zh-CN": "狂热过山车",
             "pl-PL": "Kolejkowe szaleństwo",
-            "gl-ES": "Tolo pola montaña rusa"
+            "gl-ES": "Tolo pola montaña rusa",
+            "ro-RO": "Nebunie de Montagne Russe"
         },
         "details": {
             "ar-EG": "لديك أموال محدودة ولكن لديك وقت غير محدود لتحويل هذه المنطقة الجبلية إلى حديقة أفعوانيات شاسعة",
@@ -64,7 +59,8 @@
             "zh-CN": "用有限的金钱和无限的时间把这个山脚下的地区变成一个巨大的游乐园吧",
             "zh-TW": "你擁有有限的金錢但無限的時間來將這個山區轉變成一個巨大的雲霄飛車樂園",
             "ru-RU": "У вас есть ограниченное количество денег - но неограниченное количество времени - чтобы превратить эту горную область в огромный парк аттракционов",
-            "gl-ES": "Tes fondos limitados pero tempo ilimitado para converter esta zona montañosa nun vasto parque de montaña rusa"
+            "gl-ES": "Tes fondos limitados pero tempo ilimitado para converter esta zona montañosa nun vasto parque de montaña rusa",
+            "ro-RO": "Ai fonduri limitate, dar timp nelimitat pentru a transforma această zonă de munte într-un parc vast de montagne russe"
         }
     }
 }

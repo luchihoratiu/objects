@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.leafy_lake",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX902 |60D57271",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "بحيرة ليفي",
@@ -27,7 +20,8 @@
             "pt-BR": "Lago Frondoso",
             "zh-CN": "茂林湖",
             "pl-PL": "Jezioro liściaste",
-            "gl-ES": "Lago frondoso"
+            "gl-ES": "Lago frondoso",
+            "ro-RO": "Lacul Leafy"
         },
         "park_name": {
             "ar-EG": "بحيرة ليفي",
@@ -42,7 +36,8 @@
             "pt-BR": "Lago Frondoso",
             "zh-CN": "茂林湖",
             "pl-PL": "Jezioro liściaste",
-            "gl-ES": "Lago frondoso"
+            "gl-ES": "Lago frondoso",
+            "ro-RO": "Lacul Leafy"
         },
         "details": {
             "ar-EG": "إبدء من لاشئ، إبني حديقة مزدهرة حول بركة كبيرة",

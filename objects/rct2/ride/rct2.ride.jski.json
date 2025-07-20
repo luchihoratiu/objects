@@ -1,50 +1,19 @@
 {
     "id": "rct2.ride.jski",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|JSKI    |E08C3F3A",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
-        "category": [
-            "water",
-            "thrill"
-        ],
+        "category": ["water", "thrill"],
         "ratingMultipler": {
             "excitement": 75,
             "intensity": 75,
             "nausea": 40
         },
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "white",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "bright_pink",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["bright_red", "yellow", "black"]],[["white", "bright_red", "black"]],[["black", "bright_pink", "black"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 183036,
@@ -60,15 +29,11 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [
-                0
-            ]
+            "loadingPositions": [0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/JSKI.DAT[0..66]"
-    ],
+    "images": ["$RCT2:OBJDATA/JSKI.DAT[0..66]"],
     "strings": {
         "name": {
             "en-GB": "Jet Skis",
@@ -88,7 +53,8 @@
             "ca-ES": "Motos d’aigua",
             "fi-FI": "Vesiskootterit",
             "fr-FR": "Jet ski",
-            "gl-ES": "Motos acuáticas"
+            "gl-ES": "Motos acuáticas",
+            "ro-RO": "Jet Ski-uri"
         },
         "description": {
             "en-GB": "Single-seater jet skis which riders can drive themselves",
@@ -109,7 +75,8 @@
             "eo-ZZ": "Akvo-motorsledoj, kiujn rajdantoj povas stiri per si mem",
             "ca-ES": "Motos d’aigua monoplaça que els passatgers poden conduir.",
             "fi-FI": "Yksipaikkaiset vesiskootterit, joita matkustajat voivat itse ohjata",
-            "gl-ES": "Motos acuáticas de un asento que os visitantes poden conducir por si mesmos"
+            "gl-ES": "Motos acuáticas de un asento que os visitantes poden conducir por si mesmos",
+            "ro-RO": "Jet ski-uri pentru o persoană pe care călăreții le pot conduce singuri"
         },
         "capacity": {
             "en-GB": "1 rider per vehicle",
@@ -130,7 +97,8 @@
             "eo-ZZ": "Po 1 rajdanto por veturilo",
             "ca-ES": "1 passatger per moto",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "gl-ES": "1 piloto por vehículo"
+            "gl-ES": "1 piloto por vehículo",
+            "ro-RO": "1 călărețpervehicul"
         }
     }
 }

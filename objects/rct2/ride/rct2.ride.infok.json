@@ -1,34 +1,17 @@
 {
     "id": "rct2.ride.infok",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|INFOK   |6888ED73",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "information_kiosk",
         "category": "stall",
         "clearance": 48,
-        "sells": [
-            "map",
-            "umbrella"
-        ],
+        "sells": ["map", "umbrella"],
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["bright_red", "black", "black"]]],
         "cars": {
             "spacing": 139456,
             "spriteWidth": 1,
@@ -42,9 +25,7 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/INFOK.DAT[0..6]"
-    ],
+    "images": ["$RCT2:OBJDATA/INFOK.DAT[0..6]"],
     "strings": {
         "name": {
             "en-GB": "Information Kiosk",
@@ -66,7 +47,8 @@
             "eo-ZZ": "Informokiosko",
             "ca-ES": "Quiosc d’informació",
             "fi-FI": "Infokioski",
-            "gl-ES": "Quiosco de información"
+            "gl-ES": "Quiosco de información",
+            "ro-RO": "Chioșc de Informații"
         },
         "description": {
             "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",

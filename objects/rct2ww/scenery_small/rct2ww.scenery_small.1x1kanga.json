@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.1x1kanga",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0F11|1X1KANGA|091559A0",
     "sourceGame": "rct2ww",
@@ -16,9 +14,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/1X1KANGA.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/1X1KANGA.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Kangaroo",
@@ -29,7 +25,7 @@
             "nl-NL": "Kangoeroe",
             "sv-SE": "Känguru",
             "zh-CN": "袋鼠",
-            "cs-CZ": "Klokat",
+            "cs-CZ": "Klokan",
             "ko-KR": "캥거루",
             "pl-PL": "Kangur",
             "ru-RU": "Кенгуру",

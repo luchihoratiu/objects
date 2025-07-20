@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.trinity_islands",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX906 |BBDCA2D2",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "الجزيرة الثلاثية",
@@ -27,7 +20,8 @@
             "pt-BR": "Ilhas da Trindade",
             "zh-CN": "三体群岛",
             "pl-PL": "Wyspy Trójcy",
-            "gl-ES": "Illas Trindade"
+            "gl-ES": "Illas Trindade",
+            "ro-RO": "Insulele Trinity"
         },
         "park_name": {
             "ar-EG": "الجزيرة الثلاثية",
@@ -43,7 +37,8 @@
             "pt-BR": "Ilhas da Trindade",
             "zh-CN": "三体群岛",
             "pl-PL": "Wyspy Trójcy",
-            "gl-ES": "Illas Trindade"
+            "gl-ES": "Illas Trindade",
+            "ro-RO": "Insulele Trinity"
         },
         "details": {
             "ar-EG": "عدة جزر تشكل الأساس لهذه الحديقة",

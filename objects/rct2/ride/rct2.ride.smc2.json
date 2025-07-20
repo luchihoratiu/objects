@@ -1,9 +1,6 @@
 {
     "id": "rct2.ride.smc2",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SMC2    |8A13DDE5",
     "sourceGame": "rct2",
@@ -17,69 +14,11 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "light_brown",
-                    "bordeaux_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "dark_brown",
-                    "bordeaux_red",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 174320,
-                "mass": 440,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [
-                    7,
-                    9,
-                    -3,
-                    -1
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "hasScreamingRiders": true
-            }
-        ],
+        "carColours": [[["light_brown", "bordeaux_red", "black"]],[["dark_brown", "bordeaux_red", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 174320,"mass": 440,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [7, 9, -3, -1]},{"rotationFrameMask": 0,"spacing": 34864,"frictionSoundId": 2,"soundRange": 2,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"hasScreamingRiders": true}],
         "buildMenuPriority": 2
     },
-    "images": [
-        "$RCT2:OBJDATA/SMC2.DAT[1]",
-        "",
-        "",
-        "$RCT2:OBJDATA/SMC2.DAT[3..554]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/SMC2.DAT[1]", "", "", "$RCT2:OBJDATA/SMC2.DAT[3..554]", ""],
     "strings": {
         "name": {
             "en-GB": "Mine Cars",
@@ -106,7 +45,7 @@
             "en-GB": "Individual cars shaped like wooden mine trucks",
             "fr-FR": "Voitures individuelles en forme de chariot de mine en bois",
             "de-DE": "Einzelne Wagen in Form von hölzernen Minenkarren",
-            "es-ES": "Vehículos individuales con forma de vagonetas de madera",
+            "es-ES": "Coches individuales con forma de vagonetas de madera",
             "it-IT": "Carrozze individuali a forma di carri da miniera di legno",
             "nl-NL": "Losse karretjes in de vorm van een houten mijnkarretje.",
             "sv-SE": "Singelvagnar i form av gruvvagnar i trä",
@@ -127,7 +66,7 @@
             "en-GB": "4 passengers per car",
             "fr-FR": "4 passagers par voiture",
             "de-DE": "4 Fahrgäste pro Wagen",
-            "es-ES": "4 pasajeros por vagón",
+            "es-ES": "4 pasajeros por Coches",
             "it-IT": "4 passeggeri a carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",

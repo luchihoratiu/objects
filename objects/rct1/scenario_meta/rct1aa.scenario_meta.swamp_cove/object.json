@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.swamp_cove",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX940 |15624E4C",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "La cova del pantà",
@@ -26,7 +19,8 @@
             "zh-CN": "沼泽湾",
             "pl-PL": "Bagienna Zatoka",
             "gl-ES": "Ensenada Pantanosa",
-            "ar-EG": "خليج المستنقع"
+            "ar-EG": "خليج المستنقع",
+            "ro-RO": "Golful Mlaștinii"
         },
         "park_name": {
             "ca-ES": "La cova del pantà",
@@ -40,7 +34,8 @@
             "zh-CN": "沼泽湾",
             "pl-PL": "Bagienna Zatoka",
             "gl-ES": "Ensenada Pantanosa",
-            "ar-EG": "خليج المستنقع"
+            "ar-EG": "خليج المستنقع",
+            "ro-RO": "Golful Mlaștinii"
         },
         "details": {
             "ca-ES": "Construït parcialment en illes petites, aquest parc ja disposa d’un parell de muntanyes russes enormes com a peces centrals.",

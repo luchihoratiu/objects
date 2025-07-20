@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.romroof2",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|ROMROOF2|F76F73A1",
     "sourceGame": "rct2",
@@ -22,9 +19,7 @@
         "hasNoSupports": true,
         "allowSupportsAbove": true
     },
-    "images": [
-        "$RCT2:OBJDATA/ROMROOF2.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/ROMROOF2.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Plinth",
@@ -38,7 +33,7 @@
             "zh-CN": "圆柱柱脚",
             "zh-TW": "圓柱柱腳",
             "pt-BR": "Base",
-            "cs-CZ": "Sloup",
+            "cs-CZ": "Podstavec",
             "ja-JP": "台座",
             "pl-PL": "Cokół",
             "ru-RU": "Плинтус",

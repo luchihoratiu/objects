@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.evergreen_gardens",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX904 |10B85C2A",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "الحدائق الخضراء دائماً",
@@ -27,7 +20,8 @@
             "pt-BR": "Jardins Perenes",
             "zh-CN": "常青花园",
             "pl-PL": "Ogród Wiecznej Zieleni",
-            "gl-ES": "Xardíns perennes"
+            "gl-ES": "Xardíns perennes",
+            "ro-RO": "Grădinile Evergreen"
         },
         "park_name": {
             "ar-EG": "الحدائق الخضراء دائماً",
@@ -42,7 +36,8 @@
             "pt-BR": "Jardins Perenes",
             "zh-CN": "常青花园",
             "pl-PL": "Ogród Wiecznej Zieleni",
-            "gl-ES": "Xardíns perennes"
+            "gl-ES": "Xardíns perennes",
+            "ro-RO": "Grădinile Evergreen"
         },
         "details": {
             "ar-EG": "حول الحدائق الخضراء دائماً إلى مدينة ترفيهية مزدهرة",

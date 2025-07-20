@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.flamngo1",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0511|FLAMNGO1|28E8B1E8",
     "sourceGame": "rct2ww",
@@ -21,28 +19,9 @@
         "isAnimated": true,
         "isStackable": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-        ]
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     },
-    "images": [
-        "$RCT2:OBJDATA/FLAMNGO1.DAT[0..67]"
-    ],
+    "images": ["$RCT2:OBJDATA/FLAMNGO1.DAT[0..67]"],
     "strings": {
         "name": {
             "en-GB": "Flamingo Feeding",
@@ -53,7 +32,7 @@
             "nl-NL": "Etende flamingo",
             "sv-SE": "Flamingo som äter",
             "zh-CN": "饲育红鹤",
-            "cs-CZ": "Plameňák",
+            "cs-CZ": "Plameňák (krmící se)",
             "ko-KR": "먹이를 먹는 홍학",
             "pl-PL": "Flaming żerujący",
             "ru-RU": "Фламинго (питающийся)",

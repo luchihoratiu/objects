@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.whispering_cliffs",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX921 |15B5E45C",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Els penya-segats murmuriosos",
@@ -27,7 +20,8 @@
             "zh-CN": "耳语崖",
             "pl-PL": "Szepczące skały",
             "gl-ES": "Cantil murmurador",
-            "ar-EG": "المنحدرات الهامسة"
+            "ar-EG": "المنحدرات الهامسة",
+            "ro-RO": "Stâncile Șoaptelor"
         },
         "park_name": {
             "ca-ES": "Els penya-segats murmuriosos",
@@ -42,7 +36,8 @@
             "zh-CN": "耳语崖",
             "pl-PL": "Szepczące skały",
             "gl-ES": "Cantil murmurador",
-            "ar-EG": "المنحدرات الهامسة"
+            "ar-EG": "المنحدرات الهامسة",
+            "ro-RO": "Stâncile Șoaptelor"
         },
         "details": {
             "ca-ES": "Desenvolupeu els penya-segats i convertiu-los en un parc d’atraccions pròsper.",

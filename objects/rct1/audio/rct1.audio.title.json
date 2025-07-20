@@ -1,18 +1,10 @@
 {
     "id": "rct1.audio.title",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
-    "sourceGame": [
-        "rct1",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct1", "rct1ll"],
     "objectType": "audio",
-    "samples": [
-        "$RCT1:DATA/CSS17.DAT"
-    ],
+    "samples": ["$RCT1:DATA/CSS17.DAT"],
     "strings": {
         "name": {
             "en-GB": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
@@ -30,7 +22,8 @@
             "ru-RU": "Музыка главного меню RollerCoaster Tycoon (Loopy Landscapes).",
             "gl-ES": "Música da pantalla de título de RollerCoaster Tycoon (Loopy Landscapes)",
             "ar-EG": "موسيقى شاشة العنوان للعبة RollerCoaster Tycoon (Loopy Landscapes).",
-            "cs-CZ": "Úvodní hudba pro RollerCoaster Tycoon (Loopy Landscapes)."
+            "cs-CZ": "Úvodní hudba pro RollerCoaster Tycoon (Loopy Landscapes).",
+            "ro-RO": "Muzica ecranului de titlu pentru RollerCoaster Tycoon (Loopy Landscapes)."
         }
     }
 }

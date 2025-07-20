@@ -1,9 +1,6 @@
 {
     "id": "rct1aa.ride.vintage_cars",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1VCR|00000000",
     "sourceGame": "rct1aa",
@@ -19,168 +16,12 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "bordeaux_red",
-                    "black",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "yellow",
-                    "black",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "black",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "saturated_green",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 15,
-                "spacing": 165604,
-                "mass": 330,
-                "numSeats": 2,
-                "numSeatRows": 1,
-                "poweredAcceleration": 60,
-                "poweredMaxSpeed": 7,
-                "drawOrder": 6,
-                "spriteGroups": {
-                    "slopeFlat": 16,
-                    "slopes12": 4,
-                    "slopes25": 4
-                },
-                "isPowered": true,
-                "loadingPositions": [
-                    4,
-                    -4
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 60,
-                "poweredMaxSpeed": 7,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ],
+        "carColours": [[["bordeaux_red", "black", "black"]],[["yellow", "black", "black"]],[["black", "black", "black"]],[["saturated_green", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 15,"spacing": 165604,"mass": 330,"numSeats": 2,"numSeatRows": 1,"poweredAcceleration": 60,"poweredMaxSpeed": 7,"drawOrder": 6,"spriteGroups": {"slopeFlat": 16,"slopes12": 4,"slopes25": 4},"isPowered": true,"loadingPositions": [4, -4]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 60,"poweredMaxSpeed": 7,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}],
         "buildMenuPriority": 2
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[32813..32828]",
-        "$CSG[32829]",
-        "$CSG[32833]",
-        "$CSG[32837]",
-        "$CSG[32841]",
-        "$CSG[32831]",
-        "$CSG[32835]",
-        "$CSG[32839]",
-        "$CSG[32843]",
-        "$CSG[32830]",
-        "$CSG[32834]",
-        "$CSG[32838]",
-        "$CSG[32842]",
-        "$CSG[32832]",
-        "$CSG[32836]",
-        "$CSG[32840]",
-        "$CSG[32844]",
-        "$CSG[32845..32860]",
-        "$CSG[32861]",
-        "$CSG[32865]",
-        "$CSG[32869]",
-        "$CSG[32873]",
-        "$CSG[32863]",
-        "$CSG[32867]",
-        "$CSG[32871]",
-        "$CSG[32875]",
-        "$CSG[32862]",
-        "$CSG[32866]",
-        "$CSG[32870]",
-        "$CSG[32874]",
-        "$CSG[32864]",
-        "$CSG[32868]",
-        "$CSG[32872]",
-        "$CSG[32876]",
-        ""
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/VCR.DAT[3]",
-        "$RCT2:OBJDATA/VCR.DAT[5]",
-        "$RCT2:OBJDATA/VCR.DAT[7]",
-        "$RCT2:OBJDATA/VCR.DAT[9]",
-        "$RCT2:OBJDATA/VCR.DAT[11]",
-        "$RCT2:OBJDATA/VCR.DAT[13]",
-        "$RCT2:OBJDATA/VCR.DAT[15]",
-        "$RCT2:OBJDATA/VCR.DAT[17]",
-        "$RCT2:OBJDATA/VCR.DAT[19]",
-        "$RCT2:OBJDATA/VCR.DAT[21]",
-        "$RCT2:OBJDATA/VCR.DAT[23]",
-        "$RCT2:OBJDATA/VCR.DAT[25]",
-        "$RCT2:OBJDATA/VCR.DAT[27]",
-        "$RCT2:OBJDATA/VCR.DAT[29]",
-        "$RCT2:OBJDATA/VCR.DAT[31]",
-        "$RCT2:OBJDATA/VCR.DAT[33]",
-        "$RCT2:OBJDATA/VCR.DAT[35..42]",
-        "$RCT2:OBJDATA/VCR.DAT[43]",
-        "$RCT2:OBJDATA/VCR.DAT[51]",
-        "$RCT2:OBJDATA/VCR.DAT[59]",
-        "$RCT2:OBJDATA/VCR.DAT[67]",
-        "$RCT2:OBJDATA/VCR.DAT[75]",
-        "$RCT2:OBJDATA/VCR.DAT[83]",
-        "$RCT2:OBJDATA/VCR.DAT[91]",
-        "$RCT2:OBJDATA/VCR.DAT[99]",
-        "$RCT2:OBJDATA/VCR.DAT[107]",
-        "$RCT2:OBJDATA/VCR.DAT[109]",
-        "$RCT2:OBJDATA/VCR.DAT[111]",
-        "$RCT2:OBJDATA/VCR.DAT[113]",
-        "$RCT2:OBJDATA/VCR.DAT[115]",
-        "$RCT2:OBJDATA/VCR.DAT[117]",
-        "$RCT2:OBJDATA/VCR.DAT[119]",
-        "$RCT2:OBJDATA/VCR.DAT[121]",
-        "$RCT2:OBJDATA/VCR.DAT[123]",
-        "$RCT2:OBJDATA/VCR.DAT[125]",
-        "$RCT2:OBJDATA/VCR.DAT[127]",
-        "$RCT2:OBJDATA/VCR.DAT[129]",
-        "$RCT2:OBJDATA/VCR.DAT[131]",
-        "$RCT2:OBJDATA/VCR.DAT[133]",
-        "$RCT2:OBJDATA/VCR.DAT[135]",
-        "$RCT2:OBJDATA/VCR.DAT[137]",
-        "$RCT2:OBJDATA/VCR.DAT[139..146]",
-        "$RCT2:OBJDATA/VCR.DAT[147]",
-        "$RCT2:OBJDATA/VCR.DAT[155]",
-        "$RCT2:OBJDATA/VCR.DAT[163]",
-        "$RCT2:OBJDATA/VCR.DAT[171]",
-        "$RCT2:OBJDATA/VCR.DAT[179]",
-        "$RCT2:OBJDATA/VCR.DAT[187]",
-        "$RCT2:OBJDATA/VCR.DAT[195]",
-        "$RCT2:OBJDATA/VCR.DAT[203]",
-        ""
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[32813..32828]", "$CSG[32829]", "$CSG[32833]", "$CSG[32837]", "$CSG[32841]", "$CSG[32831]", "$CSG[32835]", "$CSG[32839]", "$CSG[32843]", "$CSG[32830]", "$CSG[32834]", "$CSG[32838]", "$CSG[32842]", "$CSG[32832]", "$CSG[32836]", "$CSG[32840]", "$CSG[32844]", "$CSG[32845..32860]", "$CSG[32861]", "$CSG[32865]", "$CSG[32869]", "$CSG[32873]", "$CSG[32863]", "$CSG[32867]", "$CSG[32871]", "$CSG[32875]", "$CSG[32862]", "$CSG[32866]", "$CSG[32870]", "$CSG[32874]", "$CSG[32864]", "$CSG[32868]", "$CSG[32872]", "$CSG[32876]", ""],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/VCR.DAT[3]", "$RCT2:OBJDATA/VCR.DAT[5]", "$RCT2:OBJDATA/VCR.DAT[7]", "$RCT2:OBJDATA/VCR.DAT[9]", "$RCT2:OBJDATA/VCR.DAT[11]", "$RCT2:OBJDATA/VCR.DAT[13]", "$RCT2:OBJDATA/VCR.DAT[15]", "$RCT2:OBJDATA/VCR.DAT[17]", "$RCT2:OBJDATA/VCR.DAT[19]", "$RCT2:OBJDATA/VCR.DAT[21]", "$RCT2:OBJDATA/VCR.DAT[23]", "$RCT2:OBJDATA/VCR.DAT[25]", "$RCT2:OBJDATA/VCR.DAT[27]", "$RCT2:OBJDATA/VCR.DAT[29]", "$RCT2:OBJDATA/VCR.DAT[31]", "$RCT2:OBJDATA/VCR.DAT[33]", "$RCT2:OBJDATA/VCR.DAT[35..42]", "$RCT2:OBJDATA/VCR.DAT[43]", "$RCT2:OBJDATA/VCR.DAT[51]", "$RCT2:OBJDATA/VCR.DAT[59]", "$RCT2:OBJDATA/VCR.DAT[67]", "$RCT2:OBJDATA/VCR.DAT[75]", "$RCT2:OBJDATA/VCR.DAT[83]", "$RCT2:OBJDATA/VCR.DAT[91]", "$RCT2:OBJDATA/VCR.DAT[99]", "$RCT2:OBJDATA/VCR.DAT[107]", "$RCT2:OBJDATA/VCR.DAT[109]", "$RCT2:OBJDATA/VCR.DAT[111]", "$RCT2:OBJDATA/VCR.DAT[113]", "$RCT2:OBJDATA/VCR.DAT[115]", "$RCT2:OBJDATA/VCR.DAT[117]", "$RCT2:OBJDATA/VCR.DAT[119]", "$RCT2:OBJDATA/VCR.DAT[121]", "$RCT2:OBJDATA/VCR.DAT[123]", "$RCT2:OBJDATA/VCR.DAT[125]", "$RCT2:OBJDATA/VCR.DAT[127]", "$RCT2:OBJDATA/VCR.DAT[129]", "$RCT2:OBJDATA/VCR.DAT[131]", "$RCT2:OBJDATA/VCR.DAT[133]", "$RCT2:OBJDATA/VCR.DAT[135]", "$RCT2:OBJDATA/VCR.DAT[137]", "$RCT2:OBJDATA/VCR.DAT[139..146]", "$RCT2:OBJDATA/VCR.DAT[147]", "$RCT2:OBJDATA/VCR.DAT[155]", "$RCT2:OBJDATA/VCR.DAT[163]", "$RCT2:OBJDATA/VCR.DAT[171]", "$RCT2:OBJDATA/VCR.DAT[179]", "$RCT2:OBJDATA/VCR.DAT[187]", "$RCT2:OBJDATA/VCR.DAT[195]", "$RCT2:OBJDATA/VCR.DAT[203]", ""],
     "strings": {
         "name": {
             "en-GB": "Vintage Cars",
@@ -202,7 +43,8 @@
             "ca-ES": "Cotxes vintage",
             "fi-FI": "Vintage-autot",
             "gl-ES": "Coches antigos",
-            "ar-EG": "سيارات كلاسيكية"
+            "ar-EG": "سيارات كلاسيكية",
+            "ro-RO": "Mașini de Epocă"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of vintage cars",
@@ -224,7 +66,8 @@
             "ca-ES": "Vehicles decorats com a cotxes vintage.",
             "fi-FI": "Moottoroidut vintage-autojen muotoiset ajoneuvot",
             "gl-ES": "Vehículos motorizados coa forma de coches antigos",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات كلاسيكية"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات كلاسيكية",
+            "ro-RO": "Vehicule cu motor în formă de mașini de epocă"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -246,7 +89,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per auto",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل سيارة"
+            "ar-EG": "راكبان لكل سيارة",
+            "ro-RO": "2 pasageri per mașină"
         }
     }
 }

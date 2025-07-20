@@ -1,70 +1,13 @@
 {
     "id": "openrct2.footpath_surface.invisible",
-    "authors": [
-        "OpenRCT2 developers"
-    ],
+    "authors": ["OpenRCT2 developers"],
     "version": "1.0",
-    "sourceGame": [
-        "official"
-    ],
+    "sourceGame": ["official"],
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
+    "images": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
     "strings": {
         "name": {
             "en-GB": "Invisible Footpath",
@@ -83,7 +26,9 @@
             "ru-RU": "Невидимая тропа",
             "gl-ES": "Camiño Invisible",
             "ja-JP": "見えない歩道",
-            "cs-CZ": "Neviditelná cesta"
+            "cs-CZ": "Neviditelná cesta",
+            "es-ES": "Sendero Invisible",
+            "ro-RO": "Alee Invizibilă"
         }
     }
 }

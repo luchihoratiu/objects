@@ -1,50 +1,19 @@
 {
     "id": "rct2.ride.bboat",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|BBOAT   |732C7635",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
-        "category": [
-            "water",
-            "thrill"
-        ],
+        "category": ["water", "thrill"],
         "ratingMultipler": {
             "excitement": 30,
             "intensity": 15,
             "nausea": 15
         },
-        "carColours": [
-            [
-                [
-                    "yellow",
-                    "light_blue",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "light_blue",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "dark_green",
-                    "yellow",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["yellow", "light_blue", "black"]],[["bright_red", "light_blue", "black"]],[["dark_green", "yellow", "black"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 183036,
@@ -60,16 +29,11 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3]
         },
         "buildMenuPriority": 5
     },
-    "images": [
-        "$RCT2:OBJDATA/BBOAT.DAT[0..66]"
-    ],
+    "images": ["$RCT2:OBJDATA/BBOAT.DAT[0..66]"],
     "strings": {
         "name": {
             "en-GB": "Bumper Boats",
@@ -90,13 +54,14 @@
             "eo-ZZ": "Doĝemo-Boatoj",
             "ca-ES": "Bots inflables",
             "fi-FI": "Kumiveneet",
-            "gl-ES": "Barcos de choque"
+            "gl-ES": "Barcos de choque",
+            "ro-RO": "Bărci cu Ciocniri"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
             "fr-FR": "Petit canot pneumatique de forme circulaire alimenté par un moteur central que contrôlent les passagers",
             "de-DE": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
-            "es-ES": "Botes pequeños,inflables y redondos propulsados por un motor central controlado por los pasajeros",
+            "es-ES": "Botes pequeños, inflables y redondos propulsados por un motor central controlado por los pasajeros",
             "it-IT": "Piccoli canotti circolari, alimentati da un motore montato al centro e controllati dai passeggeri",
             "nl-NL": "Kleine ronde bootjes, aangedreven door een centrale motor en bestuurd door de passagiers.",
             "sv-SE": "Små runda gummibåtar som drivs av en mittmonterad motor och styrs av passagerarna",

@@ -1,23 +1,14 @@
 {
     "id": "rct1.footpath_surface.crazy_paving",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44493..44543]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44493..44543]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Crazy Paving Footpath (Sloped)",
@@ -39,7 +30,8 @@
             "eo-ZZ": "Freneza-Pavima Trotuaro (Dekliva)",
             "ca-ES": "Camí d’empedrat boig (amb rampes)",
             "fi-FI": "Hulluttelupolku (mäellä)",
-            "gl-ES": "Camiño de Lousas Tolas (Inclinadas)"
+            "gl-ES": "Camiño de Lousas Tolas (Inclinadas)",
+            "ro-RO": "Alee cu Pavaj Nebun (Înclinată)"
         }
     }
 }

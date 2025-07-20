@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.colagum",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|COLAGUM |9FFA33A5",
     "sourceGame": "rct2",
@@ -18,9 +15,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/COLAGUM.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/COLAGUM.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Cola Candy",
@@ -34,7 +29,7 @@
             "zh-CN": "可乐糖果",
             "zh-TW": "可樂糖果",
             "pt-BR": "Doce de Cola",
-            "cs-CZ": "Gumové cukrovinky",
+            "cs-CZ": "Gumový bonbón",
             "ja-JP": "コーラキャンディー",
             "pl-PL": "Cola cukierek",
             "ru-RU": "Конфета со вкусом колы",

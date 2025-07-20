@@ -1,58 +1,16 @@
 {
     "id": "rct2.terrain_surface.chequerboard",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SCH|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [
-            10,
-            16
-        ],
-        "special": [
-            {
-                "rotation": 1,
-                "index": 3
-            },
-            {
-                "rotation": 1,
-                "grid": true,
-                "index": 4
-            },
-            {
-                "rotation": 1,
-                "underground": true,
-                "index": 5
-            },
-            {
-                "rotation": 3,
-                "index": 3
-            },
-            {
-                "rotation": 3,
-                "grid": true,
-                "index": 4
-            },
-            {
-                "rotation": 3,
-                "underground": true,
-                "index": 5
-            }
-        ]
+        "mapColours": [10, 16],
+        "special": [{"rotation": 1,"index": 3},{"rotation": 1,"grid": true,"index": 4},{"rotation": 1,"underground": true,"index": 5},{"rotation": 3,"index": 3},{"rotation": 3,"grid": true,"index": 4},{"rotation": 3,"underground": true,"index": 5}]
     },
-    "images": [
-        "$G1[5584]",
-        "$G1[2371..2427]",
-        "$G1[2428..2484]"
-    ],
+    "images": ["$G1[5584]", "$G1[2371..2427]", "$G1[2428..2484]"],
     "strings": {
         "name": {
             "en-GB": "Chequerboard",
@@ -71,7 +29,8 @@
             "zh-CN": "西洋棋棋盘",
             "ru-RU": "Шахматная доска",
             "gl-ES": "Taboleiro de Damas",
-            "cs-CZ": "Šachovnice"
+            "cs-CZ": "Šachovnice",
+            "es-ES": "Tablero de Ajedrez"
         }
     }
 }

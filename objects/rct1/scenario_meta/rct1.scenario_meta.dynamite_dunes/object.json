@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.dynamite_dunes",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX901 |F6CAF308",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "كثبان الديناميت",
@@ -27,7 +20,8 @@
             "pt-BR": "Dunas Dinamite",
             "zh-CN": "炸药山丘",
             "pl-PL": "Wybuchowe Wydmy",
-            "gl-ES": "Dunas de dinamita"
+            "gl-ES": "Dunas de dinamita",
+            "ro-RO": "Dunele Dinamitei"
         },
         "park_name": {
             "ar-EG": "كثبان الديناميت",
@@ -42,7 +36,8 @@
             "pt-BR": "Dunas Dinamite",
             "zh-CN": "炸药山丘",
             "pl-PL": "Wybuchowe Wydmy",
-            "gl-ES": "Dunas de dinamita"
+            "gl-ES": "Dunas de dinamita",
+            "ro-RO": "Dunele Dinamitei"
         },
         "details": {
             "ar-EG": "بُني في وسط الصحراء، هذا المتنزه يحتوي على أفعوانية دوارة واحدة فقط ولكن لديه مساحة للتوسع",

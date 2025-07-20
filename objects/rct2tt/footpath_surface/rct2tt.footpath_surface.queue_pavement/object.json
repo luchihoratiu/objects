@@ -1,20 +1,13 @@
 {
     "id": "rct2tt.footpath_surface.queue_pavement",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/1920PATH.DAT[72]",
-        "$RCT2:OBJDATA/1920PATH.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/1920PATH.DAT[72]", "$RCT2:OBJDATA/1920PATH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Pavement Queue",
@@ -33,7 +26,8 @@
             "ru-RU": "Тротуар для очереди",
             "ja-JP": "アスファルト行列",
             "gl-ES": "Fila de Pavimento",
-            "cs-CZ": "Dlážděná fronta"
+            "cs-CZ": "Dlážděná fronta",
+            "es-ES": "Cola de Pavimento"
         }
     }
 }

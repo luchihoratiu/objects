@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.pickle_park",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX945 |2C41ECB5",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Parc dels cogombrets",
@@ -25,7 +18,8 @@
             "pt-BR": "Parque dos Picles",
             "zh-CN": "腌黄瓜公园",
             "pl-PL": "Kiszonkowa Kraina",
-            "ar-EG": "حديقة بيكل"
+            "ar-EG": "حديقة بيكل",
+            "ro-RO": "Parcul Pickle"
         },
         "park_name": {
             "ca-ES": "Parc dels cogombrets",
@@ -38,7 +32,8 @@
             "pt-BR": "Parque dos Picles",
             "zh-CN": "腌黄瓜公园",
             "pl-PL": "Kiszonkowa Kraina",
-            "ar-EG": "حديقة بيكل"
+            "ar-EG": "حديقة بيكل",
+            "ro-RO": "Parcul Pickle"
         },
         "details": {
             "ca-ES": "L’autoritat local no permetrà campanyes de màrqueting. El parc haurà d’aconseguir tirar endavant només amb la seva reputació.",

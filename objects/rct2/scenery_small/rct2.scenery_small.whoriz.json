@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.whoriz",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F81|WHORIZ  |8EB1913D",
     "sourceGame": "rct2",
@@ -21,20 +18,9 @@
         "isStackable": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-        ]
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7]
     },
-    "images": [
-        "$RCT2:OBJDATA/WHORIZ.DAT[0..35]"
-    ],
+    "images": ["$RCT2:OBJDATA/WHORIZ.DAT[0..35]"],
     "strings": {
         "name": {
             "en-GB": "Water Jet",
@@ -48,7 +34,7 @@
             "zh-CN": "水上摩托车",
             "zh-TW": "水上摩托車",
             "pt-BR": "Jato d’Água",
-            "cs-CZ": "Vodní proud",
+            "cs-CZ": "Vodní tryska",
             "ja-JP": "ウォータージェット",
             "pl-PL": "Armatka wodna",
             "ru-RU": "Водомёт",

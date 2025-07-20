@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.butterfly_dam",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX935 |24648149",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "سد الفراشات",
@@ -26,7 +19,8 @@
             "pt-BR": "Barragem da Borboleta",
             "zh-CN": "蝴蝶坝",
             "pl-PL": "Tama Motyli",
-            "gl-ES": "Presa de bolboreta"
+            "gl-ES": "Presa de bolboreta",
+            "ro-RO": "Barajul Fluturelui"
         },
         "park_name": {
             "ar-EG": "سد الفراشات",
@@ -40,7 +34,8 @@
             "pt-BR": "Barragem da Borboleta",
             "zh-CN": "蝴蝶坝",
             "pl-PL": "Tama Motyli",
-            "gl-ES": "Presa de bolboreta"
+            "gl-ES": "Presa de bolboreta",
+            "ro-RO": "Barajul Fluturelui"
         },
         "details": {
             "ar-EG": "المنطقة حول السد متوفرة لكي تطورها إلي حديقة ترفيهية",
@@ -64,7 +59,8 @@
             "zh-CN": "大坝周边的区域可以供你开发成一个主题公园",
             "zh-TW": "這個圍繞水霸的地方現可由你任意發展成一個樂園",
             "ru-RU": "Вам доступна область вокруг дамбы для строения парка",
-            "gl-ES": "A área arredor dunha presa está dispoñible para que a desenvolvas nun parque de atraccións"
+            "gl-ES": "A área arredor dunha presa está dispoñible para que a desenvolvas nun parque de atraccións",
+            "ro-RO": "Zona din jurul unui baraj este disponibilă pentru a fi dezvoltată într-un parc de distracții"
         }
     }
 }

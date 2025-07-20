@@ -1,9 +1,6 @@
 {
     "id": "rct2.ride.4x4",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|4X4     |0DB8676C",
     "sourceGame": "rct2",
@@ -24,73 +21,10 @@
             "nausea": 10
         },
         "maxHeight": 18,
-        "carColours": [
-            [
-                [
-                    "yellow",
-                    "grey",
-                    "bright_red"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "yellow",
-                    "yellow"
-                ]
-            ],
-            [
-                [
-                    "dark_green",
-                    "bordeaux_red",
-                    "light_orange"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 165604,
-                "mass": 500,
-                "tabOffset": 4,
-                "numSeats": 2,
-                "numSeatRows": 1,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [
-                    4,
-                    -4
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "hasAdditionalColour2": true,
-                "isPowered": true
-            }
-        ]
+        "carColours": [[["yellow", "grey", "bright_red"]],[["bright_red", "yellow", "yellow"]],[["dark_green", "bordeaux_red", "light_orange"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 165604,"mass": 500,"tabOffset": 4,"numSeats": 2,"numSeatRows": 1,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [4, -4]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"hasAdditionalColour2": true,"isPowered": true}]
     },
-    "images": [
-        "$RCT2:OBJDATA/4X4.DAT[0..394]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/4X4.DAT[0..394]", ""],
     "strings": {
         "name": {
             "en-GB": "Monster Trucks",
@@ -112,7 +46,8 @@
             "sv-SE": "Monstertruckar",
             "ca-ES": "Camions monstruosos",
             "fi-FI": "Monsteriautot",
-            "gl-ES": "Camións monstro"
+            "gl-ES": "Camións monstro",
+            "ro-RO": "Camioane Monstru"
         },
         "description": {
             "en-GB": "Powered giant 4 x 4 trucks which can climb steep slopes",

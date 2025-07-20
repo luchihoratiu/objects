@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.bumper_boats",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1BBT|00000000",
     "sourceGame": "rct1",
@@ -11,38 +8,13 @@
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
-        "category": [
-            "water",
-            "thrill"
-        ],
+        "category": ["water", "thrill"],
         "ratingMultipler": {
             "excitement": 40,
             "intensity": 32,
             "nausea": 30
         },
-        "carColours": [
-            [
-                [
-                    "yellow",
-                    "light_blue",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "light_blue",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "dark_green",
-                    "yellow",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["yellow", "light_blue", "black"]],[["bright_red", "light_blue", "black"]],[["dark_green", "yellow", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 182272,
@@ -58,56 +30,12 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [
-                3,
-                -3
-            ]
+            "loadingPositions": [3, -3]
         },
         "buildMenuPriority": 5
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[32685..32716]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/BBOAT.DAT[3]",
-        "$RCT2:OBJDATA/BBOAT.DAT[5]",
-        "$RCT2:OBJDATA/BBOAT.DAT[7]",
-        "$RCT2:OBJDATA/BBOAT.DAT[9]",
-        "$RCT2:OBJDATA/BBOAT.DAT[11]",
-        "$RCT2:OBJDATA/BBOAT.DAT[13]",
-        "$RCT2:OBJDATA/BBOAT.DAT[15]",
-        "$RCT2:OBJDATA/BBOAT.DAT[17]",
-        "$RCT2:OBJDATA/BBOAT.DAT[19]",
-        "$RCT2:OBJDATA/BBOAT.DAT[21]",
-        "$RCT2:OBJDATA/BBOAT.DAT[23]",
-        "$RCT2:OBJDATA/BBOAT.DAT[25]",
-        "$RCT2:OBJDATA/BBOAT.DAT[27]",
-        "$RCT2:OBJDATA/BBOAT.DAT[29]",
-        "$RCT2:OBJDATA/BBOAT.DAT[31]",
-        "$RCT2:OBJDATA/BBOAT.DAT[33]",
-        "$RCT2:OBJDATA/BBOAT.DAT[35]",
-        "$RCT2:OBJDATA/BBOAT.DAT[37]",
-        "$RCT2:OBJDATA/BBOAT.DAT[39]",
-        "$RCT2:OBJDATA/BBOAT.DAT[41]",
-        "$RCT2:OBJDATA/BBOAT.DAT[43]",
-        "$RCT2:OBJDATA/BBOAT.DAT[45]",
-        "$RCT2:OBJDATA/BBOAT.DAT[47]",
-        "$RCT2:OBJDATA/BBOAT.DAT[49]",
-        "$RCT2:OBJDATA/BBOAT.DAT[51]",
-        "$RCT2:OBJDATA/BBOAT.DAT[53]",
-        "$RCT2:OBJDATA/BBOAT.DAT[55]",
-        "$RCT2:OBJDATA/BBOAT.DAT[57]",
-        "$RCT2:OBJDATA/BBOAT.DAT[59]",
-        "$RCT2:OBJDATA/BBOAT.DAT[61]",
-        "$RCT2:OBJDATA/BBOAT.DAT[63]",
-        "$RCT2:OBJDATA/BBOAT.DAT[65]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[32685..32716]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/BBOAT.DAT[3]", "$RCT2:OBJDATA/BBOAT.DAT[5]", "$RCT2:OBJDATA/BBOAT.DAT[7]", "$RCT2:OBJDATA/BBOAT.DAT[9]", "$RCT2:OBJDATA/BBOAT.DAT[11]", "$RCT2:OBJDATA/BBOAT.DAT[13]", "$RCT2:OBJDATA/BBOAT.DAT[15]", "$RCT2:OBJDATA/BBOAT.DAT[17]", "$RCT2:OBJDATA/BBOAT.DAT[19]", "$RCT2:OBJDATA/BBOAT.DAT[21]", "$RCT2:OBJDATA/BBOAT.DAT[23]", "$RCT2:OBJDATA/BBOAT.DAT[25]", "$RCT2:OBJDATA/BBOAT.DAT[27]", "$RCT2:OBJDATA/BBOAT.DAT[29]", "$RCT2:OBJDATA/BBOAT.DAT[31]", "$RCT2:OBJDATA/BBOAT.DAT[33]", "$RCT2:OBJDATA/BBOAT.DAT[35]", "$RCT2:OBJDATA/BBOAT.DAT[37]", "$RCT2:OBJDATA/BBOAT.DAT[39]", "$RCT2:OBJDATA/BBOAT.DAT[41]", "$RCT2:OBJDATA/BBOAT.DAT[43]", "$RCT2:OBJDATA/BBOAT.DAT[45]", "$RCT2:OBJDATA/BBOAT.DAT[47]", "$RCT2:OBJDATA/BBOAT.DAT[49]", "$RCT2:OBJDATA/BBOAT.DAT[51]", "$RCT2:OBJDATA/BBOAT.DAT[53]", "$RCT2:OBJDATA/BBOAT.DAT[55]", "$RCT2:OBJDATA/BBOAT.DAT[57]", "$RCT2:OBJDATA/BBOAT.DAT[59]", "$RCT2:OBJDATA/BBOAT.DAT[61]", "$RCT2:OBJDATA/BBOAT.DAT[63]", "$RCT2:OBJDATA/BBOAT.DAT[65]"],
     "strings": {
         "name": {
             "en-GB": "Bumper Boats",
@@ -129,7 +57,8 @@
             "ca-ES": "Bots inflables",
             "fi-FI": "Kumiveneet",
             "gl-ES": "Botes de Choque",
-            "ar-EG": "قوارب التصادم"
+            "ar-EG": "قوارب التصادم",
+            "ro-RO": "Bărci cu Ciocniri"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -151,7 +80,8 @@
             "ca-ES": "Bots inflables petits propulsats per un motor central controlat pels passatgers.",
             "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
             "gl-ES": "Pequenos botes circulares con motor central controlado polos pasaxeiros",
-            "ar-EG": "قوارب دائرية صغيرة تعمل بمحرك مركزي يتحكم فيه الركاب"
+            "ar-EG": "قوارب دائرية صغيرة تعمل بمحرك مركزي يتحكم فيه الركاب",
+            "ro-RO": "Bărci circulare mici alimentate de un motor montat central controlat de pasageri"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -173,7 +103,8 @@
             "ca-ES": "2 passatgers per bot",
             "fi-FI": "2 matkustajaa per vene",
             "gl-ES": "2 pasaxeiros por bote",
-            "ar-EG": "راكبان لكل قارب"
+            "ar-EG": "راكبان لكل قارب",
+            "ro-RO": "2 pasageri per barcă"
         }
     }
 }

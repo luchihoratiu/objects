@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_wall.wshogi04",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBCFD13|WSHOGI04|B40FD2EE",
     "sourceGame": "rct2ww",
@@ -12,9 +10,7 @@
         "height": 2,
         "price": 50
     },
-    "images": [
-        "$RCT2:OBJDATA/WSHOGI04.DAT[0..5]"
-    ],
+    "images": ["$RCT2:OBJDATA/WSHOGI04.DAT[0..5]"],
     "strings": {
         "name": {
             "en-GB": "Shōji Wall",
@@ -26,7 +22,7 @@
             "sv-SE": "Shōji-mur",
             "zh-CN": "日本-障子墙",
             "ja-JP": "障子の壁",
-            "cs-CZ": "Čínská zeď",
+            "cs-CZ": "Japonská shoji zeď",
             "ko-KR": "쇼지 벽",
             "pl-PL": "Ściana japońska",
             "ru-RU": "Стена сёдзи",

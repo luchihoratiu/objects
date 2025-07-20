@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.rlog04",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0511|RLOG04  |DBBDE6AA",
     "sourceGame": "rct2ww",
@@ -17,9 +15,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        "$RCT2:OBJDATA/RLOG04.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/RLOG04.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Log Cabin Wall Piece",
@@ -30,7 +26,7 @@
             "nl-NL": "Stuk muur blokhut",
             "sv-SE": "Väggdel till timmerkoja",
             "zh-CN": "原木墙",
-            "cs-CZ": "Stěna důlní chatrče",
+            "cs-CZ": "Stěna srubu",
             "ko-KR": "통나무집 벽 조각",
             "pl-PL": "Chata z bali - segment ściany",
             "ru-RU": "Стена деревянной кабины",

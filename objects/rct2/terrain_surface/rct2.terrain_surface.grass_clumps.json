@@ -1,30 +1,17 @@
 {
     "id": "rct2.terrain_surface.grass_clumps",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SGC|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 110,
-        "mapColours": [
-            73,
-            108
-        ],
+        "mapColours": [73, 108],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
-    "images": [
-        "$G1[5585]",
-        "$G1[29001..29006]",
-        "$G1[2200..2256]"
-    ],
+    "images": ["$G1[5585]", "$G1[29001..29006]", "$G1[2200..2256]"],
     "strings": {
         "name": {
             "en-GB": "Grass Clumps",
@@ -42,7 +29,8 @@
             "zh-CN": "草丛",
             "ru-RU": "Куски травы",
             "gl-ES": "Touzas de Herba",
-            "cs-CZ": "Trsy trávy"
+            "cs-CZ": "Trsy trávy",
+            "es-ES": "Matorrales de Hierba"
         }
     }
 }

@@ -1,21 +1,13 @@
 {
     "id": "rct1.footpath_surface.tarmac",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
-        "$RCT2:OBJDATA/ROAD.DAT[16..19]",
-        "$RCT2:OBJDATA/TARMAC.DAT[20..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[0..15]", "$RCT2:OBJDATA/ROAD.DAT[16..19]", "$RCT2:OBJDATA/TARMAC.DAT[20..50]"],
     "strings": {
         "name": {
             "en-GB": "Tarmac Footpath (Sloped)",
@@ -37,7 +29,8 @@
             "eo-ZZ": "Asfalta Trotuaro (Dekliva)",
             "ca-ES": "Camí asfaltat (amb rampes)",
             "fi-FI": "Asfalttipolku (mäellä)",
-            "gl-ES": "Camiño de Asfalto (Inclinada)"
+            "gl-ES": "Camiño de Asfalto (Inclinada)",
+            "ro-RO": "Alee de Asfalt (Înclinată)"
         }
     }
 }

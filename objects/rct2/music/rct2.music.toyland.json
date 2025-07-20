@@ -1,29 +1,15 @@
 {
     "id": "rct2.music.toyland",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC07|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 7,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css23.dat",
-                "name": "Eternal Toybox",
-                "composer": "Allister Brimble"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css23.dat","name": "Eternal Toybox","composer": "Allister Brimble"}]
     },
-    "images": [
-        "$RCT2:OBJDATA/CTCAR.DAT[0]"
-    ],
+    "images": ["$RCT2:OBJDATA/CTCAR.DAT[0]"],
     "strings": {
         "name": {
             "en-GB": "Toyland style",
@@ -48,7 +34,8 @@
             "zh-TW": "童真風格",
             "eo-ZZ": "Ludilejo-stilo",
             "nb-NO": "Leketøysland-stil",
-            "gl-ES": "Estilo de terra de xoguetes"
+            "gl-ES": "Estilo de terra de xoguetes",
+            "ro-RO": "Stil Toyland"
         }
     }
 }

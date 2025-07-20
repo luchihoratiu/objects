@@ -1,9 +1,6 @@
 {
     "id": "rct1aa.ride.flying_saucers",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1FSA|00000000",
     "sourceGame": "rct1aa",
@@ -13,22 +10,7 @@
         "type": "flying_saucers",
         "category": "gentle",
         "carsPerFlatRide": 12,
-        "carColours": [
-            [
-                [
-                    "white",
-                    "light_orange",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_purple",
-                    "bright_red",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["white", "light_orange", "black"]],[["light_purple", "bright_red", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 139264,
@@ -45,55 +27,12 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [
-                0
-            ]
+            "loadingPositions": [0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[32653..32684]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/FSAUC.DAT[3]",
-        "$RCT2:OBJDATA/FSAUC.DAT[5]",
-        "$RCT2:OBJDATA/FSAUC.DAT[7]",
-        "$RCT2:OBJDATA/FSAUC.DAT[9]",
-        "$RCT2:OBJDATA/FSAUC.DAT[11]",
-        "$RCT2:OBJDATA/FSAUC.DAT[13]",
-        "$RCT2:OBJDATA/FSAUC.DAT[15]",
-        "$RCT2:OBJDATA/FSAUC.DAT[17]",
-        "$RCT2:OBJDATA/FSAUC.DAT[19]",
-        "$RCT2:OBJDATA/FSAUC.DAT[21]",
-        "$RCT2:OBJDATA/FSAUC.DAT[23]",
-        "$RCT2:OBJDATA/FSAUC.DAT[25]",
-        "$RCT2:OBJDATA/FSAUC.DAT[27]",
-        "$RCT2:OBJDATA/FSAUC.DAT[29]",
-        "$RCT2:OBJDATA/FSAUC.DAT[31]",
-        "$RCT2:OBJDATA/FSAUC.DAT[33]",
-        "$RCT2:OBJDATA/FSAUC.DAT[35]",
-        "$RCT2:OBJDATA/FSAUC.DAT[37]",
-        "$RCT2:OBJDATA/FSAUC.DAT[39]",
-        "$RCT2:OBJDATA/FSAUC.DAT[41]",
-        "$RCT2:OBJDATA/FSAUC.DAT[43]",
-        "$RCT2:OBJDATA/FSAUC.DAT[45]",
-        "$RCT2:OBJDATA/FSAUC.DAT[47]",
-        "$RCT2:OBJDATA/FSAUC.DAT[49]",
-        "$RCT2:OBJDATA/FSAUC.DAT[51]",
-        "$RCT2:OBJDATA/FSAUC.DAT[53]",
-        "$RCT2:OBJDATA/FSAUC.DAT[55]",
-        "$RCT2:OBJDATA/FSAUC.DAT[57]",
-        "$RCT2:OBJDATA/FSAUC.DAT[59]",
-        "$RCT2:OBJDATA/FSAUC.DAT[61]",
-        "$RCT2:OBJDATA/FSAUC.DAT[63]",
-        "$RCT2:OBJDATA/FSAUC.DAT[65]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[32653..32684]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/FSAUC.DAT[3]", "$RCT2:OBJDATA/FSAUC.DAT[5]", "$RCT2:OBJDATA/FSAUC.DAT[7]", "$RCT2:OBJDATA/FSAUC.DAT[9]", "$RCT2:OBJDATA/FSAUC.DAT[11]", "$RCT2:OBJDATA/FSAUC.DAT[13]", "$RCT2:OBJDATA/FSAUC.DAT[15]", "$RCT2:OBJDATA/FSAUC.DAT[17]", "$RCT2:OBJDATA/FSAUC.DAT[19]", "$RCT2:OBJDATA/FSAUC.DAT[21]", "$RCT2:OBJDATA/FSAUC.DAT[23]", "$RCT2:OBJDATA/FSAUC.DAT[25]", "$RCT2:OBJDATA/FSAUC.DAT[27]", "$RCT2:OBJDATA/FSAUC.DAT[29]", "$RCT2:OBJDATA/FSAUC.DAT[31]", "$RCT2:OBJDATA/FSAUC.DAT[33]", "$RCT2:OBJDATA/FSAUC.DAT[35]", "$RCT2:OBJDATA/FSAUC.DAT[37]", "$RCT2:OBJDATA/FSAUC.DAT[39]", "$RCT2:OBJDATA/FSAUC.DAT[41]", "$RCT2:OBJDATA/FSAUC.DAT[43]", "$RCT2:OBJDATA/FSAUC.DAT[45]", "$RCT2:OBJDATA/FSAUC.DAT[47]", "$RCT2:OBJDATA/FSAUC.DAT[49]", "$RCT2:OBJDATA/FSAUC.DAT[51]", "$RCT2:OBJDATA/FSAUC.DAT[53]", "$RCT2:OBJDATA/FSAUC.DAT[55]", "$RCT2:OBJDATA/FSAUC.DAT[57]", "$RCT2:OBJDATA/FSAUC.DAT[59]", "$RCT2:OBJDATA/FSAUC.DAT[61]", "$RCT2:OBJDATA/FSAUC.DAT[63]", "$RCT2:OBJDATA/FSAUC.DAT[65]"],
     "strings": {
         "name": {
             "en-GB": "Flying Saucers",
@@ -116,7 +55,8 @@
             "ca-ES": "Plats voladors",
             "fi-FI": "Lentävät lautaset",
             "gl-ES": "Prato voador",
-            "ar-EG": "الأطباق الطائرة"
+            "ar-EG": "الأطباق الطائرة",
+            "ro-RO": "Farfurii Zburătoare"
         },
         "description": {
             "en-GB": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
@@ -138,7 +78,8 @@
             "ca-ES": "Els passatgers van en vehicles en forma de plat volador que poden controlar a voluntat.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa",
             "gl-ES": "Os visitantes viaxan en vehículos a propulsión por aire con forma de prato que controlan libremente.",
-            "ar-EG": "يركب الضيوف في مركبات حوامة على شكل صحون يتحكمون فيها بحرية"
+            "ar-EG": "يركب الضيوف في مركبات حوامة على شكل صحون يتحكمون فيها بحرية",
+            "ro-RO": "Oaspeții călătoresc în vehicule aeroglisoare în formă de farfurie pe care le controlează liber"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -160,7 +101,8 @@
             "fi-FI": "1 matkustaja per ajoneuvo",
             "ca-ES": "1 persona per cotxe",
             "gl-ES": "1 persoa por coche",
-            "ar-EG": "شخص واحد لكل مركبة"
+            "ar-EG": "شخص واحد لكل مركبة",
+            "ro-RO": "1 persoană per vehicul"
         }
     }
 }

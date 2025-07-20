@@ -1,88 +1,20 @@
 {
     "id": "rct2.ride.lfb1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|LFB1    |202DF350",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "log_flume",
         "category": "water",
         "playSplashSound": true,
         "noCollisionCrashes": true,
-        "carColours": [
-            [
-                [
-                    "dark_brown",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 252764,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "logFlumeReverserVehicleType": 1,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [
-                    6,
-                    4,
-                    -7,
-                    -9
-                ]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 252764,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [
-                    6,
-                    4,
-                    -7,
-                    -9
-                ]
-            }
-        ],
+        "carColours": [[["dark_brown", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 252764,"mass": 250,"numSeats": 4,"numSeatRows": 2,"logFlumeReverserVehicleType": 1,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]},{"rotationFrameMask": 31,"spacing": 252764,"mass": 250,"numSeats": 4,"numSeatRows": 2,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]}],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/LFB1.DAT[0..626]"
-    ],
+    "images": ["$RCT2:OBJDATA/LFB1.DAT[0..626]"],
     "strings": {
         "name": {
             "en-GB": "Logs",
@@ -109,7 +41,7 @@
             "en-GB": "Log-shaped boats built for running in water channels",
             "fr-FR": "Bateau en forme de bûche géante conçu pour parcourir un tube aquatique",
             "de-DE": "Baumstammförmige Boote, die für die Fahrt in Wasserkanälen ausgelegt sind",
-            "es-ES": "Barcos con forma de tronco que viajan por un canal de agua, salpicando hasta empapar a los pasajeros",
+            "es-ES": "Botes con forma de tronco que viajan por un canal de agua, salpicando hasta empapar a los pasajeros",
             "it-IT": "Barche a forma di tronco viaggiano lungo un canale d’acqua, generando al termine delle discese enormi spruzzi che inzuppano i passeggeri",
             "nl-NL": "Boten in de vorm van een boomstam varen door een waterbak, waarbij ze van steile hellingen afdalen om de passagiers te doorweken.",
             "sv-SE": "Stockformade båtar byggda för vattenkanaler",
@@ -130,7 +62,7 @@
             "en-GB": "4 passengers per boat",
             "fr-FR": "4 passagers par bateau",
             "de-DE": "4 Fahrgäste pro Boot",
-            "es-ES": "4 pasajeros por vagón",
+            "es-ES": "4 pasajeros por bote",
             "it-IT": "4 passeggeri per barca",
             "nl-NL": "4 passagiers per boot",
             "sv-SE": "4 passagerare per båt",

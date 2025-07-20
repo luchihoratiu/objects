@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.giggle_downs",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX946 |CB7273E0",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Baixades de riure",
@@ -26,7 +19,8 @@
             "zh-CN": "伤心嬉笑",
             "pl-PL": "Śmiechowa Dolina",
             "gl-ES": "Val do Riso",
-            "ar-EG": "جيجل داونز"
+            "ar-EG": "جيجل داونز",
+            "ro-RO": "Dealurile Chicotului"
         },
         "park_name": {
             "ca-ES": "Baixades de riure",
@@ -40,7 +34,8 @@
             "zh-CN": "伤心嬉笑",
             "pl-PL": "Śmiechowa Dolina",
             "gl-ES": "Val do Riso",
-            "ar-EG": "جيجل داونز"
+            "ar-EG": "جيجل داونز",
+            "ro-RO": "Dealurile Chicotului"
         },
         "details": {
             "ca-ES": "Un «steeplechase» de quatre carrils és la peça centra d’aquest parc en expansió.",
@@ -65,7 +60,8 @@
             "zh-TW": "四座馬術障礙賽式雲霄飛車是這個需要擴張的樂園的靈魂",
             "ru-RU": "Четырехполосная лошадинная гонка - центральный элемент этого расширяющегося парка",
             "gl-ES": "Unha atracción de carreira de obstáculos de catro carrís é a peza central deste parque en expansión",
-            "ar-EG": "لعبة سباق حواجز بأربعة مسارات هي محور هذه الحديقة المتوسعة"
+            "ar-EG": "لعبة سباق حواجز بأربعة مسارات هي محور هذه الحديقة المتوسعة",
+            "ro-RO": "O atracție de curse cu obstacole pe patru benzi este centrul acestui parc în expansiune"
         }
     }
 }

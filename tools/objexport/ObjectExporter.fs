@@ -119,6 +119,7 @@ module ObjectExporter =
         | 10 -> "zh-CN"
         | 11 -> "zh-TW"
         | 13 -> "pt-BR"
+        | 14 -> "ro-RO"
         | i -> i.ToString()
 
     let getOriginalObjectIdString (hdr: ObjectDataHeader) =

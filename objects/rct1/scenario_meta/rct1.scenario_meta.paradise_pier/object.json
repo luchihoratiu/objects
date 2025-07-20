@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.paradise_pier",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX916 |8BF51FA9",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "El moll paradisíac",
@@ -28,7 +21,8 @@
             "zh-CN": "天堂码头",
             "pl-PL": "Rajskie Molo",
             "gl-ES": "Peirao do Paraíso",
-            "ar-EG": "رصيف الجنة"
+            "ar-EG": "رصيف الجنة",
+            "ro-RO": "Cheiurile Paradisului"
         },
         "park_name": {
             "ca-ES": "El moll paradisíac",
@@ -44,7 +38,8 @@
             "zh-CN": "天堂码头",
             "pl-PL": "Rajskie Molo",
             "gl-ES": "Peirao do Paraíso",
-            "ar-EG": "رصيف الجنة"
+            "ar-EG": "رصيف الجنة",
+            "ro-RO": "Cheiurile Paradisului"
         },
         "details": {
             "ca-ES": "Convertiu aquest petit moll fantasma en una atracció pròspera.",

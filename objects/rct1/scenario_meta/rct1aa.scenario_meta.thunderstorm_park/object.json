@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.thunderstorm_park",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX937 |1967B203",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "حديقة العاصفة البرقية",
@@ -26,7 +19,8 @@
             "pt-BR": "Parque Trovoada",
             "zh-CN": "雷雨公园",
             "pl-PL": "Park piorunowy",
-            "gl-ES": "Parque de tormentas"
+            "gl-ES": "Parque de tormentas",
+            "ro-RO": "Parcul Furtunii"
         },
         "park_name": {
             "ar-EG": "حديقة العاصفة البرقية",
@@ -40,7 +34,8 @@
             "pt-BR": "Parque Trovoada",
             "zh-CN": "雷雨公园",
             "pl-PL": "Park piorunowy",
-            "gl-ES": "Parque de tormentas"
+            "gl-ES": "Parque de tormentas",
+            "ro-RO": "Parcul Furtunii"
         },
         "details": {
             "ar-EG": "الجو رطب للغاية هنا لدرجة أنه تم بناء هرم عملاق للسماح ببناء بعض الألعاب تحته",

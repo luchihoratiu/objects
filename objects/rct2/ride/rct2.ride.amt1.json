@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.amt1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|AMT1    |53A59CAC",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "mine_train_rc",
@@ -17,99 +11,11 @@
         "maxCarsPerTrain": 9,
         "defaultCar": 1,
         "headCars": 0,
-        "carColours": [
-            [
-                [
-                    "bordeaux_red",
-                    "grey",
-                    "dark_brown"
-                ]
-            ],
-            [
-                [
-                    "grey",
-                    "black",
-                    "bordeaux_red"
-                ]
-            ],
-            [
-                [
-                    "saturated_brown",
-                    "light_brown",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "dark_green",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 209184,
-                "mass": 500,
-                "numSeats": 2,
-                "numSeatRows": 1,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [
-                    3,
-                    -1
-                ]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 209184,
-                "mass": 500,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [
-                    7,
-                    9,
-                    -3,
-                    -1
-                ]
-            }
-        ],
+        "carColours": [[["bordeaux_red", "grey", "dark_brown"]],[["grey", "black", "bordeaux_red"]],[["saturated_brown", "light_brown", "black"]],[["dark_green", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 209184,"mass": 500,"numSeats": 2,"numSeatRows": 1,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [3, -1]},{"rotationFrameMask": 31,"spacing": 209184,"mass": 500,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [7, 9, -3, -1]}],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/AMT1.DAT[0..2222]"
-    ],
+    "images": ["$RCT2:OBJDATA/AMT1.DAT[0..2222]"],
     "strings": {
         "name": {
             "en-GB": "Mine Trains",
@@ -130,7 +36,8 @@
             "eo-ZZ": "Mintrajnoj",
             "ca-ES": "Trens de la mina",
             "fi-FI": "Kaivosjunat",
-            "gl-ES": "Trens da mina"
+            "gl-ES": "Trens da mina",
+            "ro-RO": "Trenuri de Mină"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains",

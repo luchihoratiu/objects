@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.mineral_park",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX947 |D63C9A3A",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "حديقة المعادن",
@@ -26,7 +19,8 @@
             "pt-BR": "Parque Mineral",
             "zh-CN": "采石场公园",
             "pl-PL": "Park mineralny",
-            "gl-ES": "Parque Mineral"
+            "gl-ES": "Parque Mineral",
+            "ro-RO": "Parcul Mineral"
         },
         "park_name": {
             "ar-EG": "حديقة المعادن",
@@ -40,7 +34,8 @@
             "pt-BR": "Parque Mineral",
             "zh-CN": "采石场公园",
             "pl-PL": "Park mineralny",
-            "gl-ES": "Parque Mineral"
+            "gl-ES": "Parque Mineral",
+            "ro-RO": "Parcul Mineral"
         },
         "details": {
             "ar-EG": "حوّل هذا المحجر المهجور إلى مكان يجذب السياح الباحثين عن الإثارة",

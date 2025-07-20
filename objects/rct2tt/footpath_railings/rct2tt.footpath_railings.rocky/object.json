@@ -1,12 +1,8 @@
 {
     "id": "rct2tt.footpath_railings.rocky",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -14,10 +10,7 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/JURRPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/JURRPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Jungle Railings",
@@ -34,7 +27,8 @@
             "ru-RU": "Перила в стиле «джунгли»",
             "ja-JP": "ジャングルの手すり",
             "gl-ES": "Varandas da xungla",
-            "cs-CZ": "Zábradlí z rostlin džungle"
+            "cs-CZ": "Zábradlí z rostlin džungle",
+            "es-ES": "Barandillas de Selva"
         }
     }
 }

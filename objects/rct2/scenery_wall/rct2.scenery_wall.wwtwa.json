@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_wall.wwtwa",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188083|WWTWA   |94A393D0",
     "sourceGame": "rct2",
@@ -13,9 +10,7 @@
         "price": 60,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": [
-        "$RCT2:OBJDATA/WWTWA.DAT[0..1]"
-    ],
+    "images": ["$RCT2:OBJDATA/WWTWA.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence Wall",
@@ -29,7 +24,7 @@
             "zh-CN": "木式围墙",
             "zh-TW": "木式圍牆",
             "pt-BR": "Cerca de Madeira",
-            "cs-CZ": "Stěna ze dřevěného plotu",
+            "cs-CZ": "Stěna z dřevěného plotu",
             "ja-JP": "木製のフェンスの壁",
             "pl-PL": "Ściana z desek",
             "ru-RU": "Забор из деревянных столбов",

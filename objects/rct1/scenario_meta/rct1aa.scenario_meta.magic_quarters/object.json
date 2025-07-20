@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.magic_quarters",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX933 |2BACF541",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "مقر السحر الرئيسي",
@@ -26,7 +19,8 @@
             "pt-BR": "Áreas Mágicas",
             "zh-CN": "魔力拼",
             "pl-PL": "Magiczne Kwatery",
-            "gl-ES": "Recanto Máxico"
+            "gl-ES": "Recanto Máxico",
+            "ro-RO": "Cartierele Magice"
         },
         "park_name": {
             "ar-EG": "مقر السحر الرئيسي",
@@ -40,7 +34,8 @@
             "pt-BR": "Áreas Mágicas",
             "zh-CN": "魔力拼",
             "pl-PL": "Magiczne Kwatery",
-            "gl-ES": "Recanto Máxico"
+            "gl-ES": "Recanto Máxico",
+            "ro-RO": "Cartierele Magice"
         },
         "details": {
             "ar-EG": "تم تنظيف مساحة كبيرة من الأرض وأصبحت جاهزة جُزئيًا لتحويلها إلى مدينة ملاهي ذات مناظر طبيعية",

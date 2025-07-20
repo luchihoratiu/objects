@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.mment1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|MMENT1  |2EFA1C67",
     "sourceGame": "rct2",
@@ -23,9 +20,7 @@
         "hasNoSupports": true,
         "allowSupportsAbove": true
     },
-    "images": [
-        "$RCT2:OBJDATA/MMENT1.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/MMENT1.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Ornamental Structure",
@@ -39,7 +34,7 @@
             "zh-CN": "装饰用结构",
             "zh-TW": "裝飾用結構",
             "pt-BR": "Estrutura Ornamental",
-            "cs-CZ": "Ornament",
+            "cs-CZ": "Okrasná konstrukce",
             "ja-JP": "装飾建造物",
             "pl-PL": "Obiekt dekoracyjny",
             "ru-RU": "Орнамент",

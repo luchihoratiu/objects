@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.dodgems",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1DOD|00000000",
     "sourceGame": "rct1",
@@ -13,36 +10,7 @@
         "type": "dodgems",
         "category": "gentle",
         "carsPerFlatRide": 12,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_blue",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "yellow",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_purple",
-                    "yellow",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["bright_red", "white", "black"]],[["light_blue", "white", "black"]],[["yellow", "bright_red", "black"]],[["bright_purple", "yellow", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 139264,
@@ -61,55 +29,12 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [
-                0
-            ]
+            "loadingPositions": [0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[34361..34424]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/DODG1.DAT[3..4]",
-        "$RCT2:OBJDATA/DODG1.DAT[7..8]",
-        "$RCT2:OBJDATA/DODG1.DAT[11..12]",
-        "$RCT2:OBJDATA/DODG1.DAT[15..16]",
-        "$RCT2:OBJDATA/DODG1.DAT[19..20]",
-        "$RCT2:OBJDATA/DODG1.DAT[23..24]",
-        "$RCT2:OBJDATA/DODG1.DAT[27..28]",
-        "$RCT2:OBJDATA/DODG1.DAT[31..32]",
-        "$RCT2:OBJDATA/DODG1.DAT[35..36]",
-        "$RCT2:OBJDATA/DODG1.DAT[39..40]",
-        "$RCT2:OBJDATA/DODG1.DAT[43..44]",
-        "$RCT2:OBJDATA/DODG1.DAT[47..48]",
-        "$RCT2:OBJDATA/DODG1.DAT[51..52]",
-        "$RCT2:OBJDATA/DODG1.DAT[55..56]",
-        "$RCT2:OBJDATA/DODG1.DAT[59..60]",
-        "$RCT2:OBJDATA/DODG1.DAT[63..64]",
-        "$RCT2:OBJDATA/DODG1.DAT[67..68]",
-        "$RCT2:OBJDATA/DODG1.DAT[71..72]",
-        "$RCT2:OBJDATA/DODG1.DAT[75..76]",
-        "$RCT2:OBJDATA/DODG1.DAT[79..80]",
-        "$RCT2:OBJDATA/DODG1.DAT[83..84]",
-        "$RCT2:OBJDATA/DODG1.DAT[87..88]",
-        "$RCT2:OBJDATA/DODG1.DAT[91..92]",
-        "$RCT2:OBJDATA/DODG1.DAT[95..96]",
-        "$RCT2:OBJDATA/DODG1.DAT[99..100]",
-        "$RCT2:OBJDATA/DODG1.DAT[103..104]",
-        "$RCT2:OBJDATA/DODG1.DAT[107..108]",
-        "$RCT2:OBJDATA/DODG1.DAT[111..112]",
-        "$RCT2:OBJDATA/DODG1.DAT[115..116]",
-        "$RCT2:OBJDATA/DODG1.DAT[119..120]",
-        "$RCT2:OBJDATA/DODG1.DAT[123..124]",
-        "$RCT2:OBJDATA/DODG1.DAT[127..128]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[34361..34424]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/DODG1.DAT[3..4]", "$RCT2:OBJDATA/DODG1.DAT[7..8]", "$RCT2:OBJDATA/DODG1.DAT[11..12]", "$RCT2:OBJDATA/DODG1.DAT[15..16]", "$RCT2:OBJDATA/DODG1.DAT[19..20]", "$RCT2:OBJDATA/DODG1.DAT[23..24]", "$RCT2:OBJDATA/DODG1.DAT[27..28]", "$RCT2:OBJDATA/DODG1.DAT[31..32]", "$RCT2:OBJDATA/DODG1.DAT[35..36]", "$RCT2:OBJDATA/DODG1.DAT[39..40]", "$RCT2:OBJDATA/DODG1.DAT[43..44]", "$RCT2:OBJDATA/DODG1.DAT[47..48]", "$RCT2:OBJDATA/DODG1.DAT[51..52]", "$RCT2:OBJDATA/DODG1.DAT[55..56]", "$RCT2:OBJDATA/DODG1.DAT[59..60]", "$RCT2:OBJDATA/DODG1.DAT[63..64]", "$RCT2:OBJDATA/DODG1.DAT[67..68]", "$RCT2:OBJDATA/DODG1.DAT[71..72]", "$RCT2:OBJDATA/DODG1.DAT[75..76]", "$RCT2:OBJDATA/DODG1.DAT[79..80]", "$RCT2:OBJDATA/DODG1.DAT[83..84]", "$RCT2:OBJDATA/DODG1.DAT[87..88]", "$RCT2:OBJDATA/DODG1.DAT[91..92]", "$RCT2:OBJDATA/DODG1.DAT[95..96]", "$RCT2:OBJDATA/DODG1.DAT[99..100]", "$RCT2:OBJDATA/DODG1.DAT[103..104]", "$RCT2:OBJDATA/DODG1.DAT[107..108]", "$RCT2:OBJDATA/DODG1.DAT[111..112]", "$RCT2:OBJDATA/DODG1.DAT[115..116]", "$RCT2:OBJDATA/DODG1.DAT[119..120]", "$RCT2:OBJDATA/DODG1.DAT[123..124]", "$RCT2:OBJDATA/DODG1.DAT[127..128]"],
     "strings": {
         "name": {
             "en-GB": "Dodgems",
@@ -133,7 +58,8 @@
             "ca-ES": "Cotxes de xoc",
             "fi-FI": "Törmäilyautot",
             "gl-ES": "Coches de choque",
-            "ar-EG": "سيارات التصادم"
+            "ar-EG": "سيارات التصادم",
+            "ro-RO": "Mașinuțe cu Ciocniri"
         },
         "description": {
             "en-GB": "Riders bump into each other in self-drive electric dodgems",
@@ -156,13 +82,14 @@
             "ca-ES": "Els passatgers condueixen cotxes de xoc elèctrics i xoquen entre ells.",
             "fi-FI": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa",
             "gl-ES": "Os pasaxeiros chocan entre eles en coches de choque eléctricos de conducción autónoma",
-            "ar-EG": "يصطدم الركاب ببعضهم البعض في سيارات تصادم كهربائية ذاتية القيادة"
+            "ar-EG": "يصطدم الركاب ببعضهم البعض في سيارات تصادم كهربائية ذاتية القيادة",
+            "ro-RO": "Călătorii se ciocnesc unii cu alții în mașinuțe electrice cu autoguidare"
         },
         "capacity": {
             "en-GB": "1 person per car",
             "fr-FR": "1 personne par voiture",
             "de-DE": "1 Person pro Wagen",
-            "es-ES": "1 persona por vagón",
+            "es-ES": "1 persona por coche",
             "it-IT": "1 persona per auto",
             "nl-NL": "1 passagier per botsauto",
             "sv-SE": "1 person per bil",
@@ -178,7 +105,8 @@
             "fi-FI": "1 matkustaja per auto",
             "ca-ES": "1 persona per cotxe",
             "gl-ES": "1 person por coche",
-            "ar-EG": "شخص واحد لكل سيارة"
+            "ar-EG": "شخص واحد لكل سيارة",
+            "ro-RO": "1 persoană per mașinuță"
         }
     }
 }

@@ -1,9 +1,6 @@
 {
     "id": "rct2dlc.scenery_small.pandagr",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "09F8EC01|PANDAGR |F6EE677C",
     "sourceGame": "official",
@@ -18,12 +15,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        { "path": "images/0.png", "x": -14, "y": -61 },
-        { "path": "images/1.png", "x": -13, "y": -64 },
-        { "path": "images/2.png", "x": -13, "y": -65 },
-        { "path": "images/3.png", "x": -15, "y": -64 }
-    ],
+    "images": [{"path": "images/0.png","x": -14,"y": -61},{"path": "images/1.png","x": -13,"y": -64},{"path": "images/2.png","x": -13,"y": -65},{"path": "images/3.png","x": -15,"y": -64}],
     "strings": {
         "name": {
             "en-GB": "Bamboo Shoots",
@@ -46,7 +38,8 @@
             "ar-EG": "براعم الخيزران",
             "hu-HU": "Bambuszrügyek",
             "ru-RU": "Бамбуковый стебель",
-            "gl-ES": "Gromo de Bambú"
+            "gl-ES": "Gromo de Bambú",
+            "cs-CZ": "Bambusové výhonky"
         }
     }
 }

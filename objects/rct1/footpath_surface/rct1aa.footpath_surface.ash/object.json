@@ -1,23 +1,14 @@
 {
     "id": "rct1aa.footpath_surface.ash",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44391..44441]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHASH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44391..44441]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHASH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Ash Footpath (Square)",
@@ -39,7 +30,8 @@
             "eo-ZZ": "Trotuaro el Cindropovo (Kvadrata)",
             "ca-ES": "Camí de cendra (angulós)",
             "fi-FI": "Tuhkapolku (suorakulmainen)",
-            "gl-ES": "Camiño de cinza (Cadrado)"
+            "gl-ES": "Camiño de cinza (Cadrado)",
+            "ro-RO": "Alee de Cenușă (Pătrată)"
         }
     }
 }

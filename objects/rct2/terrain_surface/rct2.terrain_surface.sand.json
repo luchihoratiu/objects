@@ -1,30 +1,17 @@
 {
     "id": "rct2.terrain_surface.sand",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SSY|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [
-            40,
-            40
-        ],
+        "mapColours": [40, 40],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
-    "images": [
-        "$G1[5580]",
-        "$G1[28983..28988]",
-        "$G1[2086..2142]"
-    ],
+    "images": ["$G1[5580]", "$G1[28983..28988]", "$G1[2086..2142]"],
     "strings": {
         "name": {
             "en-GB": "Sand",
@@ -41,7 +28,8 @@
             "zh-CN": "沙子",
             "ru-RU": "Песок",
             "gl-ES": "Area",
-            "cs-CZ": "Písek"
+            "cs-CZ": "Písek",
+            "es-ES": "Arena"
         }
     }
 }

@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.future_world",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX928 |CF385012",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "عالم المستقبل",
@@ -26,7 +19,8 @@
             "pt-BR": "Mundo Futurista",
             "zh-CN": "未来之地",
             "pl-PL": "Świat przyszłości",
-            "gl-ES": "Mundo Futuro"
+            "gl-ES": "Mundo Futuro",
+            "ro-RO": "Lumea Viitorului"
         },
         "park_name": {
             "ar-EG": "عالم المستقبل",
@@ -41,7 +35,8 @@
             "pt-BR": "Mundo Futurista",
             "zh-CN": "未来之地",
             "pl-PL": "Świat przyszłości",
-            "gl-ES": "Mundo Futuro"
+            "gl-ES": "Mundo Futuro",
+            "ro-RO": "Lumea Viitorului"
         },
         "details": {
             "ar-EG": "هذه الحديقة المستقبلية لديها الكثير من المساحة لتبني العديد من الإفعوانيات علي أرضها الفضائية",
@@ -65,7 +60,8 @@
             "zh-CN": "这个未来派的公园有足够的空间供新的游乐设施在其外星景观中使用",
             "zh-TW": "這個於外星土地上, 並富有未來感的樂園擁有很多建造遊樂設施的空間",
             "ru-RU": "В этом парке будущего, с пришельским ландшафтом, полно места для аттракционов",
-            "gl-ES": "Este parque futurista ten moito espazo para novas atraccións na súa paisaxe alieníxena"
+            "gl-ES": "Este parque futurista ten moito espazo para novas atraccións na súa paisaxe alieníxena",
+            "ro-RO": "Acest parc futurist are mult spațiu pentru atracții noi pe peisajul său extraterestru"
         }
     }
 }

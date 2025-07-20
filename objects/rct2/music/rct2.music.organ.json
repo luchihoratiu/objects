@@ -1,25 +1,14 @@
 {
     "id": "rct2.music.organ",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC27|00000000",
-    "sourceGame": [
-        "rct2"
-    ],
+    "sourceGame": ["rct2"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 27,
         "niceFactor": 1,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css41.dat",
-                "name": "Toccata",
-                "composer": "Charles-Marie Widor"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css41.dat","name": "Toccata","composer": "Charles-Marie Widor"}]
     },
     "strings": {
         "name": {
@@ -45,7 +34,8 @@
             "eo-ZZ": "Orgeno-stilo",
             "fi-FI": "Urkutyylinen",
             "nb-NO": "Orgel-stil",
-            "gl-ES": "Estilo de Órgano"
+            "gl-ES": "Estilo de Órgano",
+            "ro-RO": "Stil Orgă"
         }
     }
 }

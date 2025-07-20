@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.pickup_trucks",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1TRK|00000000",
     "sourceGame": "rct1",
@@ -20,188 +17,12 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_blue",
-                    "saturated_brown",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "yellow",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 15,
-                "spacing": 130740,
-                "mass": 330,
-                "numSeats": 1,
-                "numSeatRows": 1,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "drawOrder": 9,
-                "spriteGroups": {
-                    "slopeFlat": 16,
-                    "slopes12": 4,
-                    "slopes25": 4,
-                    "restraintAnimation": 4
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [
-                    4
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ],
+        "carColours": [[["bright_red", "bright_red", "black"]],[["light_blue", "saturated_brown", "black"]],[["yellow", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 15,"spacing": 130740,"mass": 330,"numSeats": 1,"numSeatRows": 1,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"drawOrder": 9,"spriteGroups": {"slopeFlat": 16,"slopes12": 4,"slopes25": 4,"restraintAnimation": 4},"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [4]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}],
         "buildMenuPriority": 3
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[33357..33372]",
-        "$CSG[33373]",
-        "$CSG[33377]",
-        "$CSG[33381]",
-        "$CSG[33385]",
-        "$CSG[33375]",
-        "$CSG[33379]",
-        "$CSG[33383]",
-        "$CSG[33387]",
-        "$CSG[33374]",
-        "$CSG[33378]",
-        "$CSG[33382]",
-        "$CSG[33386]",
-        "$CSG[33376]",
-        "$CSG[33380]",
-        "$CSG[33384]",
-        "$CSG[33388]",
-        "$CSG[33389]",
-        "$CSG[33392]",
-        "$CSG[33395]",
-        "$CSG[33398]",
-        "$CSG[33390]",
-        "$CSG[33393]",
-        "$CSG[33396]",
-        "$CSG[33399]",
-        "$CSG[33391]",
-        "$CSG[33394]",
-        "$CSG[33397]",
-        "$CSG[33400]",
-        "$CSG[33401..33416]",
-        "$CSG[33417]",
-        "$CSG[33421]",
-        "$CSG[33425]",
-        "$CSG[33429]",
-        "$CSG[33419]",
-        "$CSG[33423]",
-        "$CSG[33427]",
-        "$CSG[33431]",
-        "$CSG[33418]",
-        "$CSG[33422]",
-        "$CSG[33426]",
-        "$CSG[33430]",
-        "$CSG[33420]",
-        "$CSG[33424]",
-        "$CSG[33428]",
-        "$CSG[33432]",
-        "$CSG[33433]",
-        "$CSG[33436]",
-        "$CSG[33439]",
-        "$CSG[33442]",
-        "$CSG[33434]",
-        "$CSG[33437]",
-        "$CSG[33440]",
-        "$CSG[33443]",
-        "$CSG[33435]",
-        "$CSG[33438]",
-        "$CSG[33441]",
-        "$CSG[33444]",
-        ""
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/TRUCK1.DAT[3]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[5]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[7]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[9]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[11]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[13]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[15]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[17]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[19]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[21]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[23]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[25]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[27]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[29]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[31]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[33]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[35..42]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[43]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[51]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[59]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[67]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[75]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[83]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[91]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[99]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[107..118]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[119]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[121]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[123]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[125]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[127]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[129]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[131]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[133]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[135]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[137]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[139]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[141]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[143]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[145]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[147]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[149]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[151..158]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[159]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[167]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[175]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[183]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[191]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[199]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[207]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[215]",
-        "$RCT2:OBJDATA/TRUCK1.DAT[223..234]",
-        ""
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[33357..33372]", "$CSG[33373]", "$CSG[33377]", "$CSG[33381]", "$CSG[33385]", "$CSG[33375]", "$CSG[33379]", "$CSG[33383]", "$CSG[33387]", "$CSG[33374]", "$CSG[33378]", "$CSG[33382]", "$CSG[33386]", "$CSG[33376]", "$CSG[33380]", "$CSG[33384]", "$CSG[33388]", "$CSG[33389]", "$CSG[33392]", "$CSG[33395]", "$CSG[33398]", "$CSG[33390]", "$CSG[33393]", "$CSG[33396]", "$CSG[33399]", "$CSG[33391]", "$CSG[33394]", "$CSG[33397]", "$CSG[33400]", "$CSG[33401..33416]", "$CSG[33417]", "$CSG[33421]", "$CSG[33425]", "$CSG[33429]", "$CSG[33419]", "$CSG[33423]", "$CSG[33427]", "$CSG[33431]", "$CSG[33418]", "$CSG[33422]", "$CSG[33426]", "$CSG[33430]", "$CSG[33420]", "$CSG[33424]", "$CSG[33428]", "$CSG[33432]", "$CSG[33433]", "$CSG[33436]", "$CSG[33439]", "$CSG[33442]", "$CSG[33434]", "$CSG[33437]", "$CSG[33440]", "$CSG[33443]", "$CSG[33435]", "$CSG[33438]", "$CSG[33441]", "$CSG[33444]", ""],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/TRUCK1.DAT[3]", "$RCT2:OBJDATA/TRUCK1.DAT[5]", "$RCT2:OBJDATA/TRUCK1.DAT[7]", "$RCT2:OBJDATA/TRUCK1.DAT[9]", "$RCT2:OBJDATA/TRUCK1.DAT[11]", "$RCT2:OBJDATA/TRUCK1.DAT[13]", "$RCT2:OBJDATA/TRUCK1.DAT[15]", "$RCT2:OBJDATA/TRUCK1.DAT[17]", "$RCT2:OBJDATA/TRUCK1.DAT[19]", "$RCT2:OBJDATA/TRUCK1.DAT[21]", "$RCT2:OBJDATA/TRUCK1.DAT[23]", "$RCT2:OBJDATA/TRUCK1.DAT[25]", "$RCT2:OBJDATA/TRUCK1.DAT[27]", "$RCT2:OBJDATA/TRUCK1.DAT[29]", "$RCT2:OBJDATA/TRUCK1.DAT[31]", "$RCT2:OBJDATA/TRUCK1.DAT[33]", "$RCT2:OBJDATA/TRUCK1.DAT[35..42]", "$RCT2:OBJDATA/TRUCK1.DAT[43]", "$RCT2:OBJDATA/TRUCK1.DAT[51]", "$RCT2:OBJDATA/TRUCK1.DAT[59]", "$RCT2:OBJDATA/TRUCK1.DAT[67]", "$RCT2:OBJDATA/TRUCK1.DAT[75]", "$RCT2:OBJDATA/TRUCK1.DAT[83]", "$RCT2:OBJDATA/TRUCK1.DAT[91]", "$RCT2:OBJDATA/TRUCK1.DAT[99]", "$RCT2:OBJDATA/TRUCK1.DAT[107..118]", "$RCT2:OBJDATA/TRUCK1.DAT[119]", "$RCT2:OBJDATA/TRUCK1.DAT[121]", "$RCT2:OBJDATA/TRUCK1.DAT[123]", "$RCT2:OBJDATA/TRUCK1.DAT[125]", "$RCT2:OBJDATA/TRUCK1.DAT[127]", "$RCT2:OBJDATA/TRUCK1.DAT[129]", "$RCT2:OBJDATA/TRUCK1.DAT[131]", "$RCT2:OBJDATA/TRUCK1.DAT[133]", "$RCT2:OBJDATA/TRUCK1.DAT[135]", "$RCT2:OBJDATA/TRUCK1.DAT[137]", "$RCT2:OBJDATA/TRUCK1.DAT[139]", "$RCT2:OBJDATA/TRUCK1.DAT[141]", "$RCT2:OBJDATA/TRUCK1.DAT[143]", "$RCT2:OBJDATA/TRUCK1.DAT[145]", "$RCT2:OBJDATA/TRUCK1.DAT[147]", "$RCT2:OBJDATA/TRUCK1.DAT[149]", "$RCT2:OBJDATA/TRUCK1.DAT[151..158]", "$RCT2:OBJDATA/TRUCK1.DAT[159]", "$RCT2:OBJDATA/TRUCK1.DAT[167]", "$RCT2:OBJDATA/TRUCK1.DAT[175]", "$RCT2:OBJDATA/TRUCK1.DAT[183]", "$RCT2:OBJDATA/TRUCK1.DAT[191]", "$RCT2:OBJDATA/TRUCK1.DAT[199]", "$RCT2:OBJDATA/TRUCK1.DAT[207]", "$RCT2:OBJDATA/TRUCK1.DAT[215]", "$RCT2:OBJDATA/TRUCK1.DAT[223..234]", ""],
     "strings": {
         "name": {
             "en-GB": "Pickup Trucks",
@@ -223,7 +44,8 @@
             "ca-ES": "Camionetes",
             "fi-FI": "Lava-autot",
             "gl-ES": "Camionetas",
-            "ar-EG": "شاحنات البيك أب"
+            "ar-EG": "شاحنات البيك أب",
+            "ro-RO": "Camionete"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -245,7 +67,8 @@
             "ca-ES": "Vehicles tematitzats com a camionetes.",
             "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados con forma de camioneta",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل شاحنات بيك أب"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل شاحنات بيك أب",
+            "ro-RO": "Vehicule cu motor în formă de camionetă"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
@@ -267,7 +90,8 @@
             "ca-ES": "1 passatger per camió",
             "fi-FI": "1 matkustaja per auto",
             "gl-ES": "1 pasaxeiro por camioneta",
-            "ar-EG": "راكب واحد لكل شاحنة"
+            "ar-EG": "راكب واحد لكل شاحنة",
+            "ro-RO": "1 pasager per camionetă"
         }
     }
 }

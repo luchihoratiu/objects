@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.pokey_park",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX908 |29DFF00D",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "El parc diminut",
@@ -28,7 +21,8 @@
             "zh-CN": "狭窄公园",
             "pl-PL": "Miniaturowy park",
             "gl-ES": "Parque Pokey",
-            "ar-EG": "حديقة بوكي"
+            "ar-EG": "حديقة بوكي",
+            "ro-RO": "Parcul Pokey"
         },
         "park_name": {
             "ca-ES": "El parc diminut",
@@ -44,7 +38,8 @@
             "zh-CN": "狭窄公园",
             "pl-PL": "Miniaturowy park",
             "gl-ES": "Parque Pokey",
-            "ar-EG": "حديقة بوكي"
+            "ar-EG": "حديقة بوكي",
+            "ro-RO": "Parcul Pokey"
         },
         "details": {
             "ca-ES": "Un parc d’atraccions petit i atapeït que requereix una expansió important.",

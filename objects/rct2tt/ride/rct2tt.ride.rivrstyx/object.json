@@ -1,28 +1,15 @@
 {
     "id": "rct2tt.ride.rivrstyx",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|RIVRSTYX|E701FD53",
     "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "river_rafts",
-        "category": [
-            "water",
-            "transport"
-        ],
+        "category": ["water", "transport"],
         "noCollisionCrashes": true,
-        "carColours": [
-            [
-                [
-                    "light_blue",
-                    "bright_pink",
-                    "yellow"
-                ]
-            ]
-        ],
+        "carColours": [[["light_blue", "bright_pink", "yellow"]]],
         "cars": {
             "hasBaseColour": false,
             "rotationFrameMask": 31,
@@ -38,18 +25,10 @@
             },
             "isPowered": true,
             "isWaterRide": true,
-            "loadingPositions": [
-                6,
-                4,
-                -6,
-                -4
-            ]
+            "loadingPositions": [6, 4, -6, -4]
         }
     },
-    "images": [
-        { "path": "images/preview.png" },
-        "$RCT2:OBJDATA/RIVRSTYX.DAT[1..98]"
-    ],
+    "images": [{"path": "images/preview.png"}, "$RCT2:OBJDATA/RIVRSTYX.DAT[1..98]"],
     "strings": {
         "name": {
             "en-GB": "River Styx boats",
@@ -97,7 +76,7 @@
             "en-GB": "4 passengers per raft",
             "fr-FR": "4 passagers par radeau",
             "de-DE": "4 Fahrgäste pro Boot",
-            "es-ES": "4 pasajeros por coche",
+            "es-ES": "4 pasajeros por bote",
             "it-IT": "4 passeggeri per zattera",
             "nl-NL": "4 passagiers per bootje",
             "sv-SE": "4 passagerare per flotte",

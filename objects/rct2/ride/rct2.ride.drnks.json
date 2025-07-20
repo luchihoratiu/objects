@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.drnks",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|DRNKS   |CF2608E1",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "drink_stall",
@@ -18,19 +12,9 @@
         "sells": "drink",
         "disablePainting": true,
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                [
-                    "black",
-                    "black",
-                    "black"
-                ]
-            ]
-        ]
+        "carColours": [[["black", "black", "black"]]]
     },
-    "images": [
-        "$RCT2:OBJDATA/DRNKS.DAT[0..6]"
-    ],
+    "images": ["$RCT2:OBJDATA/DRNKS.DAT[0..6]"],
     "strings": {
         "name": {
             "en-GB": "Drinks Stall",
@@ -51,7 +35,8 @@
             "eo-ZZ": "Trinkaĵoj-Budo",
             "ca-ES": "Paradeta de begudes",
             "fi-FI": "Juomakoju",
-            "gl-ES": "Posto de bebidas"
+            "gl-ES": "Posto de bebidas",
+            "ro-RO": "Standul de Băuturi"
         },
         "description": {
             "en-GB": "A can-shaped stall selling fizzy drinks",

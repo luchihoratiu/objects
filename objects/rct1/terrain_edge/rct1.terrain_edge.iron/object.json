@@ -1,27 +1,13 @@
 {
     "id": "rct1.terrain_edge.iron",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EIR|00000000",
     "sourceGame": "rct1",
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[40590..40665]",
-        { "path": "images/40666.png", "x": -2, "y": -31 },
-        "$CSG[40667]",
-        { "path": "images/40668.png", "x": -26, "y": -31 },
-        "$CSG[40669..40673]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "properties": {},
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[40590..40665]",{"path": "images/40666.png","x": -2,"y": -31}, "$CSG[40667]",{"path": "images/40668.png","x": -26,"y": -31}, "$CSG[40669..40673]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Iron",
@@ -40,7 +26,9 @@
             "ar-EG": "حديد",
             "ru-RU": "Железо",
             "gl-ES": "Ferro",
-            "hu-HU": "Vas"
+            "hu-HU": "Vas",
+            "es-ES": "Hierro",
+            "ro-RO": "Fier"
         }
     }
 }

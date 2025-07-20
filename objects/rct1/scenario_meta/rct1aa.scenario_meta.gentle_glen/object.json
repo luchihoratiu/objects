@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.gentle_glen",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX929 |5EEE35DF",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "La vall tranquil·la",
@@ -26,7 +19,8 @@
             "zh-CN": "温柔峡谷",
             "pl-PL": "Łagodna dolina",
             "gl-ES": "Val estreito Xentil",
-            "ar-EG": "جلين اللطيف"
+            "ar-EG": "جلين اللطيف",
+            "ro-RO": "Valea Blândă"
         },
         "park_name": {
             "ca-ES": "La vall tranquil·la",
@@ -40,7 +34,8 @@
             "zh-CN": "温柔峡谷",
             "pl-PL": "Łagodna dolina",
             "gl-ES": "Val estreito Xentil",
-            "ar-EG": "جلين اللطيف"
+            "ar-EG": "جلين اللطيف",
+            "ro-RO": "Valea Blândă"
         },
         "details": {
             "ca-ES": "La població local prefereix atraccions suaus i relaxants. Així que la vostra feina és expandir aquest parc per a satisfer els seus desitjos.",
@@ -64,7 +59,8 @@
             "zh-TW": "當地居民比較喜愛溫和及令人放鬆的遊樂設施, 所以你的任務便是要將這個樂園以他們的口味擴建",
             "ru-RU": "Местное население предпочитает мягкие, расслабляющие аттракционы. Ваша задача - расширить свой парк под их вкус",
             "gl-ES": "A poboación local prefire atraccións suaves e relaxantes, polo que é o teu traballo expandir este parque para adaptalo aos seus gustos",
-            "ar-EG": "يفضل السكان المحليون الألعاب اللطيفة والمريحة، لذا فإن مهمتك هي توسيع هذه الحديقة لتناسب أذواقهم"
+            "ar-EG": "يفضل السكان المحليون الألعاب اللطيفة والمريحة، لذا فإن مهمتك هي توسيع هذه الحديقة لتناسب أذواقهم",
+            "ro-RO": "Populația locală preferă atracții blânde și relaxante, așa că sarcina ta este să extinzi acest parc pentru a se potrivi gusturilor lor"
         }
     }
 }

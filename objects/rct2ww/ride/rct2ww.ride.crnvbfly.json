@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.ride.crnvbfly",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CC31C10|CRNVBFLY|C054937D",
     "sourceGame": "rct2ww",
@@ -17,62 +15,10 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "dark_green",
-                    "olive_green",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 174320,
-                "mass": 300,
-                "numSeats": 2,
-                "numSeatRows": 1,
-                "poweredAcceleration": 90,
-                "poweredMaxSpeed": 8,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [
-                    4,
-                    -4
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 90,
-                "poweredMaxSpeed": 8,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ]
+        "carColours": [[["bright_red", "yellow", "black"]],[["dark_green", "olive_green", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 174320,"mass": 300,"numSeats": 2,"numSeatRows": 1,"poweredAcceleration": 90,"poweredMaxSpeed": 8,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [4, -4]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 90,"poweredMaxSpeed": 8,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}]
     },
-    "images": [
-        "$RCT2:OBJDATA/CRNVBFLY.DAT[0..210]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/CRNVBFLY.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Carnival Butterfly Cars",
@@ -98,7 +44,7 @@
             "en-GB": "Cars in the shape of butterfly carnival floats",
             "fr-FR": "Voiture de montagnes russes en forme de char de carnaval papillon",
             "de-DE": "Schmetterlingsförmige Karnevalswagen",
-            "es-ES": "Coches de montaña rusa con forma de flotadores mariposa de carnaval",
+            "es-ES": "Vagones de montaña rusa con forma de flotadores mariposa de carnaval",
             "it-IT": "Carrozze galleggianti di ottovolante a forma di farfalla",
             "nl-NL": "Elektrische carnivalsoptochtwagentjes in de vorm van een vlinder.",
             "sv-SE": "Motordrivna karnevalbilar med fjärilsmotiv",

@@ -1,9 +1,6 @@
 {
     "id": "rct2.ride.intinv",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|INTINV  |695D7C15",
     "sourceGame": "rct2",
@@ -14,29 +11,7 @@
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 4,
         "maxCarsPerTrain": 9,
-        "carColours": [
-            [
-                [
-                    "light_blue",
-                    "black",
-                    "bright_red"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "bordeaux_red",
-                    "yellow"
-                ]
-            ],
-            [
-                [
-                    "bordeaux_red",
-                    "white",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["light_blue", "black", "bright_red"]],[["black", "bordeaux_red", "yellow"]],[["bordeaux_red", "white", "black"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 244048,
@@ -57,18 +32,11 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [
-                6,
-                8,
-                -4,
-                -6
-            ]
+            "loadingPositions": [6, 8, -4, -6]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/INTINV.DAT[0..938]"
-    ],
+    "images": ["$RCT2:OBJDATA/INTINV.DAT[0..938]"],
     "strings": {
         "name": {
             "en-GB": "Impulse Trains",
@@ -90,7 +58,8 @@
             "eo-ZZ": "Lanĉitaj Trajnoj",
             "ca-ES": "Impuls invers",
             "fi-FI": "Impulssivaunut",
-            "gl-ES": "Trens de impulso"
+            "gl-ES": "Trens de impulso",
+            "ro-RO": "Trenuri Impulse"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster",

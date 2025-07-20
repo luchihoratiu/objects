@@ -1,22 +1,13 @@
 {
     "id": "rct2.ride.cstboat",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CSTBOAT |4B7F9741",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "water_coaster",
-        "category": [
-            "water",
-            "rollercoaster"
-        ],
+        "category": ["water", "rollercoaster"],
         "playSplashSoundSlide": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
@@ -24,80 +15,11 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "dark_brown",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "grey",
-                    "dark_brown",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "saturated_brown",
-                    "dark_green",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 191752,
-                "mass": 950,
-                "numSeats": 6,
-                "numSeatRows": 3,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "effectVisual": 14,
-                "drawOrder": 10,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true
-                },
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [
-                    7,
-                    9,
-                    2,
-                    4,
-                    -3,
-                    -1
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 87160,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "carVisual": 8,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true
-            }
-        ],
+        "carColours": [[["dark_brown", "bright_red", "black"]],[["grey", "dark_brown", "black"]],[["saturated_brown", "dark_green", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 191752,"mass": 950,"numSeats": 6,"numSeatRows": 3,"frictionSoundId": 2,"soundRange": 2,"effectVisual": 14,"drawOrder": 10,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true},"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [7, 9, 2, 4, -3, -1]},{"rotationFrameMask": 0,"spacing": 87160,"frictionSoundId": 2,"soundRange": 2,"carVisual": 8,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"hasAdditionalColour1": true,"hasScreamingRiders": true}],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/CSTBOAT.DAT[0..1730]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/CSTBOAT.DAT[0..1730]", ""],
     "strings": {
         "name": {
             "en-GB": "Coaster Boats",
@@ -118,7 +40,8 @@
             "eo-ZZ": "Boato-Ĉaroj",
             "ca-ES": "Barquetes costeres",
             "fi-FI": "Vuoristorataveneet",
-            "gl-ES": "Barcos de montaña rusa"
+            "gl-ES": "Barcos de montaña rusa",
+            "ro-RO": "Bărci de Coastă"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -139,7 +62,8 @@
             "eo-ZZ": "Boatoformaj ĉaroj de onda fervojo",
             "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
             "fi-FI": "Veneen muotoiset vuoristoratavaunut",
-            "gl-ES": "Coches de montaña rusa con forma de barco"
+            "gl-ES": "Coches de montaña rusa con forma de barco",
+            "ro-RO": "Vagoane de montagne russe în formă de barcă"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -159,7 +83,8 @@
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por boato",
             "ca-ES": "6 passatgers per barca",
-            "fi-FI": "6 matkustajaa per vene"
+            "fi-FI": "6 matkustajaa per vene",
+            "ro-RO": "6 pasageri per barcă"
         }
     }
 }

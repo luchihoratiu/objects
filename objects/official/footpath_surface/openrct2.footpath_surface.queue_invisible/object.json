@@ -1,39 +1,13 @@
 {
     "id": "openrct2.footpath_surface.queue_invisible",
-    "authors": [
-        "OpenRCT2 developers"
-    ],
+    "authors": ["OpenRCT2 developers"],
     "version": "1.0",
-    "sourceGame": [
-        "official"
-    ],
+    "sourceGame": ["official"],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
     },
-    "images": [
-        { "path": "images/preview.png", "x": 1, "y": 1 },
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
+    "images": [{"path": "images/preview.png","x": 1,"y": 1}, "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
     "strings": {
         "name": {
             "en-GB": "Invisible Queue",
@@ -52,7 +26,9 @@
             "ru-RU": "Невидимая очередь",
             "gl-ES": "Cola Invisible",
             "ja-JP": "見えない行列",
-            "cs-CZ": "Neviditelná fronta"
+            "cs-CZ": "Neviditelná fronta",
+            "es-ES": "Cola Invisible",
+            "ro-RO": "Coadă Invizibilă"
         }
     }
 }

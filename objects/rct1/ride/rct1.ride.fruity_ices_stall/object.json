@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.fruity_ices_stall",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
@@ -14,31 +11,10 @@
         "clearance": 56,
         "sells": "ice_cream",
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                [
-                    "light_blue",
-                    "black",
-                    "black"
-                ]
-            ]
-        ]
+        "carColours": [[["light_blue", "black", "black"]]]
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[60625..60628]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        { "path": "images/nocsg_0.png", "x": -23, "y": -44 },
-        { "path": "images/nocsg_1.png", "x": -23, "y": -44 },
-        { "path": "images/nocsg_2.png", "x": -28, "y": -46 },
-        { "path": "images/nocsg_3.png", "x": -28, "y": -39 }
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[60625..60628]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "",{"path": "images/nocsg_0.png","x": -23,"y": -44},{"path": "images/nocsg_1.png","x": -23,"y": -44},{"path": "images/nocsg_2.png","x": -28,"y": -46},{"path": "images/nocsg_3.png","x": -28,"y": -39}],
     "strings": {
         "name": {
             "en-GB": "Fruity Ices Stall",
@@ -60,7 +36,8 @@
             "ca-ES": "Parada de gelats de fruita",
             "fi-FI": "Hedelmäjäätelökoju",
             "gl-ES": "Posto de Xeo de Froita",
-            "ar-EG": "كشك المثلجات بالفواكه"
+            "ar-EG": "كشك المثلجات بالفواكه",
+            "ro-RO": "Standul de Înghețată cu Fructe"
         },
         "description": {
             "en-GB": "A themed stall selling fruity ice creams",
@@ -82,7 +59,8 @@
             "ca-ES": "Estand que ven gelats de fruita.",
             "fi-FI": "Teemattu koju, joka myy hedelmänmakuisia jäätelöitä",
             "gl-ES": "Un posto temático que vende xeados de froita",
-            "ar-EG": "كشك مصمم لبيع المثلجات بنكهة الفواكه"
+            "ar-EG": "كشك مصمم لبيع المثلجات بنكهة الفواكه",
+            "ro-RO": "Un stand tematic care vinde înghețată cu fructe"
         }
     }
 }

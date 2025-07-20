@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.coaster_canyon",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX936 |9F8B1407",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "وادي الإفعوانيات",
@@ -26,7 +19,8 @@
             "pt-BR": "Atração no Desfiladeiro",
             "zh-CN": "过山车峡谷",
             "pl-PL": "Kolejkowy kanion",
-            "gl-ES": "Cañón da montaña rusa"
+            "gl-ES": "Cañón da montaña rusa",
+            "ro-RO": "Canionul Montagnelor Russe"
         },
         "park_name": {
             "ar-EG": "وادي الإفعوانيات",
@@ -40,7 +34,8 @@
             "pt-BR": "Atração no Desfiladeiro",
             "zh-CN": "过山车峡谷",
             "pl-PL": "Kolejkowy kanion",
-            "gl-ES": "Cañón da montaña rusa"
+            "gl-ES": "Cañón da montaña rusa",
+            "ro-RO": "Canionul Montagnelor Russe"
         },
         "details": {
             "ar-EG": "وادي كبير متوفر لك لكي تطورة إلي حديقة أفعوانيات",
@@ -64,7 +59,8 @@
             "zh-CN": "一个巨大的峡谷供你开发成一个主题公园",
             "zh-TW": "這個巨大的峽谷現可由你任意發展成一個樂園",
             "ru-RU": "Превратите огромный каньон в парк",
-            "gl-ES": "Un vasto canón é teu para converterlo nun parque temático"
+            "gl-ES": "Un vasto canón é teu para converterlo nun parque temático",
+            "ro-RO": "Un canion vast este al tău pentru a fi transformat într-un parc tematic"
         }
     }
 }

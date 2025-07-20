@@ -1,24 +1,13 @@
 {
     "id": "rct2.music.ragtime",
-    "authors": [
-        "Charles Krolek"
-    ],
+    "authors": ["Charles Krolek"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC18|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 18,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css34.dat",
-                "name": "Searchlight Rag",
-                "composer": "Scott Joplin"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css34.dat","name": "Searchlight Rag","composer": "Scott Joplin"}]
     },
     "strings": {
         "name": {
@@ -44,7 +33,8 @@
             "eo-ZZ": "Ragtimo-stilo",
             "fi-FI": "Ragtime-tyylinen",
             "nb-NO": "Ragtime-stil",
-            "gl-ES": "Estilo ragtime"
+            "gl-ES": "Estilo ragtime",
+            "ro-RO": "Stil Ragtime"
         }
     }
 }

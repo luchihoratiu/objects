@@ -1,25 +1,13 @@
 {
     "id": "rct2.music.techno",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC11|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 11,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css27.dat",
-                "name": "Brimble’s Beat",
-                "composer": "Allister Brimble"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css27.dat","name": "Brimble’s Beat","composer": "Allister Brimble"}]
     },
     "strings": {
         "name": {
@@ -45,7 +33,8 @@
             "zh-TW": "電子風格",
             "eo-ZZ": "Tekna stilo",
             "nb-NO": "Techno-stil",
-            "gl-ES": "Estilo tecno"
+            "gl-ES": "Estilo tecno",
+            "ro-RO": "Stil Techno"
         }
     }
 }

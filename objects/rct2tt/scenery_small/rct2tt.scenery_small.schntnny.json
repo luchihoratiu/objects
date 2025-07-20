@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.schntnny",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA21|SCHNTNNY|4E59A1F2",
     "sourceGame": "rct2tt",
@@ -16,9 +14,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/SCHNTNNY.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/SCHNTNNY.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Racing Tannoy",
@@ -31,7 +27,7 @@
             "ko-KR": "레이싱 스피커 장치",
             "zh-TW": "運轉中的擴音系統",
             "pt-BR": "Alto-Falantes de Corrida",
-            "cs-CZ": "Závodní tannoy",
+            "cs-CZ": "Tlampač Tannoy",
             "pl-PL": "Głośnik wyścigowy",
             "ru-RU": "Гоночная машина",
             "ja-JP": "レース用スピーカー",

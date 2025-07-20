@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.bmsd",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|BMSD    |E64D1747",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "twister_rc",
@@ -21,97 +15,11 @@
         "tabCar": 1,
         "headCars": 1,
         "maxHeight": 40,
-        "carColours": [
-            [
-                [
-                    "bright_green",
-                    "yellow",
-                    "yellow"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "white",
-                    "light_orange"
-                ]
-            ],
-            [
-                [
-                    "light_blue",
-                    "light_blue",
-                    "white"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 130740,
-                "mass": 650,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 57,
-                "soundRange": 0,
-                "drawOrder": 8,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "inlineTwists": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTurns": true,
-                    "flatToGentleSlopeWhileBankedTransitions": true,
-                    "corkscrews": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [
-                    -2,
-                    -4,
-                    -2,
-                    -4
-                ]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 95876,
-                "mass": 525,
-                "frictionSoundId": 57,
-                "soundRange": 0,
-                "drawOrder": 8,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "inlineTwists": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTurns": true,
-                    "flatToGentleSlopeWhileBankedTransitions": true,
-                    "corkscrews": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true
-            }
-        ],
+        "carColours": [[["bright_green", "yellow", "yellow"]],[["bright_red", "white", "light_orange"]],[["light_blue", "light_blue", "white"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 130740,"mass": 650,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 57,"soundRange": 0,"drawOrder": 8,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"inlineTwists": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"gentleSlopeBankedTransitions": true,"gentleSlopeBankedTurns": true,"flatToGentleSlopeWhileBankedTransitions": true,"corkscrews": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [-2, -4, -2, -4]},{"rotationFrameMask": 31,"spacing": 95876,"mass": 525,"frictionSoundId": 57,"soundRange": 0,"drawOrder": 8,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"inlineTwists": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"gentleSlopeBankedTransitions": true,"gentleSlopeBankedTurns": true,"flatToGentleSlopeWhileBankedTransitions": true,"corkscrews": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true}],
         "buildMenuPriority": 5
     },
-    "images": [
-        "$RCT2:OBJDATA/BMSD.DAT[0..3350]"
-    ],
+    "images": ["$RCT2:OBJDATA/BMSD.DAT[0..3350]"],
     "strings": {
         "name": {
             "en-GB": "Twister Trains",
@@ -132,7 +40,8 @@
             "eo-ZZ": "Tvisto-Trajnoj",
             "ca-ES": "Muntanya russa Tornado",
             "fi-FI": "Kiehkuravaunut",
-            "gl-ES": "Trens Twister"
+            "gl-ES": "Trens Twister",
+            "ro-RO": "Trenuri Twister"
         },
         "description": {
             "en-GB": "Spacious trains with shoulder restraints",

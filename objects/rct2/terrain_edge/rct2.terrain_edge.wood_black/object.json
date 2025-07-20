@@ -1,26 +1,12 @@
 {
     "id": "rct2.terrain_edge.wood_black",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT2EWB|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        "$G1[5595]",
-        "$G1[1663..1738]",
-        { "path": "images/01739.png", "x": -2, "y": -31 },
-        "$G1[1740]",
-        { "path": "images/01741.png", "x": -24, "y": -31 },
-        "$G1[1742..1746]"
-    ],
+    "properties": {},
+    "images": ["$G1[5595]", "$G1[1663..1738]",{"path": "images/01739.png","x": -2,"y": -31}, "$G1[1740]",{"path": "images/01741.png","x": -24,"y": -31}, "$G1[1742..1746]"],
     "strings": {
         "name": {
             "en-GB": "Wood (black)",
@@ -37,7 +23,8 @@
             "fi-FI": "Puinen (musta)",
             "zh-CN": "木头(黑色)",
             "ru-RU": "Дерево (чёрное)",
-            "gl-ES": "Madeira (negro)"
+            "gl-ES": "Madeira (negro)",
+            "es-ES": "Madera (negra)"
         }
     }
 }

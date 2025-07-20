@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.hatst",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|HATST   |DAE9D00C",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "shop",
@@ -17,19 +11,9 @@
         "clearance": 32,
         "sells": "hat",
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "black",
-                    "black"
-                ]
-            ]
-        ]
+        "carColours": [[["bright_red", "black", "black"]]]
     },
-    "images": [
-        "$RCT2:OBJDATA/HATST.DAT[0..6]"
-    ],
+    "images": ["$RCT2:OBJDATA/HATST.DAT[0..6]"],
     "strings": {
         "name": {
             "en-GB": "Hat Stall",
@@ -50,7 +34,8 @@
             "eo-ZZ": "Ĉapelbudo",
             "ca-ES": "Estand de barrets",
             "fi-FI": "Hattukoju",
-            "gl-ES": "Posto de sombreiros"
+            "gl-ES": "Posto de sombreiros",
+            "ro-RO": "Standul de Pălării"
         },
         "description": {
             "en-GB": "A souvenir stall selling large foam hats",

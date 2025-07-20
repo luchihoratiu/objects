@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.diamond_heights",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX903 |A48F5CD8",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "المرتفعات الألماسية",
@@ -27,7 +20,8 @@
             "pt-BR": "Picos Diamantinos",
             "zh-CN": "钻石高地",
             "pl-PL": "Diamentowe Wzgórza",
-            "gl-ES": "Altos Diamante"
+            "gl-ES": "Altos Diamante",
+            "ro-RO": "Înălțimile Diamantului"
         },
         "park_name": {
             "ar-EG": "المرتفعات الألماسية",
@@ -42,7 +36,8 @@
             "pt-BR": "Picos Diamantinos",
             "zh-CN": "钻石高地",
             "pl-PL": "Diamentowe Wzgórza",
-            "gl-ES": "Altos Diamante"
+            "gl-ES": "Altos Diamante",
+            "ro-RO": "Înălțimile Diamantului"
         },
         "details": {
             "ar-EG": "المرتفعات الألماسية هي بالفعل حديقة ترفيهية ناجحة مع رحلات رائعة - قم بتطويرها لمضاعفة قيمتها",

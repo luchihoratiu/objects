@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_small.tghc",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|TGHC    |6A94E2D8",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
@@ -19,9 +13,7 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": [
-        "$RCT2:OBJDATA/TGHC.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TGHC.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Golden Hinoki Cypress Tree",
@@ -35,7 +27,7 @@
             "zh-CN": "金丝柏树",
             "zh-TW": "黃金扁柏樹",
             "pt-BR": "Árvore Cipreste Hinoki Dourado",
-            "cs-CZ": "Hinoki cypřiš",
+            "cs-CZ": "Cypřiš Hinoki",
             "ja-JP": "ゴールデンヒノキ",
             "pl-PL": "Złoty cyprys hinoki",
             "ru-RU": "Золотой кипарис",

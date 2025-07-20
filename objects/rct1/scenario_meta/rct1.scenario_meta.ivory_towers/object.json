@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.ivory_towers",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX918 |E6312257",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Les torres de vori",
@@ -27,7 +20,8 @@
             "zh-CN": "象牙塔",
             "pl-PL": "Wieże Białej Kości",
             "gl-ES": "Torres de Marfil",
-            "ar-EG": "الأبراج العاجية"
+            "ar-EG": "الأبراج العاجية",
+            "ro-RO": "Turnurile de Fildeș"
         },
         "park_name": {
             "ca-ES": "Les torres de vori",
@@ -42,7 +36,8 @@
             "zh-CN": "象牙塔",
             "pl-PL": "Wieże Białej Kości",
             "gl-ES": "Torres de Marfil",
-            "ar-EG": "الأبراج العاجية"
+            "ar-EG": "الأبراج العاجية",
+            "ro-RO": "Turnurile de Fildeș"
         },
         "details": {
             "ca-ES": "Un parc ben establert que té alguns problemes.",

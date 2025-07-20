@@ -1,23 +1,14 @@
 {
     "id": "rct1aa.footpath_surface.tarmac_red",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43473..43523]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43473..43523]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Red Tarmac Footpath (Sloped)",
@@ -35,7 +26,8 @@
             "gl-ES": "Camiño de asfalto vermello (inclinado)",
             "ja-JP": "赤いアスファルト歩道（傾斜）",
             "ar-EG": "مسار مشاة أسفلتي أحمر (منحدر)",
-            "cs-CZ": "Červená asfaltová cesta (se svahy)"
+            "cs-CZ": "Červená asfaltová cesta (se svahy)",
+            "ro-RO": "Alee de Asfalt Roșie (Înclinată)"
         }
     }
 }

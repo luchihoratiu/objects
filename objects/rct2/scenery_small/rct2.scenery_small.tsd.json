@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_small.tsd",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|TSD     |A5E0076B",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 7,
@@ -21,9 +15,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TSD.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TSD.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Spade Shaped Tree",
@@ -37,7 +29,7 @@
             "zh-CN": "铲子形状的树",
             "zh-TW": "鏟子形狀的樹",
             "pt-BR": "Árvore em Forma de Espada",
-            "cs-CZ": "Strom ve tvaru listu",
+            "cs-CZ": "Strom ve tvaru karetních piků",
             "ja-JP": "スペード型の木",
             "pl-PL": "Drzewo pikowe",
             "ru-RU": "Дерево в форме пики",

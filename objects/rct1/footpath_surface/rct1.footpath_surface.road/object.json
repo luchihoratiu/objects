@@ -1,23 +1,14 @@
 {
     "id": "rct1.footpath_surface.road",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "sourceGame": [
-        "rct1",
-        "rct2"
-    ],
+    "sourceGame": ["rct1", "rct2"],
     "objectType": "footpath_surface",
     "properties": {
         "editorOnly": true,
         "noSlopeRailings": true
     },
-    "images": [
-        "$RCT2:OBJDATA/ROAD.DAT[71]",
-        "$RCT2:OBJDATA/ROAD.DAT[0..50]"
-    ],
+    "images": ["$RCT2:OBJDATA/ROAD.DAT[71]", "$RCT2:OBJDATA/ROAD.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Road",
@@ -40,7 +31,8 @@
             "ca-ES": "Camí pavimentat",
             "fi-FI": "Tie",
             "gl-ES": "Estrada",
-            "ar-EG": "طريق"
+            "ar-EG": "طريق",
+            "ro-RO": "Drum"
         }
     }
 }

@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.rainbow_valley",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX919 |FB6C59B5",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "وادي قوس القزح",
@@ -27,7 +20,8 @@
             "pt-BR": "Vale do Arco-íris",
             "zh-CN": "彩虹谷",
             "pl-PL": "Tęczowa Dolina",
-            "gl-ES": "Val do arco da vella"
+            "gl-ES": "Val do arco da vella",
+            "ro-RO": "Valea Curcubeului"
         },
         "park_name": {
             "ar-EG": "وادي قوس القزح",
@@ -42,7 +36,8 @@
             "pt-BR": "Vale do Arco-íris",
             "zh-CN": "彩虹谷",
             "pl-PL": "Tęczowa Dolina",
-            "gl-ES": "Val do arco da vella"
+            "gl-ES": "Val do arco da vella",
+            "ro-RO": "Valea Curcubeului"
         },
         "details": {
             "ar-EG": "لن تسمح السلطة المحلية في \"وادي قوس القزح\" بأي تغييرات في المناظر الطبيعية أو إزالة الأشجار الكبيرة، ولكن يجب عليك تطوير المنطقة لتصبح حديقة ملاهي كبيرة",

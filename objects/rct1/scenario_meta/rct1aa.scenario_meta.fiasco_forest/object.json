@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.fiasco_forest",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX944 |CDEA125E",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "El bosc Fiasco",
@@ -26,7 +19,8 @@
             "zh-CN": "惨淡森林",
             "pl-PL": "Leśne fiasko",
             "gl-ES": "Bosque do Fracaso",
-            "ar-EG": "غابة الفشل الذريع"
+            "ar-EG": "غابة الفشل الذريع",
+            "ro-RO": "Pădurea Fiasco"
         },
         "park_name": {
             "ca-ES": "El bosc Fiasco",
@@ -40,7 +34,8 @@
             "zh-CN": "惨淡森林",
             "pl-PL": "Leśne fiasko",
             "gl-ES": "Bosque do Fracaso",
-            "ar-EG": "غابة الفشل الذريع"
+            "ar-EG": "غابة الفشل الذريع",
+            "ro-RO": "Pădurea Fiasco"
         },
         "details": {
             "ca-ES": "Ple d’atraccions perilloses i mal dissenyades, teniu un pressupost i temps molt limitat per a solucionar-ne els problemes i tirar endavant el parc.",
@@ -64,7 +59,8 @@
             "zh-TW": "你只有非常有限的資金及時間去修復這一個充滿不同劣質設計及非常危險的遊樂設施的樂園",
             "ru-RU": "Тут полно плохих и опасных аттракционов, и у вас очень ограниченный бюджет чтобы исправить все проблемы этого парка",
             "gl-ES": "Cheo de atraccións mal deseñadas e perigosas, tes un orzamento e un tempo moi limitados para solucionar os problemas e dar a volta ao parque",
-            "ar-EG": "مليئة بالألعاب سيئة التصميم والخطيرة، لديك ميزانية ووقت محدودان للغاية لإصلاح المشاكل وتحويل الحديقة"
+            "ar-EG": "مليئة بالألعاب سيئة التصميم والخطيرة، لديك ميزانية ووقت محدودان للغاية لإصلاح المشاكل وتحويل الحديقة",
+            "ro-RO": "Plin de atracții prost concepute și periculoase, ai un buget și timp foarte limitat pentru a rezolva problemele și a redresa parcul"
         }
     }
 }

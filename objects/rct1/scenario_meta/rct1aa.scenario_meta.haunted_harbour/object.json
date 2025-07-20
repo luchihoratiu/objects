@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.haunted_harbour",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX926 |3D7E8A36",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "الميناء المسكون",
@@ -27,7 +20,8 @@
             "pt-BR": "Porto Assombrado",
             "zh-CN": "闹心港口",
             "pl-PL": "Nawiedzona Przystań",
-            "gl-ES": "Porto Encantado"
+            "gl-ES": "Porto Encantado",
+            "ro-RO": "Portul Bântuit"
         },
         "park_name": {
             "ar-EG": "الميناء المسكون",
@@ -42,7 +36,8 @@
             "pt-BR": "Porto Assombrado",
             "zh-CN": "闹心港口",
             "pl-PL": "Nawiedzona Przystań",
-            "gl-ES": "Porto Encantado"
+            "gl-ES": "Porto Encantado",
+            "ro-RO": "Portul Bântuit"
         },
         "details": {
             "ar-EG": "وافقت السلطة المحلية على بيع الأراضي المجاورة بسعر رخيص لهذه الحديقة الساحلية الصغيرة، بشرط الحفاظ على بعض الرحلات.",

@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_small.tht",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|THT     |9A25A7CB",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 7,
@@ -21,9 +15,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/THT.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/THT.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Heart Shaped Tree",
@@ -37,7 +29,7 @@
             "zh-CN": "心形的树",
             "zh-TW": "心形的樹",
             "pt-BR": "Árvore em Forma de Coração",
-            "cs-CZ": "Strom ve tvaru srdce",
+            "cs-CZ": "Strom ve tvaru karetních srdcí",
             "ja-JP": "ハート形の木",
             "pl-PL": "Drzewo sercowe",
             "ru-RU": "Дерево в форме червей",

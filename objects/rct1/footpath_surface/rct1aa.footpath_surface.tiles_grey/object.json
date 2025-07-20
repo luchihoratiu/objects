@@ -1,25 +1,14 @@
 {
     "id": "rct1aa.footpath_surface.tiles_grey",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43881..43931]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
-        "$RCT2:OBJDATA/ROAD.DAT[16..19]",
-        "$RCT2:OBJDATA/TARMAC.DAT[20..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43881..43931]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[0..15]", "$RCT2:OBJDATA/ROAD.DAT[16..19]", "$RCT2:OBJDATA/TARMAC.DAT[20..50]"],
     "strings": {
         "name": {
             "en-GB": "Grey Tiled Footpath",
@@ -39,7 +28,8 @@
             "zh-CN": "灰色瓷砖人行道",
             "ru-RU": "Серая плитка",
             "gl-ES": "Camiño de lousas gris",
-            "cs-CZ": "Šedá dlážděná cesta"
+            "cs-CZ": "Šedá dlážděná cesta",
+            "ro-RO": "Alee cu Plăci Gri"
         }
     }
 }

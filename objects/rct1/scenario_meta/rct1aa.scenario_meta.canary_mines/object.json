@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.canary_mines",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX923 |5B1AC1CB",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Les mines Canàries",
@@ -26,7 +19,8 @@
             "zh-CN": "金丝雀矿",
             "pl-PL": "Kopalnie kanarkowe",
             "gl-ES": "Minas Canarias",
-            "ar-EG": "مناجم كناري"
+            "ar-EG": "مناجم كناري",
+            "ro-RO": "Minele Canarilor"
         },
         "park_name": {
             "ca-ES": "Les mines Canàries",
@@ -41,7 +35,8 @@
             "zh-CN": "金丝雀矿",
             "pl-PL": "Kopalnie kanarkowe",
             "gl-ES": "Minas Canarias",
-            "ar-EG": "مناجم كناري"
+            "ar-EG": "مناجم كناري",
+            "ro-RO": "Minele Canarilor"
         },
         "details": {
             "ca-ES": "Aquestes mines abandonades ja són una atracció turística amb el seu tren en miniatura i una parella de muntanyes russes amb caigudes verticals.",
@@ -66,7 +61,8 @@
             "zh-TW": "因為擁有一條觀光鐵路及兩座垂直雲霄飛車, 這個已荒廢的礦場具有成為旅遊景點的潛力",
             "ru-RU": "Эта заброшенная шахта уже привлекает туристов своей миниатюрной железной дорогой и парочкой вертикальных аттракционов",
             "gl-ES": "Esta mina abandonada xa ten as características dunha atracción turística co seu ferrocarril en miniatura e un par de montañas rusas de caída vertical.",
-            "ar-EG": "يحتوي هذا المنجم المهجور بالفعل على مقومات معلم جذب سياحي بسكته الحديدية المصغرة وزوج من الأفعوانيات ذات الانحدار العمودي"
+            "ar-EG": "يحتوي هذا المنجم المهجور بالفعل على مقومات معلم جذب سياحي بسكته الحديدية المصغرة وزوج من الأفعوانيات ذات الانحدار العمودي",
+            "ro-RO": "Această mină abandonată are deja elementele unei atracții turistice cu calea ferată miniaturală și o pereche de montagne russe cu cădere verticală"
         }
     }
 }

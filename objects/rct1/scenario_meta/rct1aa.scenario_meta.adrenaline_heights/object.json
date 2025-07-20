@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.adrenaline_heights",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX941 |C1E9C63B",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Els cims d’Adrenalina",
@@ -26,7 +19,8 @@
             "zh-CN": "肾上腺素高地",
             "pl-PL": "Wzgórza Adrenaliny",
             "gl-ES": "Alturas de adrenalina",
-            "ar-EG": "مرتفعات الأدرينالين"
+            "ar-EG": "مرتفعات الأدرينالين",
+            "ro-RO": "Înălțimile Adrenalinice"
         },
         "park_name": {
             "ca-ES": "Els cims d’Adrenalina",
@@ -40,7 +34,8 @@
             "zh-CN": "肾上腺素高地",
             "pl-PL": "Wzgórza Adrenaliny",
             "gl-ES": "Alturas de adrenalina",
-            "ar-EG": "مرتفعات الأدرينالين"
+            "ar-EG": "مرتفعات الأدرينالين",
+            "ro-RO": "Înălțimile Adrenalinice"
         },
         "details": {
             "ca-ES": "Construeix un parc per a atreure a la gent dels voltants que busqui emocions d’alt voltatge.",
@@ -64,7 +59,8 @@
             "zh-TW": "建造一個能吸引喜好高刺激度遊樂設施的當地遊客前往的樂園",
             "ru-RU": "Постройте парк, привлекающий местных экстремалов",
             "gl-ES": "Constrúe un parque para atraer á xente local que busca emociones fortes",
-            "ar-EG": "ابنِ حديقة لجذب السكان المحليين الباحثين عن الإثارة عالية الكثافة"
+            "ar-EG": "ابنِ حديقة لجذب السكان المحليين الباحثين عن الإثارة عالية الكثافة",
+            "ro-RO": "Construiește un parc pentru a atrage locuitorii locali în căutarea senzațiilor tari de intensitate mare"
         }
     }
 }

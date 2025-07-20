@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.funtopia",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX925 |F567EA35",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "فينتوبيا",
@@ -61,7 +54,8 @@
             "zh-CN": "在高速公路两侧的这个公园已经有几个游乐设施在运营",
             "zh-TW": "這個被一條高速公路所分開的樂園已擁有幾個已在運行的遊樂設施",
             "ru-RU": "Этот парк, покрывающий две стороны большого шоссе, уже имеет несколько аттракционов",
-            "gl-ES": "Cubrindo terreos a ambos os dous lados dunha estrada, este parque xa ten varios atraccións en funcionamento"
+            "gl-ES": "Cubrindo terreos a ambos os dous lados dunha estrada, este parque xa ten varios atraccións en funcionamento",
+            "ro-RO": "Acoperind terenul de ambele părți ale unei autostrăzi, acest parc are deja mai multe atracții în funcțiune"
         }
     }
 }

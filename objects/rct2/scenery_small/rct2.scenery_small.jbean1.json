@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.jbean1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|JBEAN1  |5AD6FC14",
     "sourceGame": "rct2",
@@ -18,9 +15,7 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/JBEAN1.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/JBEAN1.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Jellybean",
@@ -34,7 +29,7 @@
             "zh-CN": "软豆糖",
             "zh-TW": "軟豆糖",
             "pt-BR": "Bala de Mascar",
-            "cs-CZ": "Lentilka",
+            "cs-CZ": "Želatinový červík",
             "ja-JP": "ジェリービーン",
             "pl-PL": "Żelka",
             "ru-RU": "Жевательная конфета",

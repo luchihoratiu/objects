@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.roman_village",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX939 |9582A8D7",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "القرية الرومانية",
@@ -26,7 +19,8 @@
             "pt-BR": "Vila Romana",
             "zh-CN": "罗马村庄",
             "pl-PL": "Rzymska wioska",
-            "gl-ES": "Aldea Romana"
+            "gl-ES": "Aldea Romana",
+            "ro-RO": "Satul Roman"
         },
         "park_name": {
             "ar-EG": "القرية الرومانية",
@@ -40,7 +34,8 @@
             "pt-BR": "Vila Romana",
             "zh-CN": "罗马村庄",
             "pl-PL": "Rzymska wioska",
-            "gl-ES": "Aldea Romana"
+            "gl-ES": "Aldea Romana",
+            "ro-RO": "Satul Roman"
         },
         "details": {
             "ar-EG": "طور هذه الحديقة المثيرة علي النمط اليوناني، بالمزيد من الأفعوانيات والرحلات",

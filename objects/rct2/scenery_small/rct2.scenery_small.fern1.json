@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.fern1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|FERN1   |B55204A3",
     "sourceGame": "rct2",
@@ -16,9 +13,7 @@
         "shape": "4/4",
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/FERN1.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/FERN1.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Giant Fern",
@@ -38,7 +33,8 @@
             "eo-ZZ": "Giganta Filiko",
             "ca-ES": "Falguera gegant",
             "fi-FI": "Jättimäinen saniainen",
-            "gl-ES": "fieito xigante"
+            "gl-ES": "fieito xigante",
+            "cs-CZ": "Královská kapradina"
         }
     }
 }

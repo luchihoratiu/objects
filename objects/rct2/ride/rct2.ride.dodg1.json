@@ -1,50 +1,15 @@
 {
     "id": "rct2.ride.dodg1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|DODG1   |202805C0",
-    "sourceGame": [
-        "rct2",
-        "rct1"
-    ],
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "dodgems",
         "category": "gentle",
         "carsPerFlatRide": 12,
-        "carColours": [
-            [
-                [
-                    "bright_red",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_blue",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "yellow",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_purple",
-                    "yellow",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["bright_red", "white", "black"]],[["light_blue", "white", "black"]],[["yellow", "bright_red", "black"]],[["bright_purple", "yellow", "black"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 139456,
@@ -63,15 +28,11 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [
-                0
-            ]
+            "loadingPositions": [0]
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/DODG1.DAT[0..130]"
-    ],
+    "images": ["$RCT2:OBJDATA/DODG1.DAT[0..130]"],
     "strings": {
         "name": {
             "en-GB": "Dodgems",
@@ -122,7 +83,7 @@
             "en-GB": "1 person per car",
             "fr-FR": "1 personne par voiture",
             "de-DE": "1 Person pro Wagen",
-            "es-ES": "1 persona por vagón",
+            "es-ES": "1 persona por coche",
             "it-IT": "1 persona per auto",
             "nl-NL": "1 passagier per botsauto",
             "sv-SE": "1 person per bil",

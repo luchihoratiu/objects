@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_wall.wc18",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188083|WC18    |7210A0FD",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,9 +11,7 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": [
-        "$RCT2:OBJDATA/WC18.DAT[0..5]"
-    ],
+    "images": ["$RCT2:OBJDATA/WC18.DAT[0..5]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Post Wall",
@@ -33,7 +25,7 @@
             "zh-CN": "木桩墙",
             "zh-TW": "木樁牆",
             "pt-BR": "Parede de Poste de Madeira",
-            "cs-CZ": "Dřevěný sloup v plotě",
+            "cs-CZ": "Dřevěná palisáda",
             "ja-JP": "木製の柱の壁",
             "pl-PL": "Ściana z drewnianych słupków",
             "ru-RU": "Забор из деревянных столбов",

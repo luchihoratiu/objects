@@ -1,15 +1,9 @@
 {
     "id": "rct2.footpath_item.jumpsnw1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188786|JUMPSNW1|AFE38320",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "footpath_item",
     "properties": {
         "isJumpingFountainSnow": true,
@@ -18,9 +12,7 @@
         "price": 250,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": [
-        "$RCT2:OBJDATA/JUMPSNW1.DAT[0..4]"
-    ],
+    "images": ["$RCT2:OBJDATA/JUMPSNW1.DAT[0..4]"],
     "strings": {
         "name": {
             "en-GB": "Jumping Snowballs",
@@ -42,7 +34,8 @@
             "eo-ZZ": "Saltantaj Neĝbuloj",
             "ca-ES": "Flocs de neu ballarins",
             "fi-FI": "Hyppivät lumipallot",
-            "gl-ES": "Bolas de Neve Saltaricas"
+            "gl-ES": "Bolas de Neve Saltaricas",
+            "ro-RO": "Bulgări de Zăpadă Săriți"
         }
     }
 }

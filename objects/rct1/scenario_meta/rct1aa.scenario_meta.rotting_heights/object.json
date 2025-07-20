@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.rotting_heights",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB400A|STEX943 |1F527860",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Els cims Mig-Podrits",
@@ -26,7 +19,8 @@
             "zh-CN": "腐烂高地",
             "pl-PL": "Gnijące wzgórza",
             "gl-ES": "Alturas Podrecidas",
-            "ar-EG": "مرتفعات روتينج"
+            "ar-EG": "مرتفعات روتينج",
+            "ro-RO": "Înălțimile Putrezitoare"
         },
         "park_name": {
             "ca-ES": "Els cims Mig-Podrits",
@@ -40,7 +34,8 @@
             "zh-CN": "腐烂高地",
             "pl-PL": "Gnijące wzgórza",
             "gl-ES": "Alturas Podrecidas",
-            "ar-EG": "مرتفعات روتينج"
+            "ar-EG": "مرتفعات روتينج",
+            "ro-RO": "Înălțimile Putrezitoare"
         },
         "details": {
             "ca-ES": "Descuidat i dilapidat, podreu ressuscitar aquest parc d’atraccions que fa temps era un dels millors?",

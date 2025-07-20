@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.scenery_small.wiskybl2",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA21|WISKYBL2|165E1AD2",
     "sourceGame": "rct2tt",
@@ -19,12 +17,7 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": [
-        "$RCT2:OBJDATA/WISKYBL2.DAT[0]",
-        "$RCT2:OBJDATA/WISKYBL2.DAT[2]",
-        "$RCT2:OBJDATA/WISKYBL2.DAT[1]",
-        "$RCT2:OBJDATA/WISKYBL2.DAT[3]"
-    ],
+    "images": ["$RCT2:OBJDATA/WISKYBL2.DAT[0]", "$RCT2:OBJDATA/WISKYBL2.DAT[2]", "$RCT2:OBJDATA/WISKYBL2.DAT[1]", "$RCT2:OBJDATA/WISKYBL2.DAT[3]"],
     "strings": {
         "name": {
             "en-GB": "Whisky Barrels",
@@ -37,7 +30,7 @@
             "ko-KR": "위스키 통",
             "zh-TW": "威士忌桶",
             "pt-BR": "Barris de Uísque",
-            "cs-CZ": "Whisky barely",
+            "cs-CZ": "Sudy s whisky",
             "pl-PL": "Baryłki whisky",
             "ru-RU": "Бочки виски",
             "ja-JP": "ウィスキー樽",

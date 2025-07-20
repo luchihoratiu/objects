@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.racing_cars",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1RCR|00000000",
     "sourceGame": "rct1",
@@ -19,161 +16,12 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "bright_green",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_blue",
-                    "light_orange",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 15,
-                "spacing": 139456,
-                "mass": 270,
-                "numSeats": 1,
-                "numSeatRows": 1,
-                "poweredAcceleration": 110,
-                "poweredMaxSpeed": 9,
-                "drawOrder": 7,
-                "spriteGroups": {
-                    "slopeFlat": 16,
-                    "slopes12": 4,
-                    "slopes25": 4
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [
-                    0
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 110,
-                "poweredMaxSpeed": 9,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ],
+        "carColours": [[["bright_green", "yellow", "black"]],[["bright_red", "yellow", "black"]],[["light_blue", "light_orange", "black"]]],
+        "cars": [{"rotationFrameMask": 15,"spacing": 139456,"mass": 270,"numSeats": 1,"numSeatRows": 1,"poweredAcceleration": 110,"poweredMaxSpeed": 9,"drawOrder": 7,"spriteGroups": {"slopeFlat": 16,"slopes12": 4,"slopes25": 4},"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [0]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 110,"poweredMaxSpeed": 9,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}],
         "buildMenuPriority": 4
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[33293..33308]",
-        "$CSG[33309]",
-        "$CSG[33313]",
-        "$CSG[33317]",
-        "$CSG[33321]",
-        "$CSG[33311]",
-        "$CSG[33315]",
-        "$CSG[33319]",
-        "$CSG[33323]",
-        "$CSG[33310]",
-        "$CSG[33314]",
-        "$CSG[33318]",
-        "$CSG[33322]",
-        "$CSG[33312]",
-        "$CSG[33316]",
-        "$CSG[33320]",
-        "$CSG[33324]",
-        "$CSG[33325..33340]",
-        "$CSG[33341]",
-        "$CSG[33345]",
-        "$CSG[33349]",
-        "$CSG[33353]",
-        "$CSG[33343]",
-        "$CSG[33347]",
-        "$CSG[33351]",
-        "$CSG[33355]",
-        "$CSG[33342]",
-        "$CSG[33346]",
-        "$CSG[33350]",
-        "$CSG[33354]",
-        "$CSG[33344]",
-        "$CSG[33348]",
-        "$CSG[33352]",
-        "$CSG[33356]",
-        ""
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/RCR.DAT[3]",
-        "$RCT2:OBJDATA/RCR.DAT[5]",
-        "$RCT2:OBJDATA/RCR.DAT[7]",
-        "$RCT2:OBJDATA/RCR.DAT[9]",
-        "$RCT2:OBJDATA/RCR.DAT[11]",
-        "$RCT2:OBJDATA/RCR.DAT[13]",
-        "$RCT2:OBJDATA/RCR.DAT[15]",
-        "$RCT2:OBJDATA/RCR.DAT[17]",
-        "$RCT2:OBJDATA/RCR.DAT[19]",
-        "$RCT2:OBJDATA/RCR.DAT[21]",
-        "$RCT2:OBJDATA/RCR.DAT[23]",
-        "$RCT2:OBJDATA/RCR.DAT[25]",
-        "$RCT2:OBJDATA/RCR.DAT[27]",
-        "$RCT2:OBJDATA/RCR.DAT[29]",
-        "$RCT2:OBJDATA/RCR.DAT[31]",
-        "$RCT2:OBJDATA/RCR.DAT[33]",
-        "$RCT2:OBJDATA/RCR.DAT[35..42]",
-        "$RCT2:OBJDATA/RCR.DAT[43]",
-        "$RCT2:OBJDATA/RCR.DAT[51]",
-        "$RCT2:OBJDATA/RCR.DAT[59]",
-        "$RCT2:OBJDATA/RCR.DAT[67]",
-        "$RCT2:OBJDATA/RCR.DAT[75]",
-        "$RCT2:OBJDATA/RCR.DAT[83]",
-        "$RCT2:OBJDATA/RCR.DAT[91]",
-        "$RCT2:OBJDATA/RCR.DAT[99]",
-        "$RCT2:OBJDATA/RCR.DAT[107]",
-        "$RCT2:OBJDATA/RCR.DAT[109]",
-        "$RCT2:OBJDATA/RCR.DAT[111]",
-        "$RCT2:OBJDATA/RCR.DAT[113]",
-        "$RCT2:OBJDATA/RCR.DAT[115]",
-        "$RCT2:OBJDATA/RCR.DAT[117]",
-        "$RCT2:OBJDATA/RCR.DAT[119]",
-        "$RCT2:OBJDATA/RCR.DAT[121]",
-        "$RCT2:OBJDATA/RCR.DAT[123]",
-        "$RCT2:OBJDATA/RCR.DAT[125]",
-        "$RCT2:OBJDATA/RCR.DAT[127]",
-        "$RCT2:OBJDATA/RCR.DAT[129]",
-        "$RCT2:OBJDATA/RCR.DAT[131]",
-        "$RCT2:OBJDATA/RCR.DAT[133]",
-        "$RCT2:OBJDATA/RCR.DAT[135]",
-        "$RCT2:OBJDATA/RCR.DAT[137]",
-        "$RCT2:OBJDATA/RCR.DAT[139..146]",
-        "$RCT2:OBJDATA/RCR.DAT[147]",
-        "$RCT2:OBJDATA/RCR.DAT[155]",
-        "$RCT2:OBJDATA/RCR.DAT[163]",
-        "$RCT2:OBJDATA/RCR.DAT[171]",
-        "$RCT2:OBJDATA/RCR.DAT[179]",
-        "$RCT2:OBJDATA/RCR.DAT[187]",
-        "$RCT2:OBJDATA/RCR.DAT[195]",
-        "$RCT2:OBJDATA/RCR.DAT[203]",
-        ""
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[33293..33308]", "$CSG[33309]", "$CSG[33313]", "$CSG[33317]", "$CSG[33321]", "$CSG[33311]", "$CSG[33315]", "$CSG[33319]", "$CSG[33323]", "$CSG[33310]", "$CSG[33314]", "$CSG[33318]", "$CSG[33322]", "$CSG[33312]", "$CSG[33316]", "$CSG[33320]", "$CSG[33324]", "$CSG[33325..33340]", "$CSG[33341]", "$CSG[33345]", "$CSG[33349]", "$CSG[33353]", "$CSG[33343]", "$CSG[33347]", "$CSG[33351]", "$CSG[33355]", "$CSG[33342]", "$CSG[33346]", "$CSG[33350]", "$CSG[33354]", "$CSG[33344]", "$CSG[33348]", "$CSG[33352]", "$CSG[33356]", ""],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/RCR.DAT[3]", "$RCT2:OBJDATA/RCR.DAT[5]", "$RCT2:OBJDATA/RCR.DAT[7]", "$RCT2:OBJDATA/RCR.DAT[9]", "$RCT2:OBJDATA/RCR.DAT[11]", "$RCT2:OBJDATA/RCR.DAT[13]", "$RCT2:OBJDATA/RCR.DAT[15]", "$RCT2:OBJDATA/RCR.DAT[17]", "$RCT2:OBJDATA/RCR.DAT[19]", "$RCT2:OBJDATA/RCR.DAT[21]", "$RCT2:OBJDATA/RCR.DAT[23]", "$RCT2:OBJDATA/RCR.DAT[25]", "$RCT2:OBJDATA/RCR.DAT[27]", "$RCT2:OBJDATA/RCR.DAT[29]", "$RCT2:OBJDATA/RCR.DAT[31]", "$RCT2:OBJDATA/RCR.DAT[33]", "$RCT2:OBJDATA/RCR.DAT[35..42]", "$RCT2:OBJDATA/RCR.DAT[43]", "$RCT2:OBJDATA/RCR.DAT[51]", "$RCT2:OBJDATA/RCR.DAT[59]", "$RCT2:OBJDATA/RCR.DAT[67]", "$RCT2:OBJDATA/RCR.DAT[75]", "$RCT2:OBJDATA/RCR.DAT[83]", "$RCT2:OBJDATA/RCR.DAT[91]", "$RCT2:OBJDATA/RCR.DAT[99]", "$RCT2:OBJDATA/RCR.DAT[107]", "$RCT2:OBJDATA/RCR.DAT[109]", "$RCT2:OBJDATA/RCR.DAT[111]", "$RCT2:OBJDATA/RCR.DAT[113]", "$RCT2:OBJDATA/RCR.DAT[115]", "$RCT2:OBJDATA/RCR.DAT[117]", "$RCT2:OBJDATA/RCR.DAT[119]", "$RCT2:OBJDATA/RCR.DAT[121]", "$RCT2:OBJDATA/RCR.DAT[123]", "$RCT2:OBJDATA/RCR.DAT[125]", "$RCT2:OBJDATA/RCR.DAT[127]", "$RCT2:OBJDATA/RCR.DAT[129]", "$RCT2:OBJDATA/RCR.DAT[131]", "$RCT2:OBJDATA/RCR.DAT[133]", "$RCT2:OBJDATA/RCR.DAT[135]", "$RCT2:OBJDATA/RCR.DAT[137]", "$RCT2:OBJDATA/RCR.DAT[139..146]", "$RCT2:OBJDATA/RCR.DAT[147]", "$RCT2:OBJDATA/RCR.DAT[155]", "$RCT2:OBJDATA/RCR.DAT[163]", "$RCT2:OBJDATA/RCR.DAT[171]", "$RCT2:OBJDATA/RCR.DAT[179]", "$RCT2:OBJDATA/RCR.DAT[187]", "$RCT2:OBJDATA/RCR.DAT[195]", "$RCT2:OBJDATA/RCR.DAT[203]", ""],
     "strings": {
         "name": {
             "en-GB": "Racing Cars",
@@ -195,7 +43,8 @@
             "ca-ES": "Cotxes de carreres",
             "fi-FI": "Kilpa-autot",
             "gl-ES": "Coches de carreiras",
-            "ar-EG": "سيارات السباق"
+            "ar-EG": "سيارات السباق",
+            "ro-RO": "Mașini de Curse"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
@@ -217,7 +66,8 @@
             "ca-ES": "Vehicles en forma de cotxes de carreres.",
             "fi-FI": "Kilpa-auton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados con forma de coches de carreira",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات سباق"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات سباق",
+            "ro-RO": "Vehicule cu motor în formă de mașini de curse"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -239,7 +89,8 @@
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu",
             "gl-ES": "1 pasaxeiro por coche",
-            "ar-EG": "راكب واحد لكل سيارة"
+            "ar-EG": "راكب واحد لكل سيارة",
+            "ro-RO": "1 pasager per mașină"
         }
     }
 }

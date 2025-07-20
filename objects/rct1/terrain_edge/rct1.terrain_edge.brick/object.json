@@ -1,27 +1,13 @@
 {
     "id": "rct1.terrain_edge.brick",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EBR|00000000",
     "sourceGame": "rct1",
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[40506..40581]",
-        { "path": "images/40582.png", "x": -2, "y": -31 },
-        "$CSG[40583]",
-        { "path": "images/40584.png", "x": -25, "y": -31 },
-        "$CSG[40585..40589]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "properties": {},
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[40506..40581]",{"path": "images/40582.png","x": -2,"y": -31}, "$CSG[40583]",{"path": "images/40584.png","x": -25,"y": -31}, "$CSG[40585..40589]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Brick",
@@ -40,7 +26,9 @@
             "ar-EG": "قرميد",
             "ru-RU": "Кирпич",
             "gl-ES": "Ladrillo",
-            "hu-HU": "Tégla"
+            "hu-HU": "Tégla",
+            "es-ES": "Ladrillo",
+            "ro-RO": "Cărămidă"
         }
     }
 }

@@ -1,8 +1,6 @@
 {
     "id": "rct2tt.ride.jousting",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|JOUSTING|B8B67191",
     "sourceGame": "rct2tt",
@@ -10,29 +8,7 @@
     "properties": {
         "type": "steeplechase",
         "category": "rollercoaster",
-        "carColours": [
-            [
-                [
-                    "saturated_brown",
-                    "light_brown",
-                    "yellow"
-                ]
-            ],
-            [
-                [
-                    "black",
-                    "grey",
-                    "yellow"
-                ]
-            ],
-            [
-                [
-                    "grey",
-                    "bordeaux_red",
-                    "yellow"
-                ]
-            ]
-        ],
+        "carColours": [[["saturated_brown", "light_brown", "yellow"]],[["black", "grey", "yellow"]],[["grey", "bordeaux_red", "yellow"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 278912,
@@ -49,15 +25,10 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [
-                4,
-                -4
-            ]
+            "loadingPositions": [4, -4]
         }
     },
-    "images": [
-        "$RCT2:OBJDATA/JOUSTING.DAT[0..386]"
-    ],
+    "images": ["$RCT2:OBJDATA/JOUSTING.DAT[0..386]"],
     "strings": {
         "name": {
             "en-GB": "Jousting Knights",
@@ -107,7 +78,7 @@
             "en-GB": "2 riders per vehicle",
             "fr-FR": "2 passagers par véhicule",
             "de-DE": "2 Fahrer pro Wagen",
-            "es-ES": "2 pasajeros por coche",
+            "es-ES": "2 pasajeros por vehículo",
             "it-IT": "2 passeggeri per veicolo",
             "nl-NL": "2 passagiers per paard",
             "sv-SE": "2 passagerare per vagn",

@@ -1,25 +1,13 @@
 {
     "id": "rct2.music.jurassic",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC16|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 16,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css32.dat",
-                "name": "Blockbuster",
-                "composer": "Allister Brimble"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css32.dat","name": "Blockbuster","composer": "Allister Brimble"}]
     },
     "strings": {
         "name": {
@@ -45,7 +33,8 @@
             "eo-ZZ": "Ĵurasa stilo",
             "fi-FI": "Jurassisen tyylinen",
             "nb-NO": "Juratid-stil",
-            "gl-ES": "Estilo Xurásico"
+            "gl-ES": "Estilo Xurásico",
+            "ro-RO": "Stil Jurassic"
         }
     }
 }

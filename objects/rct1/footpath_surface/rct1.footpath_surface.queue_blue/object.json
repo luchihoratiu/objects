@@ -1,23 +1,14 @@
 {
     "id": "rct1.footpath_surface.queue_blue",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TARMAC.DAT[72]",
-        "$CSG[43211..43230]"
-    ],
-    "noCsgImages": [
-        "$RCT2:OBJDATA/TARMAC.DAT[72]",
-        "$RCT2:OBJDATA/TARMAC.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/TARMAC.DAT[72]", "$CSG[43211..43230]"],
+    "noCsgImages": ["$RCT2:OBJDATA/TARMAC.DAT[72]", "$RCT2:OBJDATA/TARMAC.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Blue Queue (Sloped)",
@@ -34,7 +25,8 @@
             "gl-ES": "Cola Azul (Inclinada)",
             "ja-JP": "青い行列（傾斜）",
             "ar-EG": "طابور أزرق (منحدر)",
-            "cs-CZ": "Modrá fronta (se svahy)"
+            "cs-CZ": "Modrá fronta (se svahy)",
+            "ro-RO": "Coadă Albastră (Înclinată)"
         }
     }
 }

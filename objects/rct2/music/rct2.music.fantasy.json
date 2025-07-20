@@ -1,25 +1,13 @@
 {
     "id": "rct2.music.fantasy",
-    "authors": [
-        "Chris Sawyer",
-        "Steve Blenkinsopp"
-    ],
+    "authors": ["Chris Sawyer", "Steve Blenkinsopp"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC19|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 19,
-        "tracks": [
-            {
-                "source": "$RCT2:DATA/css35.dat",
-                "name": "Flight of Fantasy",
-                "composer": "Steve Blenkinsopp"
-            }
-        ]
+        "tracks": [{"source": "$RCT2:DATA/css35.dat","name": "Flight of Fantasy","composer": "Steve Blenkinsopp"}]
     },
     "strings": {
         "name": {
@@ -45,7 +33,8 @@
             "zh-TW": "夢幻風格",
             "eo-ZZ": "Fantasta stilo",
             "nb-NO": "Fantasi-stil",
-            "gl-ES": "Estilo fantasía"
+            "gl-ES": "Estilo fantasía",
+            "ro-RO": "Stil Fantasy"
         }
     }
 }

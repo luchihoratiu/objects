@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.go_karts",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1KRT|00000000",
     "sourceGame": "rct1",
@@ -11,170 +8,7 @@
     "properties": {
         "type": "go_karts",
         "category": "thrill",
-        "carColours": [
-            [
-                [
-                    "yellow",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_blue",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_red",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_green",
-                    "black",
-                    "black"
-                ],
-                [
-                    "white",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_purple",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_orange",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_pink",
-                    "black",
-                    "black"
-                ],
-                [
-                    "teal",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_brown",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_purple",
-                    "black",
-                    "black"
-                ],
-                [
-                    "black",
-                    "black",
-                    "black"
-                ],
-                [
-                    "yellow",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_blue",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_red",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_green",
-                    "black",
-                    "black"
-                ],
-                [
-                    "white",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_purple",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_orange",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_pink",
-                    "black",
-                    "black"
-                ],
-                [
-                    "teal",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_brown",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_purple",
-                    "black",
-                    "black"
-                ],
-                [
-                    "black",
-                    "black",
-                    "black"
-                ],
-                [
-                    "yellow",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_blue",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_red",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_green",
-                    "black",
-                    "black"
-                ],
-                [
-                    "white",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_purple",
-                    "black",
-                    "black"
-                ],
-                [
-                    "light_orange",
-                    "black",
-                    "black"
-                ],
-                [
-                    "bright_pink",
-                    "black",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["yellow", "black", "black"],["light_blue", "black", "black"],["bright_red", "black", "black"],["bright_green", "black", "black"],["white", "black", "black"],["bright_purple", "black", "black"],["light_orange", "black", "black"],["bright_pink", "black", "black"],["teal", "black", "black"],["light_brown", "black", "black"],["light_purple", "black", "black"],["black", "black", "black"],["yellow", "black", "black"],["light_blue", "black", "black"],["bright_red", "black", "black"],["bright_green", "black", "black"],["white", "black", "black"],["bright_purple", "black", "black"],["light_orange", "black", "black"],["bright_pink", "black", "black"],["teal", "black", "black"],["light_brown", "black", "black"],["light_purple", "black", "black"],["black", "black", "black"],["yellow", "black", "black"],["light_blue", "black", "black"],["bright_red", "black", "black"],["bright_green", "black", "black"],["white", "black", "black"],["bright_purple", "black", "black"],["light_orange", "black", "black"],["bright_pink", "black", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 152576,
@@ -194,105 +28,11 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "isGoKart": true,
-            "loadingPositions": [
-                -1
-            ]
+            "loadingPositions": [-1]
         }
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[34297..34312]",
-        "$CSG[34313]",
-        "$CSG[34317]",
-        "$CSG[34321]",
-        "$CSG[34325]",
-        "$CSG[34315]",
-        "$CSG[34319]",
-        "$CSG[34323]",
-        "$CSG[34327]",
-        "$CSG[34314]",
-        "$CSG[34318]",
-        "$CSG[34322]",
-        "$CSG[34326]",
-        "$CSG[34316]",
-        "$CSG[34320]",
-        "$CSG[34324]",
-        "$CSG[34328]",
-        "$CSG[34329..34344]",
-        "$CSG[34345]",
-        "$CSG[34349]",
-        "$CSG[34353]",
-        "$CSG[34357]",
-        "$CSG[34347]",
-        "$CSG[34351]",
-        "$CSG[34355]",
-        "$CSG[34359]",
-        "$CSG[34346]",
-        "$CSG[34350]",
-        "$CSG[34354]",
-        "$CSG[34358]",
-        "$CSG[34348]",
-        "$CSG[34352]",
-        "$CSG[34356]",
-        "$CSG[34360]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/KART1.DAT[3]",
-        "$RCT2:OBJDATA/KART1.DAT[5]",
-        "$RCT2:OBJDATA/KART1.DAT[7]",
-        "$RCT2:OBJDATA/KART1.DAT[9]",
-        "$RCT2:OBJDATA/KART1.DAT[11]",
-        "$RCT2:OBJDATA/KART1.DAT[13]",
-        "$RCT2:OBJDATA/KART1.DAT[15]",
-        "$RCT2:OBJDATA/KART1.DAT[17]",
-        "$RCT2:OBJDATA/KART1.DAT[19]",
-        "$RCT2:OBJDATA/KART1.DAT[21]",
-        "$RCT2:OBJDATA/KART1.DAT[23]",
-        "$RCT2:OBJDATA/KART1.DAT[25]",
-        "$RCT2:OBJDATA/KART1.DAT[27]",
-        "$RCT2:OBJDATA/KART1.DAT[29]",
-        "$RCT2:OBJDATA/KART1.DAT[31]",
-        "$RCT2:OBJDATA/KART1.DAT[33]",
-        "$RCT2:OBJDATA/KART1.DAT[35..42]",
-        "$RCT2:OBJDATA/KART1.DAT[43]",
-        "$RCT2:OBJDATA/KART1.DAT[51]",
-        "$RCT2:OBJDATA/KART1.DAT[59]",
-        "$RCT2:OBJDATA/KART1.DAT[67]",
-        "$RCT2:OBJDATA/KART1.DAT[75]",
-        "$RCT2:OBJDATA/KART1.DAT[83]",
-        "$RCT2:OBJDATA/KART1.DAT[91]",
-        "$RCT2:OBJDATA/KART1.DAT[99]",
-        "$RCT2:OBJDATA/KART1.DAT[107]",
-        "$RCT2:OBJDATA/KART1.DAT[109]",
-        "$RCT2:OBJDATA/KART1.DAT[111]",
-        "$RCT2:OBJDATA/KART1.DAT[113]",
-        "$RCT2:OBJDATA/KART1.DAT[115]",
-        "$RCT2:OBJDATA/KART1.DAT[117]",
-        "$RCT2:OBJDATA/KART1.DAT[119]",
-        "$RCT2:OBJDATA/KART1.DAT[121]",
-        "$RCT2:OBJDATA/KART1.DAT[123]",
-        "$RCT2:OBJDATA/KART1.DAT[125]",
-        "$RCT2:OBJDATA/KART1.DAT[127]",
-        "$RCT2:OBJDATA/KART1.DAT[129]",
-        "$RCT2:OBJDATA/KART1.DAT[131]",
-        "$RCT2:OBJDATA/KART1.DAT[133]",
-        "$RCT2:OBJDATA/KART1.DAT[135]",
-        "$RCT2:OBJDATA/KART1.DAT[137]",
-        "$RCT2:OBJDATA/KART1.DAT[139..146]",
-        "$RCT2:OBJDATA/KART1.DAT[147]",
-        "$RCT2:OBJDATA/KART1.DAT[155]",
-        "$RCT2:OBJDATA/KART1.DAT[163]",
-        "$RCT2:OBJDATA/KART1.DAT[171]",
-        "$RCT2:OBJDATA/KART1.DAT[179]",
-        "$RCT2:OBJDATA/KART1.DAT[187]",
-        "$RCT2:OBJDATA/KART1.DAT[195]",
-        "$RCT2:OBJDATA/KART1.DAT[203]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[34297..34312]", "$CSG[34313]", "$CSG[34317]", "$CSG[34321]", "$CSG[34325]", "$CSG[34315]", "$CSG[34319]", "$CSG[34323]", "$CSG[34327]", "$CSG[34314]", "$CSG[34318]", "$CSG[34322]", "$CSG[34326]", "$CSG[34316]", "$CSG[34320]", "$CSG[34324]", "$CSG[34328]", "$CSG[34329..34344]", "$CSG[34345]", "$CSG[34349]", "$CSG[34353]", "$CSG[34357]", "$CSG[34347]", "$CSG[34351]", "$CSG[34355]", "$CSG[34359]", "$CSG[34346]", "$CSG[34350]", "$CSG[34354]", "$CSG[34358]", "$CSG[34348]", "$CSG[34352]", "$CSG[34356]", "$CSG[34360]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/KART1.DAT[3]", "$RCT2:OBJDATA/KART1.DAT[5]", "$RCT2:OBJDATA/KART1.DAT[7]", "$RCT2:OBJDATA/KART1.DAT[9]", "$RCT2:OBJDATA/KART1.DAT[11]", "$RCT2:OBJDATA/KART1.DAT[13]", "$RCT2:OBJDATA/KART1.DAT[15]", "$RCT2:OBJDATA/KART1.DAT[17]", "$RCT2:OBJDATA/KART1.DAT[19]", "$RCT2:OBJDATA/KART1.DAT[21]", "$RCT2:OBJDATA/KART1.DAT[23]", "$RCT2:OBJDATA/KART1.DAT[25]", "$RCT2:OBJDATA/KART1.DAT[27]", "$RCT2:OBJDATA/KART1.DAT[29]", "$RCT2:OBJDATA/KART1.DAT[31]", "$RCT2:OBJDATA/KART1.DAT[33]", "$RCT2:OBJDATA/KART1.DAT[35..42]", "$RCT2:OBJDATA/KART1.DAT[43]", "$RCT2:OBJDATA/KART1.DAT[51]", "$RCT2:OBJDATA/KART1.DAT[59]", "$RCT2:OBJDATA/KART1.DAT[67]", "$RCT2:OBJDATA/KART1.DAT[75]", "$RCT2:OBJDATA/KART1.DAT[83]", "$RCT2:OBJDATA/KART1.DAT[91]", "$RCT2:OBJDATA/KART1.DAT[99]", "$RCT2:OBJDATA/KART1.DAT[107]", "$RCT2:OBJDATA/KART1.DAT[109]", "$RCT2:OBJDATA/KART1.DAT[111]", "$RCT2:OBJDATA/KART1.DAT[113]", "$RCT2:OBJDATA/KART1.DAT[115]", "$RCT2:OBJDATA/KART1.DAT[117]", "$RCT2:OBJDATA/KART1.DAT[119]", "$RCT2:OBJDATA/KART1.DAT[121]", "$RCT2:OBJDATA/KART1.DAT[123]", "$RCT2:OBJDATA/KART1.DAT[125]", "$RCT2:OBJDATA/KART1.DAT[127]", "$RCT2:OBJDATA/KART1.DAT[129]", "$RCT2:OBJDATA/KART1.DAT[131]", "$RCT2:OBJDATA/KART1.DAT[133]", "$RCT2:OBJDATA/KART1.DAT[135]", "$RCT2:OBJDATA/KART1.DAT[137]", "$RCT2:OBJDATA/KART1.DAT[139..146]", "$RCT2:OBJDATA/KART1.DAT[147]", "$RCT2:OBJDATA/KART1.DAT[155]", "$RCT2:OBJDATA/KART1.DAT[163]", "$RCT2:OBJDATA/KART1.DAT[171]", "$RCT2:OBJDATA/KART1.DAT[179]", "$RCT2:OBJDATA/KART1.DAT[187]", "$RCT2:OBJDATA/KART1.DAT[195]", "$RCT2:OBJDATA/KART1.DAT[203]"],
     "strings": {
         "name": {
             "en-GB": "Go-Karts (with helmets)",
@@ -306,7 +46,8 @@
             "zh-CN": "卡丁车（带头盔）",
             "ru-RU": "Картинг (со шлемом)",
             "gl-ES": "Go-Karts (con cascos)",
-            "ar-EG": "عربات الكارتينج (مع خوذ)"
+            "ar-EG": "عربات الكارتينج (مع خوذ)",
+            "ro-RO": "Go-Kart-uri (cu căști)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
@@ -321,7 +62,8 @@
             "zh-CN": "附带安全头盔的汽油引擎自驾卡丁车",
             "ru-RU": "Бензиновые машины для картинга со шлемами безопасности",
             "gl-ES": "Go-Karts de gasolina autoconducidos que inclúen cascos de seguridade",
-            "ar-EG": "عربات كارتينج ذاتية القيادة تعمل بالبنزين وتأتي مع خوذات أمان"
+            "ar-EG": "عربات كارتينج ذاتية القيادة تعمل بالبنزين وتأتي مع خوذات أمان",
+            "ro-RO": "Go-kart-uri cu motor pe benzină cu autoguidare care vin cu căști de siguranță"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -343,7 +85,8 @@
             "ca-ES": "1 passatger",
             "fi-FI": "Yksipaikkainen",
             "gl-ES": "monopraza",
-            "ar-EG": "مقعد واحد"
+            "ar-EG": "مقعد واحد",
+            "ro-RO": "un singur loc"
         }
     }
 }

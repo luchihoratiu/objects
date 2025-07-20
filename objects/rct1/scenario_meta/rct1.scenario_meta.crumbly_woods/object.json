@@ -1,18 +1,11 @@
 {
     "id": "rct1.scenario_meta.crumbly_woods",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX915 |0BF16094",
-    "sourceGame": [
-        "rct1"
-    ],
+    "sourceGame": ["rct1"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Els boscos llangorosos",
@@ -27,7 +20,8 @@
             "zh-CN": "老废物乐园",
             "pl-PL": "Kruche Lasy",
             "gl-ES": "Bosque Crumble",
-            "ar-EG": "غابات كرامبلي"
+            "ar-EG": "غابات كرامبلي",
+            "ro-RO": "Pădurile Crumbly"
         },
         "park_name": {
             "ca-ES": "Els boscos llangorosos",
@@ -42,7 +36,8 @@
             "zh-CN": "老废物乐园",
             "pl-PL": "Kruche Lasy",
             "gl-ES": "Bosque Crumble",
-            "ar-EG": "غابات كرامبلي"
+            "ar-EG": "غابات كرامبلي",
+            "ro-RO": "Pădurile Crumbly"
         },
         "details": {
             "ar-EG": "حديقة كبيرة بها ألعاب مصممة جيدًا ولكنها قديمة إلى حد ما. استبدل الألعاب القديمة أو أضف ألعابًا جديدة لجعل الحديقة أكثر شعبية.",

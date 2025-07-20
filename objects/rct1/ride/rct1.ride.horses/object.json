@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.horses",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1ST1|00000000",
     "sourceGame": "rct1",
@@ -12,29 +9,7 @@
     "properties": {
         "type": "steeplechase",
         "category": "rollercoaster",
-        "carColours": [
-            [
-                [
-                    "white",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "white",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "white",
-                    "light_blue",
-                    "black"
-                ]
-            ]
-        ],
+        "carColours": [[["white", "bright_red", "black"]],[["white", "yellow", "black"]],[["white", "light_blue", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 243712,
@@ -51,107 +26,12 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [
-                4,
-                -4
-            ]
+            "loadingPositions": [4, -4]
         },
         "buildMenuPriority": 3
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$CSG[32141..32156]",
-        "$CSG[32157]",
-        "$CSG[32161]",
-        "$CSG[32165]",
-        "$CSG[32169]",
-        "$CSG[32159]",
-        "$CSG[32163]",
-        "$CSG[32167]",
-        "$CSG[32171]",
-        "$CSG[32158]",
-        "$CSG[32162]",
-        "$CSG[32166]",
-        "$CSG[32170]",
-        "$CSG[32160]",
-        "$CSG[32164]",
-        "$CSG[32168]",
-        "$CSG[32172]",
-        "$CSG[32173..32188]",
-        "$CSG[32189]",
-        "$CSG[32193]",
-        "$CSG[32197]",
-        "$CSG[32201]",
-        "$CSG[32191]",
-        "$CSG[32195]",
-        "$CSG[32199]",
-        "$CSG[32203]",
-        "$CSG[32190]",
-        "$CSG[32194]",
-        "$CSG[32198]",
-        "$CSG[32202]",
-        "$CSG[32192]",
-        "$CSG[32196]",
-        "$CSG[32200]",
-        "$CSG[32204]"
-    ],
-    "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        "$RCT2:OBJDATA/STEEP1.DAT[3]",
-        "$RCT2:OBJDATA/STEEP1.DAT[5]",
-        "$RCT2:OBJDATA/STEEP1.DAT[7]",
-        "$RCT2:OBJDATA/STEEP1.DAT[9]",
-        "$RCT2:OBJDATA/STEEP1.DAT[11]",
-        "$RCT2:OBJDATA/STEEP1.DAT[13]",
-        "$RCT2:OBJDATA/STEEP1.DAT[15]",
-        "$RCT2:OBJDATA/STEEP1.DAT[17]",
-        "$RCT2:OBJDATA/STEEP1.DAT[19]",
-        "$RCT2:OBJDATA/STEEP1.DAT[21]",
-        "$RCT2:OBJDATA/STEEP1.DAT[23]",
-        "$RCT2:OBJDATA/STEEP1.DAT[25]",
-        "$RCT2:OBJDATA/STEEP1.DAT[27]",
-        "$RCT2:OBJDATA/STEEP1.DAT[29]",
-        "$RCT2:OBJDATA/STEEP1.DAT[31]",
-        "$RCT2:OBJDATA/STEEP1.DAT[33]",
-        "$RCT2:OBJDATA/STEEP1.DAT[35..42]",
-        "$RCT2:OBJDATA/STEEP1.DAT[43]",
-        "$RCT2:OBJDATA/STEEP1.DAT[51]",
-        "$RCT2:OBJDATA/STEEP1.DAT[59]",
-        "$RCT2:OBJDATA/STEEP1.DAT[67]",
-        "$RCT2:OBJDATA/STEEP1.DAT[75]",
-        "$RCT2:OBJDATA/STEEP1.DAT[83]",
-        "$RCT2:OBJDATA/STEEP1.DAT[91]",
-        "$RCT2:OBJDATA/STEEP1.DAT[99]",
-        "$RCT2:OBJDATA/STEEP1.DAT[131]",
-        "$RCT2:OBJDATA/STEEP1.DAT[133]",
-        "$RCT2:OBJDATA/STEEP1.DAT[135]",
-        "$RCT2:OBJDATA/STEEP1.DAT[137]",
-        "$RCT2:OBJDATA/STEEP1.DAT[139]",
-        "$RCT2:OBJDATA/STEEP1.DAT[141]",
-        "$RCT2:OBJDATA/STEEP1.DAT[143]",
-        "$RCT2:OBJDATA/STEEP1.DAT[145]",
-        "$RCT2:OBJDATA/STEEP1.DAT[147]",
-        "$RCT2:OBJDATA/STEEP1.DAT[149]",
-        "$RCT2:OBJDATA/STEEP1.DAT[151]",
-        "$RCT2:OBJDATA/STEEP1.DAT[153]",
-        "$RCT2:OBJDATA/STEEP1.DAT[155]",
-        "$RCT2:OBJDATA/STEEP1.DAT[157]",
-        "$RCT2:OBJDATA/STEEP1.DAT[159]",
-        "$RCT2:OBJDATA/STEEP1.DAT[161]",
-        "$RCT2:OBJDATA/STEEP1.DAT[163..170]",
-        "$RCT2:OBJDATA/STEEP1.DAT[171]",
-        "$RCT2:OBJDATA/STEEP1.DAT[179]",
-        "$RCT2:OBJDATA/STEEP1.DAT[187]",
-        "$RCT2:OBJDATA/STEEP1.DAT[195]",
-        "$RCT2:OBJDATA/STEEP1.DAT[203]",
-        "$RCT2:OBJDATA/STEEP1.DAT[211]",
-        "$RCT2:OBJDATA/STEEP1.DAT[219]",
-        "$RCT2:OBJDATA/STEEP1.DAT[227]"
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "", "$CSG[32141..32156]", "$CSG[32157]", "$CSG[32161]", "$CSG[32165]", "$CSG[32169]", "$CSG[32159]", "$CSG[32163]", "$CSG[32167]", "$CSG[32171]", "$CSG[32158]", "$CSG[32162]", "$CSG[32166]", "$CSG[32170]", "$CSG[32160]", "$CSG[32164]", "$CSG[32168]", "$CSG[32172]", "$CSG[32173..32188]", "$CSG[32189]", "$CSG[32193]", "$CSG[32197]", "$CSG[32201]", "$CSG[32191]", "$CSG[32195]", "$CSG[32199]", "$CSG[32203]", "$CSG[32190]", "$CSG[32194]", "$CSG[32198]", "$CSG[32202]", "$CSG[32192]", "$CSG[32196]", "$CSG[32200]", "$CSG[32204]"],
+    "noCsgImages": [{"path": "images/preview.png","format": "raw"}, "", "", "$RCT2:OBJDATA/STEEP1.DAT[3]", "$RCT2:OBJDATA/STEEP1.DAT[5]", "$RCT2:OBJDATA/STEEP1.DAT[7]", "$RCT2:OBJDATA/STEEP1.DAT[9]", "$RCT2:OBJDATA/STEEP1.DAT[11]", "$RCT2:OBJDATA/STEEP1.DAT[13]", "$RCT2:OBJDATA/STEEP1.DAT[15]", "$RCT2:OBJDATA/STEEP1.DAT[17]", "$RCT2:OBJDATA/STEEP1.DAT[19]", "$RCT2:OBJDATA/STEEP1.DAT[21]", "$RCT2:OBJDATA/STEEP1.DAT[23]", "$RCT2:OBJDATA/STEEP1.DAT[25]", "$RCT2:OBJDATA/STEEP1.DAT[27]", "$RCT2:OBJDATA/STEEP1.DAT[29]", "$RCT2:OBJDATA/STEEP1.DAT[31]", "$RCT2:OBJDATA/STEEP1.DAT[33]", "$RCT2:OBJDATA/STEEP1.DAT[35..42]", "$RCT2:OBJDATA/STEEP1.DAT[43]", "$RCT2:OBJDATA/STEEP1.DAT[51]", "$RCT2:OBJDATA/STEEP1.DAT[59]", "$RCT2:OBJDATA/STEEP1.DAT[67]", "$RCT2:OBJDATA/STEEP1.DAT[75]", "$RCT2:OBJDATA/STEEP1.DAT[83]", "$RCT2:OBJDATA/STEEP1.DAT[91]", "$RCT2:OBJDATA/STEEP1.DAT[99]", "$RCT2:OBJDATA/STEEP1.DAT[131]", "$RCT2:OBJDATA/STEEP1.DAT[133]", "$RCT2:OBJDATA/STEEP1.DAT[135]", "$RCT2:OBJDATA/STEEP1.DAT[137]", "$RCT2:OBJDATA/STEEP1.DAT[139]", "$RCT2:OBJDATA/STEEP1.DAT[141]", "$RCT2:OBJDATA/STEEP1.DAT[143]", "$RCT2:OBJDATA/STEEP1.DAT[145]", "$RCT2:OBJDATA/STEEP1.DAT[147]", "$RCT2:OBJDATA/STEEP1.DAT[149]", "$RCT2:OBJDATA/STEEP1.DAT[151]", "$RCT2:OBJDATA/STEEP1.DAT[153]", "$RCT2:OBJDATA/STEEP1.DAT[155]", "$RCT2:OBJDATA/STEEP1.DAT[157]", "$RCT2:OBJDATA/STEEP1.DAT[159]", "$RCT2:OBJDATA/STEEP1.DAT[161]", "$RCT2:OBJDATA/STEEP1.DAT[163..170]", "$RCT2:OBJDATA/STEEP1.DAT[171]", "$RCT2:OBJDATA/STEEP1.DAT[179]", "$RCT2:OBJDATA/STEEP1.DAT[187]", "$RCT2:OBJDATA/STEEP1.DAT[195]", "$RCT2:OBJDATA/STEEP1.DAT[203]", "$RCT2:OBJDATA/STEEP1.DAT[211]", "$RCT2:OBJDATA/STEEP1.DAT[219]", "$RCT2:OBJDATA/STEEP1.DAT[227]"],
     "strings": {
         "name": {
             "en-GB": "Horses",
@@ -173,7 +53,8 @@
             "ca-ES": "Cavalls",
             "fi-FI": "Hevoset",
             "gl-ES": "Cabalos",
-            "ar-EG": "خيول"
+            "ar-EG": "خيول",
+            "ro-RO": "Cai"
         },
         "description": {
             "en-GB": "Single cars shaped like a horse",
@@ -195,7 +76,8 @@
             "eo-ZZ": "Individuaj ĉaroj, formitaj kiel ĉevalo",
             "ca-ES": "Cotxes en forma de cavall.",
             "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot",
-            "gl-ES": "Coches únicos con forma de cabalo"
+            "gl-ES": "Coches únicos con forma de cabalo",
+            "ro-RO": "Vagoane individuale în formă de cal"
         },
         "capacity": {
             "en-GB": "2 riders per horse",
@@ -217,7 +99,8 @@
             "ca-ES": "2 genets per cavall",
             "fi-FI": "2 ratsastajaa per hevonen",
             "gl-ES": "2 xinetes por cabalo",
-            "ar-EG": "راكبان لكل حصان"
+            "ar-EG": "راكبان لكل حصان",
+            "ro-RO": "2 călăreți per cal"
         }
     }
 }

@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.hydro_hills",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX931 |DF41B6F6",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "Els turons Hydro",
@@ -26,7 +19,8 @@
             "zh-CN": "海德鲁山",
             "pl-PL": "Wodne Wzgórza",
             "gl-ES": "Outeiros Hidro",
-            "ar-EG": "تلال هايدرو"
+            "ar-EG": "تلال هايدرو",
+            "ro-RO": "Dealurile Hydro"
         },
         "park_name": {
             "ca-ES": "Els turons Hydro",
@@ -40,7 +34,8 @@
             "zh-CN": "海德鲁山",
             "pl-PL": "Wodne Wzgórza",
             "gl-ES": "Outeiros Hidro",
-            "ar-EG": "تلال هايدرو"
+            "ar-EG": "تلال هايدرو",
+            "ro-RO": "Dealurile Hydro"
         },
         "details": {
             "ca-ES": "Una sèrie de llacs escalonats formen la base per a aquest parc nou.",

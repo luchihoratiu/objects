@@ -1,15 +1,9 @@
 {
     "id": "rct2.ride.helicar",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|HELICAR |A4EBEE6C",
-    "sourceGame": [
-        "rct2",
-        "rct1aa"
-    ],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "mini_helicopters",
@@ -22,85 +16,11 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                [
-                    "light_blue",
-                    "yellow",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_green",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "bright_red",
-                    "white",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "yellow",
-                    "bright_red",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "light_purple",
-                    "bright_red",
-                    "black"
-                ]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 148172,
-                "mass": 270,
-                "numSeats": 2,
-                "animation": 7,
-                "numSeatRows": 1,
-                "poweredAcceleration": 40,
-                "poweredMaxSpeed": 5,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "hasVehicleAnimation": true,
-                "loadingPositions": [
-                    3,
-                    -3
-                ]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 40,
-                "poweredMaxSpeed": 5,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat": 1
-                },
-                "isPowered": true
-            }
-        ],
+        "carColours": [[["light_blue", "yellow", "black"]],[["bright_green", "white", "black"]],[["bright_red", "white", "black"]],[["yellow", "bright_red", "black"]],[["light_purple", "bright_red", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 148172,"mass": 270,"numSeats": 2,"animation": 7,"numSeatRows": 1,"poweredAcceleration": 40,"poweredMaxSpeed": 5,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true},"hasAdditionalColour1": true,"isPowered": true,"hasVehicleAnimation": true,"loadingPositions": [3, -3]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 40,"poweredMaxSpeed": 5,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}],
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/HELICAR.DAT[0..834]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/HELICAR.DAT[0..834]", ""],
     "strings": {
         "name": {
             "en-GB": "Mini Helicopters",
@@ -122,7 +42,8 @@
             "eo-ZZ": "Miniaturaj Helikopteroj",
             "ca-ES": "Minihelicòpters",
             "fi-FI": "Minihelikopterit",
-            "gl-ES": "Mini helicópteros"
+            "gl-ES": "Mini helicópteros",
+            "ro-RO": "Mini Elicoptere"
         },
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",

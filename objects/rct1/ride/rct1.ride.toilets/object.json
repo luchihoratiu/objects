@@ -1,9 +1,6 @@
 {
     "id": "rct1.ride.toilets",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000040|#RCT1TOI|00000000",
     "sourceGame": "rct1",
@@ -13,17 +10,7 @@
         "category": "stall",
         "clearance": 32
     },
-    "images": [
-        { "path": "images/preview.png", "format": "raw" },
-        "",
-        "",
-        { "path": "images/0.png", "format": "raw", "x": -32, "y": -18 },
-        { "path": "images/1.png", "format": "raw", "x": -32, "y": -27 },
-        { "path": "images/2.png", "format": "raw", "x": -32, "y": -27 },
-        { "path": "images/3.png", "format": "raw", "x": 11, "y": -17 },
-        { "path": "images/4.png", "format": "raw", "x": -20, "y": -27 },
-        { "path": "images/5.png", "format": "raw", "x": -32, "y": -27 }
-    ],
+    "images": [{"path": "images/preview.png","format": "raw"}, "", "",{"path": "images/0.png","format": "raw","x": -32,"y": -18},{"path": "images/1.png","format": "raw","x": -32,"y": -27},{"path": "images/2.png","format": "raw","x": -32,"y": -27},{"path": "images/3.png","format": "raw","x": 11,"y": -17},{"path": "images/4.png","format": "raw","x": -20,"y": -27},{"path": "images/5.png","format": "raw","x": -32,"y": -27}],
     "strings": {
         "name": {
             "en-GB": "Toilets",
@@ -48,7 +35,8 @@
             "ca-ES": "Lavabos",
             "fi-FI": "Vessa",
             "uk-UA": "Туалети",
-            "gl-ES": "Servizos"
+            "gl-ES": "Servizos",
+            "ro-RO": "Toalete"
         },
         "description": {
             "en-GB": "Basic toilets housed in a prefabricated concrete building",
@@ -72,7 +60,8 @@
             "ca-ES": "Serveis bàsics en un edifici de formigó prefabricat.",
             "fi-FI": "Perusvessa elementtirakenteisessa betonirakennuksessa",
             "uk-UA": "Звичайні туалети в будівлі з цементу",
-            "gl-ES": "Servizos básicos aloxados nun edificio prefabricado de formigón"
+            "gl-ES": "Servizos básicos aloxados nun edificio prefabricado de formigón",
+            "ro-RO": "Toalete de bază localizate într-o clădire prefabricată din beton"
         }
     }
 }

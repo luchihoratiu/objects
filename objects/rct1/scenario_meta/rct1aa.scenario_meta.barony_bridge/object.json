@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.barony_bridge",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX924 |D418A438",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "El pont de la baronia",
@@ -26,7 +19,8 @@
             "zh-CN": "男爵之桥",
             "pl-PL": "Most baronowski",
             "gl-ES": "Ponte do Barón",
-            "ar-EG": "جسر باروني"
+            "ar-EG": "جسر باروني",
+            "ro-RO": "Podul Baroniei"
         },
         "park_name": {
             "ca-ES": "El pont de la baronia",
@@ -40,7 +34,8 @@
             "zh-CN": "男爵之桥",
             "pl-PL": "Most baronowski",
             "gl-ES": "Ponte do Barón",
-            "ar-EG": "جسر باروني"
+            "ar-EG": "جسر باروني",
+            "ro-RO": "Podul Baroniei"
         },
         "details": {
             "ca-ES": "Disposeu d’un pont antic que actualment és redundant. Convertiu-lo en un parc temàtic.",
@@ -64,7 +59,8 @@
             "zh-TW": "一條古舊並多餘的橋現可由你任意發展成一個樂園",
             "ru-RU": "Вам достался старый, никому не нужный мост. Постройте вокруг него парк",
             "gl-ES": "Unha vella ponte redundante é túa para converterla nun parque de atraccións",
-            "ar-EG": "جسر قديم زائد عن الحاجة متاح لك لتطويره إلى مدينة ملاهي"
+            "ar-EG": "جسر قديم زائد عن الحاجة متاح لك لتطويره إلى مدينة ملاهي",
+            "ro-RO": "Un pod vechi redundant este al tău pentru a fi dezvoltat într-un parc de distracții"
         }
     }
 }

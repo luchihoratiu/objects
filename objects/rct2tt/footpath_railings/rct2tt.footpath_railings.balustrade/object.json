@@ -1,12 +1,8 @@
 {
     "id": "rct2tt.footpath_railings.balustrade",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -14,10 +10,7 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/MYTHPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/MYTHPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Balustrade",
@@ -31,7 +24,8 @@
             "ru-RU": "Балюстрада",
             "ja-JP": "バラスレード",
             "gl-ES": "Balaustrada",
-            "cs-CZ": "Balustráda"
+            "cs-CZ": "Balustráda",
+            "es-ES": "Barandilla"
         }
     }
 }

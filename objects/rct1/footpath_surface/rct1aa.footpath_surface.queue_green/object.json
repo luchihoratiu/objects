@@ -1,23 +1,14 @@
 {
     "id": "rct1aa.footpath_surface.queue_green",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43331..43350]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACG.DAT[51..70]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43331..43350]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACG.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Green Queue",
@@ -34,7 +25,8 @@
             "ru-RU": "Зелёная очередь",
             "gl-ES": "Cola verde",
             "ja-JP": "緑の行列",
-            "cs-CZ": "Zelená fronta"
+            "cs-CZ": "Zelená fronta",
+            "ro-RO": "Coadă Verde"
         }
     }
 }

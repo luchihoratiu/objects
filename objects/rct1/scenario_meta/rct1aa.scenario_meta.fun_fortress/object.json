@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.fun_fortress",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX927 |ED40C0D6",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ar-EG": "قلعة المرح",
@@ -26,7 +19,8 @@
             "pt-BR": "Fortaleza Divertida",
             "zh-CN": "趣味堡垒",
             "pl-PL": "Twierdza Zabawy",
-            "gl-ES": "Fortaleza divertida"
+            "gl-ES": "Fortaleza divertida",
+            "ro-RO": "Fortăreața Distracției"
         },
         "park_name": {
             "ar-EG": "قلعة المرح",
@@ -40,7 +34,8 @@
             "pt-BR": "Fortaleza Divertida",
             "zh-CN": "趣味堡垒",
             "pl-PL": "Twierdza Zabawy",
-            "gl-ES": "Fortaleza divertida"
+            "gl-ES": "Fortaleza divertida",
+            "ro-RO": "Fortăreața Distracției"
         },
         "details": {
             "ar-EG": "هذه الحديقة كلها لك لكي تحولها إلي حديقة ترفيهية",
@@ -64,7 +59,8 @@
             "zh-CN": "这整个城堡都是你的，快把它改造为主题乐园吧",
             "zh-TW": "這個城堡現可由你任意發展成一個樂園",
             "ru-RU": "Этот замок - ваш, чтобы превратить его в парк",
-            "gl-ES": "Este castelo é todo teu para converterlo nun parque temático"
+            "gl-ES": "Este castelo é todo teu para converterlo nun parque temático",
+            "ro-RO": "Acest castel este al tău în totalitate pentru a fi transformat într-un parc tematic"
         }
     }
 }

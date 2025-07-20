@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.hang1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|HANG1   |1163E801",
     "sourceGame": "rct2",
@@ -19,9 +16,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/HANG1.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/HANG1.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Gallows",
@@ -35,7 +30,7 @@
             "zh-CN": "绞刑台",
             "zh-TW": "絞刑臺",
             "pt-BR": "Forca",
-            "cs-CZ": "Gilotina",
+            "cs-CZ": "Šibenice",
             "ja-JP": "絞首台",
             "pl-PL": "Szubienica",
             "ru-RU": "Виселица",

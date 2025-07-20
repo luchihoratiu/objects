@@ -1,20 +1,13 @@
 {
     "id": "rct2tt.footpath_surface.queue_rainbow",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2tt"
-    ],
+    "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/RANBPATH.DAT[72]",
-        "$RCT2:OBJDATA/RANBPATH.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/RANBPATH.DAT[72]", "$RCT2:OBJDATA/RANBPATH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Rainbow Queue",
@@ -31,7 +24,8 @@
             "ru-RU": "Радужная очередь",
             "ja-JP": "虹の行列",
             "gl-ES": "Fila do Arco da vella",
-            "cs-CZ": "Duhová fronta"
+            "cs-CZ": "Duhová fronta",
+            "es-ES": "Cola Arcoíris"
         }
     }
 }

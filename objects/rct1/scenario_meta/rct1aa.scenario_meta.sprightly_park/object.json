@@ -1,18 +1,11 @@
 {
     "id": "rct1aa.scenario_meta.sprightly_park",
-    "authors": [
-        "Chris Sawyer"
-    ],
+    "authors": ["Chris Sawyer"],
     "version": "1.0",
     "originalId": "3DAB4F0A|STEX932 |F0644EE1",
-    "sourceGame": [
-        "rct1aa"
-    ],
+    "sourceGame": ["rct1aa"],
     "objectType": "scenario_meta",
-    "images": [
-        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
-        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
-    ],
+    "images": [{"path": "images/minimap.png","palette": "keep","format": "raw"},{"path": "images/screenshot.png","palette": "keep","format": "raw"}],
     "strings": {
         "name": {
             "ca-ES": "El parc alegre",
@@ -26,7 +19,8 @@
             "zh-CN": "活泼公园",
             "pl-PL": "Dziarski Park",
             "gl-ES": "Parque Animado",
-            "ar-EG": "حديقة سبرايتلي"
+            "ar-EG": "حديقة سبرايتلي",
+            "ro-RO": "Parcul Sprightly"
         },
         "park_name": {
             "ca-ES": "El parc alegre",
@@ -40,7 +34,8 @@
             "zh-CN": "活泼公园",
             "pl-PL": "Dziarski Park",
             "gl-ES": "Parque Animado",
-            "ar-EG": "حديقة سبرايتلي"
+            "ar-EG": "حديقة سبرايتلي",
+            "ro-RO": "Parcul Sprightly"
         },
         "details": {
             "ca-ES": "Aquest parc envellit té moltes atraccions històriques però està massa endeutat.",

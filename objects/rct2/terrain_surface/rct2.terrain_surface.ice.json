@@ -1,30 +1,17 @@
 {
     "id": "rct2.terrain_surface.ice",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SIC|00000000",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 130,
-        "mapColours": [
-            141,
-            141
-        ],
+        "mapColours": [141, 141],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
-    "images": [
-        "$G1[5586]",
-        "$G1[29007..29012]",
-        "$G1[2143..2199]"
-    ],
+    "images": ["$G1[5586]", "$G1[29007..29012]", "$G1[2143..2199]"],
     "strings": {
         "name": {
             "en-GB": "Ice",
@@ -42,7 +29,8 @@
             "zh-CN": "冰",
             "ru-RU": "Лёд",
             "gl-ES": "Xeo",
-            "cs-CZ": "Led"
+            "cs-CZ": "Led",
+            "es-ES": "Hielo"
         }
     }
 }

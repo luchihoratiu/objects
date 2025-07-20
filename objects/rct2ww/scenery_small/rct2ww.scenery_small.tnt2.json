@@ -1,8 +1,6 @@
 {
     "id": "rct2ww.scenery_small.tnt2",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0511|TNT2    |B3436ECF",
     "sourceGame": "rct2ww",
@@ -16,12 +14,7 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TNT2.DAT[0]",
-        "$RCT2:OBJDATA/TNT2.DAT[2]",
-        "$RCT2:OBJDATA/TNT2.DAT[1]",
-        "$RCT2:OBJDATA/TNT2.DAT[3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TNT2.DAT[0]", "$RCT2:OBJDATA/TNT2.DAT[2]", "$RCT2:OBJDATA/TNT2.DAT[1]", "$RCT2:OBJDATA/TNT2.DAT[3]"],
     "strings": {
         "name": {
             "en-GB": "TNT Barrels",
@@ -32,7 +25,7 @@
             "nl-NL": "TNT-vaten",
             "sv-SE": "TNT-tunnor",
             "zh-CN": "炸药筒",
-            "cs-CZ": "Barel dynamitu",
+            "cs-CZ": "Sudy s dynamitem",
             "ko-KR": "TNT 통",
             "pl-PL": "Beczułki z dynamitem",
             "ru-RU": "Бочки с TNT",
