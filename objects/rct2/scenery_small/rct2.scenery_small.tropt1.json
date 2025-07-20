@@ -1,9 +1,6 @@
 {
     "id": "rct2.scenery_small.tropt1",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|TROPT1  |A63875FC",
     "sourceGame": "rct2",
@@ -16,9 +13,7 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": [
-        "$RCT2:OBJDATA/TROPT1.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TROPT1.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Tree",
@@ -39,7 +34,8 @@
             "eo-ZZ": "Arbo",
             "ca-ES": "Arbre",
             "fi-FI": "Puu",
-            "gl-ES": "Árbore"
+            "gl-ES": "Árbore",
+            "ro-RO": "Copac"
         }
     }
 }

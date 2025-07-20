@@ -1,15 +1,9 @@
 {
     "id": "rct2.scenery_small.tot3",
-    "authors": [
-        "Chris Sawyer",
-        "Simon Foster"
-    ],
+    "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|TOT3    |CD91F78F",
-    "sourceGame": [
-        "rct2",
-        "rct1ll"
-    ],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
@@ -20,9 +14,7 @@
         "isTree": true,
         "shape": "1/4"
     },
-    "images": [
-        "$RCT2:OBJDATA/TOT3.DAT[0..3]"
-    ],
+    "images": ["$RCT2:OBJDATA/TOT3.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Tree",
@@ -43,7 +35,8 @@
             "eo-ZZ": "Arbo",
             "ca-ES": "Arbre",
             "fi-FI": "Puu",
-            "gl-ES": "Árbore"
+            "gl-ES": "Árbore",
+            "ro-RO": "Copac"
         }
     }
 }
